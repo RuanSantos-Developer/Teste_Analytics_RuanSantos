@@ -1,13 +1,7 @@
-# Dependências do projeto Teste_Analytics_NomeSobrenome
+# Manipulação e Análise de Dados
+pandas==2.3.1
+numpy==2.2.6
 
-# Manipulação e análise de dados
-pandas==2.2.2
-numpy==1.26.4
-
-# Visualização de dados
-matplotlib==3.9.0
+# Visualização de Dados
+matplotlib==3.10.5
 seaborn==0.13.2
-
-# Utilidades
-jupyter==1.0.0
-notebook==7.2.1

@@ -1,120 +1,220 @@
-# 🧮 Teste_Analytics_NomeSobrenome
+![Logo Quod](https://media.licdn.com/dms/image/v2/D4D12AQGyh3Fqd8fRqw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1731338204044?e=2147483647&v=beta&t=_s1cDhpEjud5C_hLV3s7gA5s58TMrQeZRXslzYWH-lU)
 
-Repositório criado para o **Teste Técnico para Estagiário de Analytics — Quod**.  
-O objetivo deste projeto é demonstrar habilidades em **análise de dados**, **programação em Python**, **SQL**, **interpretação de resultados** e **documentação técnica**.
-
+# Teste Analytics - Ruan Santos
 ---
+# 📋 Sobre o Projeto
+Este repositório contém a resolução do teste técnico para a vaga de **Estagiário de Analytics na Quod**. O projeto abrange análise de dados de vendas utilizando Python, SQL e visualização de dados, demonstrando habilidades em limpeza, exploração e interpretação de dados.
+Período de desenvolvimento: 02/10/2025 - 13/10/2025
 
-## 📁 Estrutura do Repositório
+# 📁 Estrutura do Repositório
+     Teste_Analytics_RuanSantos/
 
-Teste_Analytics_NomeSobrenome/
-│
-├── data/
-│ ├── data_simulada.csv # Dataset original simulado
-│ └── data_clean.csv # Dataset após limpeza e tratamento
-│
-├── scripts/
-│ ├── 01_simulacao_dados.py # Geração e simulação dos dados de vendas
-│ ├── 02_limpeza_e_analise.py # Limpeza, tratamento e cálculo de métricas
-│ ├── 03_visualizacoes.py # Criação de gráficos e tendências
-│ └── consultas_sql.sql # Consultas SQL e explicações
-│
-├── relatorio_insights.md # Relatório final com análise e insights
-├── requirements.txt # Lista de dependências do projeto
-└── README.md # Documento explicativo (este arquivo)
+    ├── docs/
+    │   ├── README.md
+    │   └── relatorio_insights.md
+    ├── notebooks/
+    │   ├── Dataframes/
+    │   │   ├── data_clean.csv
+    │   │   └── vendas_raw.csv
+    │   ├── criacao_dataset.ipynb
+    │   ├── limpeza_e_analise.ipynb
+    │   └── visualizacoes.ipynb
+    ├── sql/
+    │   ├── consultas_sql.sql
+    │   └── criacao_db.sql
+    ├── .gitignore
+    └── requirements.txt
+    
+# 🚀 Como Executar
+### Pré-requisitos
 
-yaml
-Copiar código
+ - Python 3.8+
+ - pip (gerenciador de pacotes)
+ - IDE recomendada para replicação do projeto:  Visual Studio Code
 
----
 
-## 🚀 Como Executar os Scripts
+**Instalação:**
+- git clone **https://github.com/RuanSantos-Developer/Teste_Analytics_RuanSantos.git**
 
-### 1️⃣ Clonar o Repositório
-```bash
-git clone https://github.com/SeuUsuario/Teste_Analytics_NomeSobrenome.git
-cd Teste_Analytics_NomeSobrenome
-2️⃣ Instalar as Dependências
-bash
-Copiar código
-pip install -r requirements.txt
-3️⃣ Executar os Scripts
-Gerar dados simulados:
 
-bash
-Copiar código
-python scripts/01_simulacao_dados.py
-Limpar e analisar dados:
+# Instale os requisitos
 
-bash
-Copiar código
-python scripts/02_limpeza_e_analise.py
-Gerar visualizações:
+    terminal
 
-bash
-Copiar código
-python scripts/03_visualizacoes.py
-📊 Descrição das Etapas
-🔹 Parte 1 — Programação em Python
-Simulação de um dataset de vendas com período de 01/01/2023 a 31/12/2023.
+    pip install -r requirements.txt
 
-Limpeza dos dados: remoção de duplicatas, tratamento de valores nulos e conversão de tipos.
+# 💻 Executando os Scripts
 
-Cálculo do total de vendas (Quantidade × Preço) e identificação do produto com maior volume de vendas.
+**Observações:**
 
-Criação de gráficos de tendência mensal por receita e quantidade vendida.
+ - Caso não queira executar uma celula de cada vez, clique na opção de **"Run All"** que irá executar o notebook inteiro.
 
-🔹 Parte 2 — SQL
-Consultas para:
+### Ordem de execução obrigatória:
 
-Somar o total de vendas por produto e categoria, ordenando por maior valor.
+ - **Criação do dataset:**
+  criacao_dataset.ipynb
 
-Identificar produtos com menor volume de vendas no mês de junho de 2024.
+ - **Limpeza e Analise:**
+  limpeza_e_analise.ipynb
 
-Arquivo: consultas_sql.sql
+ - **Visualização:**
+  visualizacoes.ipynb
 
-🔹 Parte 3 — Interpretação de Resultados
-Análise dos principais padrões e sazonalidades.
+# 📊 Dependências
 
-Relatório de até 300 palavras com recomendações estratégicas.
+#### Manipulação e Análise de Dados
+ - pandas==2.3.1
+ - numpy==2.2.6
 
-Documento: relatorio_insights.md
+#### Visualização de Dados
+ - matplotlib==3.10.5
+ - seaborn==0.13.2
 
-📈 Principais Bibliotecas Utilizadas
-Biblioteca	Função Principal
-pandas	Manipulação e análise de dados
-numpy	Cálculos e operações numéricas
-matplotlib	Criação de gráficos e visualizações
-seaborn	Visualizações estatísticas aprimoradas
-os	Manipulação de diretórios e caminhos de arquivos (biblioteca padrão do Python)
 
-Todas as dependências estão listadas em requirements.txt
+# 🔍 Metodologia e Suposições
+### Simulação dos Dados
+- Período: 01/01/2023 a 31/12/2023
 
-💭 Suposições Feitas
-Os dados de vendas foram simulados com base em cenários realistas do varejo (categorias, preços, volumes).
+#### Características do Dataset:
 
-As variações mensais refletem padrões sazonais de consumo, como aumentos em meses específicos.
+- Total de registros: 3000 - **Pode ser ajustado porém tratamentos e insights teriam que ser reformulados.**
+- Dataset simulado: Loja de construção e ferramentas
+- Categorias: Ferramentas, Elétrica, Hidráulica, Segurança e EPI, Jardinagem, Tintas e Acabamento, Construção e Estrutura
+- Distribuição de preços: R$9.90 até R$899.00
 
-Não há integração com banco de dados real — as análises são puramente analíticas e locais.
+## Suposições adotadas:
+   
+ - Valores faltantes: Introduzidos intencionalmente em **6%** dos registros para simular dados reais
+ - Duplicatas: **2%** registros duplicados inseridos para demonstrar processo de limpeza
+ - Sazonalidade: Implementada **aleatoriamente**
+ - Distribuição de vendas: Implementada **aleatóriamente**
 
-As métricas e gráficos foram gerados em Python 3.10+.
+ #### SQL
 
-🧾 Entrega
-Repositório: https://github.com/SeuUsuario/Teste_Analytics_NomeSobrenome
+ - Assumi criar o arquivo "criacao_db.sql" que contem scripts para criação, inserção de um banco de dados e da tabela "data_clean" para testes em SGBD
+ - **Em caso de testes recomendo o [SQLiteOnline](https://sqliteonline.com/) pela facilidade**
 
-E-mail de envio: izabella.ruggi@quod.com.br
+## Tratamento de Dados
+#### Limpeza realizada:
 
-Assunto do e-mail: Entrega do Teste para Estagiário de Analytics - Nome Sobrenome
+ - Remoção de **60** duplicatas identificadas
+ - Tratamento de **180** valores faltantes
+ - Conversão de tipos: datetime, category, period
 
-Prazo de entrega: até 13/10
+# 📈 Principais Resultados
+#### Parte 1: Análise de Dados
+Produto com maior volume de vendas **(em 3000 registros totais)**:
 
-👨‍💻 Autor
-Nome Sobrenome
-Candidato à vaga de Estagiário de Analytics – Quod
+ - Produto: **Parafusadeira**
+ - Total de vendas: **R$85.714,20**
+ - Quantidade vendida: **19.980**
 
-📧 Email: seuemail@email.com
-💼 LinkedIn
-🧠 GitHub
+## Tendências identificadas:
 
-yaml
-Copiar código
+#### 1° Insight
+
+- Crescimento consistente da receita ao longo do ano
+
+A receita total aumentou significativamente de fevereiro a outubro de 2023, atingindo o pico em outubro, com cerca de R$ 7,19 milhões
+
+Isso sugere uma tendência positiva de vendas, possivelmente impulsionada por sazonalidade (como aumento nas obras e reformas antes do fim do ano).
+
+#### 2° Insight
+
+ - Quantidade vendida não segue exatamente a mesma tendência da receita
+
+Embora a receita tenha subido continuamente até outubro, a quantidade de itens vendidos oscilou — por exemplo, setembro teve menos itens vendidos que agosto, mas maior receita.
+
+Isso indica aumento no preço médio ou venda de produtos de maior valor agregado nesse período.
+
+#### 3° Insight
+
+- Outubro é o mês mais lucrativo
+
+Com receita total de R$ 7,19 milhões e quase 69 mil produtos vendidos, outubro representa o melhor desempenho tanto em valor quanto em volume, sendo um mês estratégico para campanhas de marketing e estoque reforçado.
+
+## Parte 2: Consultas SQL
+
+    Listar o nome do produto, categoria e a soma total de vendas (Quantidade * Preço) para cada produto. 
+    Ordene o resultado pelo valor total de vendas em ordem decrescente. 
+
+    SELECT
+        nome,
+        categoria,
+        SUM(quantidade * preco) AS TotalVendas
+    FROM
+        data_clean
+    GROUP BY
+        nome
+    ORDER BY
+        TotalVendas DESC;
+
+#
+
+    Identificar os produtos que venderam menos no mês de junho de 2023. 
+
+    SELECT 
+        nome AS nome_produto,
+        categoria AS categoria_produto,
+        SUM(quantidade) AS total_quantidade_vendida
+    FROM 
+        data_clean
+    WHERE 
+        data_venda BETWEEN '2023-06-01' AND '2023-06-30'
+    GROUP BY 
+        categoria_produto
+    ORDER BY 
+        total_quantidade_vendida ASC
+    LIMIT 3;
+
+## Parte 3: Relatório e Insights
+Confira o relatório completo em docs/relatorio_insights.md
+
+**Resumo executivo:**
+
+- O relatório conclui que a empresa apresenta crescimento consistente, mas pode otimizar significativamente a rentabilidade e a eficiência operacional através do planejamento sazonal, mix de produtos estratégico e ações de marketing direcionadas.
+
+
+# 📊 Visualizações
+### As principais visualizações geradas incluem:
+
+ - Tendência de Vendas Mensais: Gráfico de linha mostrando evolução das vendas por quantidade
+
+ - Tendência de Vendas Mensais: Gráfico de linha mostrando evolução das vendas por receita
+
+**Todas as visualizações estão disponíveis em visualizacoes.ipynb**
+
+# 🛠️ Tecnologias Utilizadas
+
+ - Linguagem: Python
+ - Análise de Dados: Pandas, NumPy
+ - Visualização: Matplotlib, Seaborn
+ - Banco de Dados: SQLite
+ - Controle de Versão: Git/GitHub
+ - Documentação: Markdown
+
+
+# 📝 Observações Técnicas
+**Desafios Encontrados**
+
+ - Criação do script para simulação do dataset, inserção de valores nulos e inserção de duplicadas sem enviesar o dataset.
+ - Retirar insights relevantes para tomadas de decisão
+
+# 👤 Autor
+Ruan Oliveira dos Santos
+
+Email: ruan.oliveira.profissional@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/ruan-santos-780442218/
+
+GitHub: @RuanSantos-Developer
+
+# 📄 Licença
+Este projeto foi desenvolvido como parte de um processo seletivo e é destinado apenas para fins avaliativos.
+
+# 🙏 Agradecimentos
+Agradeço à Quod pela oportunidade de participar deste processo seletivo e demonstrar minhas habilidades em Analytics.
+
+Data de entrega: 13/10/2024
+
+
