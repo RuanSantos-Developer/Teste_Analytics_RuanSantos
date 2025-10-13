@@ -97,8 +97,8 @@ Período de desenvolvimento: 02/10/2025 - 13/10/2025
 ## Tratamento de Dados
 #### Limpeza realizada:
 
- - Remoção de **60** duplicatas identificadas
- - Tratamento de **180** valores faltantes
+ - Remoção de **6%** duplicatas identificadas
+ - Tratamento de **182** valores faltantes
  - Conversão de tipos: datetime, category, period
 
 # 📈 Principais Resultados
