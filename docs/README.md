@@ -106,7 +106,7 @@ Período de desenvolvimento: 02/10/2025 - 13/10/2025
 Produto com maior volume de vendas **(em 3000 registros totais)**:
 
  - Produto: **Parafusadeira**
- - Total de vendas: **R$85.714,20**
+ - Total de vendas: **R$17.121,39**
  - Quantidade vendida: **3.991**
 
 ## Tendências identificadas:
