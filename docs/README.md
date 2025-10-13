@@ -107,7 +107,7 @@ Produto com maior volume de vendas **(em 3000 registros totais)**:
 
  - Produto: **Parafusadeira**
  - Total de vendas: **R$85.714,20**
- - Quantidade vendida: **19.980**
+ - Quantidade vendida: **3.991**
 
 ## Tendências identificadas:
 

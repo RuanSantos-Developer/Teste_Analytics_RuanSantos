@@ -1,0 +1,3061 @@
+id,data,produto,categoria,quantidade,pagamento,preco_unitario
+1,2023-07-09,Parafusadeira,Ferramentas,66.0,Crédito,429.0
+2,2023-11-22,Serrote,Ferramentas,10.0,Boleto,64.9
+3,2023-02-10,Regador (10L),Jardinagem,56.0,Crédito,39.9
+4,2023-05-27,Cimento (50kg),Construção e Estrutura,59.0,Débito,39.9
+5,2023-07-23,Chave de Fenda,Ferramentas,77.0,Crédito,24.5
+6,2023-12-16,Máscara Respiratória,Segurança e EPI,5.0,Dinheiro,29.9
+7,2023-11-13,Pá,Jardinagem,72.0,Carteira Digital,74.9
+8,2023-08-24,Capacete,Segurança e EPI,34.0,Dinheiro,
+9,2023-05-11,Disjuntor,Elétrica,51.0,Boleto,45.0
+10,2023-03-14,Argamassa (20kg),Construção e Estrutura,50.0,Carteira Digital,24.9
+11,2023-02-02,Enxada,Jardinagem,64.0,Carteira Digital,89.9
+12,2023-10-15,Verniz (900ml),Tintas e Acabamento,16.0,Pix,139.9
+13,2023-11-08,Registro de Água,Hidráulica,1.0,Crédito,54.9
+14,2023-10-06,Verniz (900ml),Tintas e Acabamento,85.0,Transferência Bancária,139.9
+15,2023-04-09,Capacete,Segurança e EPI,20.0,Transferência Bancária,49.9
+16,2023-03-01,"Tinta Esmalte (3,6L)",Tintas e Acabamento,38.0,Transferência Bancária,229.0
+17,2023-12-02,Lixa (Folha),Tintas e Acabamento,55.0,Carteira Digital,4.9
+18,2023-10-14,Bomba de água,Hidráulica,10.0,Débito,899.0
+19,2023-12-21,Botina,Segurança e EPI,1.0,Boleto,149.0
+20,2023-05-11,Registro de Água,Hidráulica,30.0,Dinheiro,54.9
+21,2023-04-25,Alicate,Ferramentas,3.0,Dinheiro,41.9
+22,2023-05-31,Alicate,Ferramentas,32.0,Carteira Digital,41.9
+23,2023-08-04,Selador (5L),Tintas e Acabamento,12.0,Carteira Digital,99.9
+24,2023-05-01,Lanterna,Elétrica,51.0,Crédito,59.9
+25,2023-06-26,Válvula de Descarga,Hidráulica,82.0,Crédito,119.0
+26,2023-09-16,Colete Reflexivo,Segurança e EPI,30.0,Transferência Bancária,39.9
+27,2023-04-18,Interruptor,Elétrica,27.0,Transferência Bancária,12.9
+28,2023-09-02,Tijolo,Construção e Estrutura,42.0,Transferência Bancária,2.0
+29,2023-06-18,Argamassa (20kg),Construção e Estrutura,51.0,Pix,24.9
+30,2023-07-20,Trena,Ferramentas,32.0,Transferência Bancária,32.0
+31,2023-07-24,Capacete,Segurança e EPI,1.0,Carteira Digital,49.9
+32,2023-07-13,Registro de Água,Hidráulica,63.0,Carteira Digital,54.9
+33,2023-09-06,Registro de Água,Hidráulica,46.0,Boleto,54.9
+34,2023-03-22,Mangueira Jardim (30m),Jardinagem,18.0,Carteira Digital,
+35,2023-04-03,Parafusadeira,Ferramentas,67.0,Dinheiro,429.0
+36,2023-01-24,Alicate,Ferramentas,33.0,Dinheiro,41.9
+37,2023-04-28,Tomada,Elétrica,48.0,Transferência Bancária,9.9
+38,2023-03-05,Regador (10L),Jardinagem,58.0,Crédito,39.9
+39,2023-01-17,Máscara Respiratória,Segurança e EPI,56.0,Dinheiro,29.9
+40,2023-03-03,Tinta Acrílica (18L),Tintas e Acabamento,25.0,Débito,249.0
+41,2023-07-29,Cimento (50kg),Construção e Estrutura,56.0,Carteira Digital,39.9
+42,2023-06-10,Lâmpada LED,Elétrica,98.0,Transferência Bancária,14.9
+43,2023-01-17,Cano PVC (6m),Hidráulica,18.0,Transferência Bancária,29.9
+44,2023-06-08,Parafusadeira,Ferramentas,53.0,Carteira Digital,429.0
+45,2023-11-09,Rolo de Pintura,Tintas e Acabamento,36.0,Transferência Bancária,24.9
+46,2023-05-21,Lanterna,Elétrica,55.0,Boleto,59.9
+47,2023-02-28,Bloco de Concreto,Construção e Estrutura,43.0,Dinheiro,6.0
+48,2023-08-03,Carrinho de Mão,Jardinagem,64.0,Transferência Bancária,359.0
+49,2023-12-25,Rolo de Pintura,Tintas e Acabamento,40.0,Débito,24.9
+50,2023-05-08,Óculos de Proteção,Segurança e EPI,4.0,Transferência Bancária,24.9
+51,2023-03-03,Sementes de Grama (1kg),Jardinagem,22.0,Débito,19.9
+52,2023-05-09,Rolo de Pintura,Tintas e Acabamento,11.0,Carteira Digital,24.9
+53,2023-09-21,Tinta Acrílica (18L),,5.0,Crédito,249.0
+54,2023-08-28,Martelo,Ferramentas,6.0,Transferência Bancária,79.9
+55,2023-08-29,Interruptor,Elétrica,28.0,Carteira Digital,12.9
+56,2023-01-31,Massa Corrida (25kg),Tintas e Acabamento,19.0,Débito,89.9
+57,2023-06-08,Válvula de Descarga,Hidráulica,37.0,Débito,119.0
+58,2023-09-08,Parafusadeira,Ferramentas,17.0,Boleto,429.0
+59,2023-09-17,Disjuntor,Elétrica,21.0,Dinheiro,45.0
+60,2023-06-14,Verniz (900ml),Tintas e Acabamento,4.0,Pix,139.9
+61,2023-02-20,Caixa de água (500L),Hidráulica,41.0,Débito,799.0
+62,2023-02-16,Cimento (50kg),Construção e Estrutura,44.0,Carteira Digital,39.9
+63,2023-02-23,Tomada,Elétrica,42.0,Boleto,9.9
+64,2023-06-09,Argamassa (20kg),Construção e Estrutura,73.0,Crédito,24.9
+65,2023-04-29,Botina,Segurança e EPI,86.0,Carteira Digital,
+66,2023-04-10,Pincel,Tintas e Acabamento,14.0,Dinheiro,12.9
+67,2023-09-02,Pá,Jardinagem,51.0,Dinheiro,74.9
+68,2023-06-09,Verga Metálica (2m),Construção e Estrutura,40.0,Pix,119.0
+69,2023-01-07,Alicate,Ferramentas,42.0,Boleto,
+70,2023-10-19,Mangueira (20m),,37.0,Crédito,59.0
+71,2023-07-29,Cimento (50kg),Construção e Estrutura,58.0,Débito,39.9
+72,2023-07-28,Colete Reflexivo,Segurança e EPI,80.0,Débito,39.9
+73,2023-11-19,Furadeira,Ferramentas,68.0,Crédito,499.9
+74,2023-08-18,Mangueira Jardim (30m),Jardinagem,62.0,Pix,69.9
+75,2023-07-12,Alicate,Ferramentas,52.0,Pix,41.9
+76,2023-11-06,Registro de Água,Hidráulica,19.0,Dinheiro,54.9
+77,2023-04-11,Pá,Jardinagem,62.0,Transferência Bancária,74.9
+78,2023-03-11,Parafusadeira,Ferramentas,56.0,Crédito,429.0
+79,2023-10-30,Serrote,Ferramentas,69.0,Transferência Bancária,64.9
+80,2023-03-24,Protetor Auricular,Segurança e EPI,22.0,Crédito,9.9
+81,2023-01-29,Alicate,Ferramentas,71.0,Crédito,41.9
+82,2023-11-25,Pá,Jardinagem,54.0,Dinheiro,74.9
+83,2023-11-21,Rolo de Pintura,Tintas e Acabamento,42.0,Débito,24.9
+84,2023-11-29,Tomada,Elétrica,99.0,Transferência Bancária,9.9
+85,2023-09-28,Registro de Água,Hidráulica,92.0,Débito,54.9
+86,2023-03-24,Carrinho de Mão,Jardinagem,54.0,Carteira Digital,359.0
+87,2023-12-22,Mangueira (20m),Hidráulica,96.0,Boleto,59.0
+88,2023-02-17,Regador (10L),Jardinagem,86.0,Crédito,39.9
+89,2023-10-19,Cano PVC (6m),Hidráulica,6.0,Boleto,29.9
+90,2023-03-29,Extensão (5m),Elétrica,74.0,Dinheiro,39.9
+91,2023-12-15,Disjuntor,Elétrica,74.0,Crédito,45.0
+92,2023-11-10,Máscara Respiratória,Segurança e EPI,72.0,Dinheiro,29.9
+93,2023-03-09,Válvula de Descarga,Hidráulica,64.0,Carteira Digital,119.0
+94,2023-12-30,Areia (20kg),Construção e Estrutura,34.0,Crédito,14.9
+95,2023-05-15,Verniz (900ml),Tintas e Acabamento,83.0,Transferência Bancária,139.9
+96,2023-06-09,Bloco de Concreto,Construção e Estrutura,9.0,Carteira Digital,6.0
+97,2023-07-17,Tijolo,Construção e Estrutura,8.0,Crédito,2.0
+98,2023-07-29,Telha Cerâmica,Construção e Estrutura,78.0,Boleto,7.9
+99,2023-08-09,Selador (5L),Tintas e Acabamento,87.0,Transferência Bancária,99.9
+100,2023-07-21,Telha Cerâmica,Construção e Estrutura,84.0,Carteira Digital,7.9
+101,2023-05-29,Interruptor,Elétrica,61.0,Transferência Bancária,12.9
+102,2023-05-18,Lanterna,Elétrica,47.0,Débito,59.9
+103,2023-10-04,Fio Elétrico (100m),Elétrica,95.0,Pix,3.5
+104,2023-01-24,Botina,Segurança e EPI,56.0,Dinheiro,149.0
+105,2023-03-05,Parafusadeira,Ferramentas,45.0,Transferência Bancária,429.0
+106,2023-06-09,Alicate,Ferramentas,98.0,Boleto,41.9
+107,2023-06-14,Protetor Auricular,Segurança e EPI,45.0,Transferência Bancária,9.9
+108,2023-04-06,Botina,Segurança e EPI,7.0,Pix,149.0
+109,2023-07-17,Serrote,Ferramentas,57.0,Pix,64.9
+110,2023-09-29,Argamassa (20kg),Construção e Estrutura,48.0,Crédito,24.9
+111,2023-01-29,Martelo,Ferramentas,80.0,Boleto,79.9
+112,2023-08-25,Lâmpada LED,Elétrica,39.0,Carteira Digital,14.9
+113,2023-10-13,Válvula de Descarga,Hidráulica,21.0,Pix,119.0
+114,2023-09-15,Pincel,Tintas e Acabamento,33.0,Carteira Digital,12.9
+115,2023-02-09,Telha Cerâmica,Construção e Estrutura,50.0,Carteira Digital,7.9
+116,2023-06-23,Óculos de Proteção,Segurança e EPI,99.0,Crédito,24.9
+117,2023-06-11,Lâmpada LED,Elétrica,44.0,Boleto,14.9
+118,2023-02-19,Caixa de água (500L),Hidráulica,61.0,Pix,799.0
+119,2023-04-12,Massa Corrida (25kg),Tintas e Acabamento,75.0,Pix,89.9
+120,2023-01-19,Válvula de Descarga,Hidráulica,6.0,Pix,119.0
+121,2023-04-10,Fio Elétrico (100m),Elétrica,34.0,Pix,3.5
+122,2023-02-24,Torneira,Hidráulica,97.0,Dinheiro,79.0
+123,2023-01-01,Pilha AA,Elétrica,37.0,Crédito,6.9
+124,2023-11-17,Pá,Jardinagem,56.0,Carteira Digital,74.9
+125,2023-07-17,Extensão (5m),Elétrica,3.0,Boleto,39.9
+126,2023-07-21,Furadeira,Ferramentas,4.0,Carteira Digital,499.9
+127,2023-11-13,Cano PVC (6m),Hidráulica,3.0,Débito,29.9
+128,2023-09-30,Verga Metálica (2m),Construção e Estrutura,49.0,Carteira Digital,119.0
+129,2023-02-20,Tomada,Elétrica,8.0,Crédito,9.9
+130,2023-08-19,Lâmpada LED,Elétrica,13.0,Transferência Bancária,14.9
+131,2023-06-20,Fio Elétrico (100m),Elétrica,66.0,Pix,3.5
+132,2023-03-25,Luva de Proteção,Segurança e EPI,39.0,Carteira Digital,19.9
+133,2023-03-17,Colete Reflexivo,Segurança e EPI,57.0,Débito,39.9
+134,2023-04-08,Máscara Respiratória,Segurança e EPI,12.0,Crédito,29.9
+135,2023-01-17,Martelo,Ferramentas,12.0,Pix,79.9
+136,2023-08-30,Extensão (5m),Elétrica,12.0,Dinheiro,39.9
+137,2023-04-09,Pincel,Tintas e Acabamento,,Carteira Digital,12.9
+138,2023-12-06,Lanterna,Elétrica,9.0,,59.9
+139,2023-10-14,Bloco de Concreto,Construção e Estrutura,10.0,Pix,6.0
+140,2023-02-11,Massa Corrida (25kg),Tintas e Acabamento,70.0,Crédito,89.9
+141,2023-04-22,Cano PVC (6m),Hidráulica,91.0,Carteira Digital,29.9
+142,2023-11-19,Máscara Respiratória,Segurança e EPI,83.0,Débito,29.9
+143,2023-02-14,Tesoura de Poda,Jardinagem,20.0,Boleto,59.9
+144,2023-02-10,Serrote,Ferramentas,69.0,Boleto,64.9
+145,2023-01-22,Rolo de Pintura,Tintas e Acabamento,47.0,Transferência Bancária,24.9
+146,2023-09-15,Chave de Fenda,Ferramentas,87.0,Crédito,24.5
+147,2023-08-22,Botina,Segurança e EPI,87.0,Transferência Bancária,149.0
+148,2023-05-07,Lâmpada LED,Elétrica,49.0,Débito,14.9
+149,2023-07-08,Trena,Ferramentas,58.0,Débito,32.0
+150,2023-11-27,Mangueira (20m),Hidráulica,26.0,Transferência Bancária,59.0
+151,2023-11-14,Caixa de água (500L),Hidráulica,91.0,Débito,799.0
+152,2023-10-22,Martelo,Ferramentas,28.0,Crédito,79.9
+153,2023-10-26,Regador (10L),Jardinagem,50.0,Carteira Digital,39.9
+154,2023-01-28,Caixa de água (500L),Hidráulica,48.0,Crédito,799.0
+155,2023-12-01,Tinta Acrílica (18L),Tintas e Acabamento,67.0,Pix,249.0
+156,2023-07-25,Parafusadeira,Ferramentas,70.0,Dinheiro,429.0
+157,2023-12-02,Protetor Auricular,Segurança e EPI,75.0,Pix,9.9
+158,2023-06-11,Disjuntor,Elétrica,21.0,Boleto,45.0
+159,2023-10-21,Telha Cerâmica,Construção e Estrutura,83.0,Débito,7.9
+160,2023-07-15,Adubo (5kg),Jardinagem,97.0,Carteira Digital,49.9
+161,2023-06-02,Colete Reflexivo,Segurança e EPI,99.0,Crédito,39.9
+162,2023-03-30,Telha Cerâmica,Construção e Estrutura,91.0,Dinheiro,7.9
+163,2023-01-14,Bomba de água,Hidráulica,48.0,Carteira Digital,899.0
+164,2023-11-22,Bloco de Concreto,Construção e Estrutura,44.0,Crédito,6.0
+165,2023-04-01,Torneira,Hidráulica,89.0,Dinheiro,79.0
+166,2023-07-30,Pincel,Tintas e Acabamento,24.0,Transferência Bancária,12.9
+167,,Chave de Fenda,Ferramentas,42.0,Pix,24.5
+168,2023-12-21,Luva de Proteção,Segurança e EPI,96.0,Boleto,19.9
+169,2023-02-12,Torneira,Hidráulica,91.0,Carteira Digital,79.0
+170,2023-03-31,Disjuntor,Elétrica,57.0,Crédito,45.0
+171,2023-06-13,Torneira,Hidráulica,66.0,Carteira Digital,79.0
+172,2023-09-11,Cimento (50kg),Construção e Estrutura,59.0,Crédito,39.9
+173,2023-11-26,Mangueira (20m),Hidráulica,35.0,Pix,59.0
+174,2023-10-26,Tomada,Elétrica,7.0,Crédito,9.9
+175,2023-01-26,Válvula de Descarga,Hidráulica,2.0,Pix,119.0
+176,2023-04-20,Registro de Água,Hidráulica,22.0,Dinheiro,54.9
+177,2023-10-14,Botina,Segurança e EPI,20.0,Dinheiro,149.0
+178,2023-01-29,Adubo (5kg),Jardinagem,43.0,Carteira Digital,49.9
+179,2023-06-13,Tesoura de Poda,Jardinagem,88.0,Dinheiro,59.9
+180,2023-10-28,Rolo de Pintura,Tintas e Acabamento,6.0,Pix,24.9
+181,2023-05-22,Argamassa (20kg),Construção e Estrutura,13.0,Transferência Bancária,24.9
+182,2023-03-05,Brita (20kg),Construção e Estrutura,15.0,Transferência Bancária,17.9
+183,2023-10-19,Botina,Segurança e EPI,79.0,Transferência Bancária,149.0
+184,2023-04-20,Interruptor,Elétrica,22.0,Pix,12.9
+185,2023-04-03,Válvula de Descarga,Hidráulica,99.0,Débito,119.0
+186,2023-03-21,Brita (20kg),Construção e Estrutura,68.0,Transferência Bancária,17.9
+187,2023-09-21,Mangueira (20m),Hidráulica,68.0,Transferência Bancária,59.0
+188,2023-06-28,Regador (10L),Jardinagem,83.0,Carteira Digital,39.9
+189,2023-03-17,Extensão (5m),Elétrica,77.0,Dinheiro,39.9
+190,2023-12-14,Extensão (5m),Elétrica,69.0,Boleto,39.9
+191,2023-09-12,Bomba de água,Hidráulica,71.0,Transferência Bancária,899.0
+192,2023-07-28,Protetor Auricular,Segurança e EPI,38.0,Boleto,9.9
+193,2023-12-05,Lixa (Folha),Tintas e Acabamento,97.0,Carteira Digital,4.9
+194,2023-07-01,Brita (20kg),Construção e Estrutura,77.0,Crédito,17.9
+195,2023-10-18,Tomada,Elétrica,72.0,Transferência Bancária,9.9
+196,2023-06-10,Adubo (5kg),Jardinagem,28.0,Pix,49.9
+197,2023-04-04,Massa Corrida (25kg),Tintas e Acabamento,93.0,Carteira Digital,89.9
+198,2023-10-22,Pincel,Tintas e Acabamento,38.0,Boleto,12.9
+199,2023-10-13,Trena,Ferramentas,35.0,Carteira Digital,32.0
+200,,Verga Metálica (2m),Construção e Estrutura,95.0,Pix,119.0
+201,2023-08-20,Lixadeira,Ferramentas,18.0,Crédito,389.0
+202,2023-08-03,Mangueira (20m),Hidráulica,100.0,Dinheiro,59.0
+203,2023-09-14,Parafusadeira,Ferramentas,14.0,Crédito,429.0
+204,2023-02-19,Óculos de Proteção,Segurança e EPI,56.0,Dinheiro,24.9
+205,2023-05-07,Furadeira,Ferramentas,45.0,Transferência Bancária,499.9
+206,2023-10-31,Lanterna,Elétrica,86.0,Carteira Digital,59.9
+207,2023-12-09,Selador (5L),Tintas e Acabamento,72.0,Dinheiro,99.9
+208,2023-08-29,Capacete,Segurança e EPI,63.0,Débito,49.9
+209,2023-04-06,Pilha AA,Elétrica,5.0,Débito,6.9
+210,2023-11-02,Colete Reflexivo,Segurança e EPI,11.0,Dinheiro,39.9
+211,2023-01-25,Lâmpada LED,Elétrica,62.0,Carteira Digital,14.9
+212,2023-11-25,Extensão (5m),Elétrica,41.0,Transferência Bancária,39.9
+213,2023-05-29,Lanterna,Elétrica,59.0,Boleto,59.9
+214,2023-06-14,Disjuntor,Elétrica,98.0,Crédito,45.0
+215,2023-11-27,,Elétrica,95.0,Transferência Bancária,6.9
+216,2023-02-27,Lixadeira,Ferramentas,18.0,Dinheiro,389.0
+217,2023-11-25,Tesoura de Poda,Jardinagem,55.0,Crédito,59.9
+218,2023-07-07,Rolo de Pintura,Tintas e Acabamento,31.0,Débito,24.9
+219,2023-01-23,Telha Cerâmica,Construção e Estrutura,29.0,Dinheiro,7.9
+220,2023-10-14,Conexão T,Hidráulica,31.0,Crédito,7.9
+221,2023-08-27,Tesoura de Poda,Jardinagem,87.0,Carteira Digital,59.9
+222,2023-09-20,Cano PVC (6m),Hidráulica,90.0,Pix,29.9
+223,2023-06-28,Disjuntor,Elétrica,75.0,Transferência Bancária,45.0
+224,2023-07-08,Protetor Auricular,Segurança e EPI,82.0,Débito,9.9
+225,2023-09-30,Luva de Proteção,Segurança e EPI,69.0,Crédito,19.9
+226,2023-12-16,Luva de Proteção,Segurança e EPI,72.0,Carteira Digital,19.9
+227,2023-12-16,Colete Reflexivo,Segurança e EPI,11.0,Débito,39.9
+228,2023-01-16,Luva de Proteção,Segurança e EPI,34.0,Crédito,19.9
+229,2023-07-12,Carrinho de Mão,Jardinagem,17.0,Débito,359.0
+230,2023-05-29,Lixa (Folha),Tintas e Acabamento,37.0,Pix,4.9
+231,2023-11-26,Óculos de Proteção,Segurança e EPI,38.0,Boleto,24.9
+232,2023-05-22,Capacete,Segurança e EPI,17.0,Dinheiro,49.9
+233,2023-07-02,Verga Metálica (2m),Construção e Estrutura,83.0,Débito,119.0
+234,2023-01-03,Torneira,Hidráulica,42.0,Débito,79.0
+235,2023-05-03,Adubo (5kg),Jardinagem,9.0,Débito,49.9
+236,2023-07-23,Torneira,Hidráulica,28.0,Pix,79.0
+237,2023-07-12,Conexão T,Hidráulica,65.0,Débito,7.9
+238,2023-11-28,Capacete,Segurança e EPI,72.0,Transferência Bancária,49.9
+239,2023-07-20,Fio Elétrico (100m),Elétrica,9.0,Dinheiro,3.5
+240,2023-12-10,Óculos de Proteção,Segurança e EPI,20.0,Transferência Bancária,24.9
+241,2023-11-21,Tinta Acrílica (18L),Tintas e Acabamento,16.0,Dinheiro,249.0
+242,2023-05-04,Luva de Proteção,Segurança e EPI,40.0,Carteira Digital,19.9
+243,2023-02-05,Óculos de Proteção,Segurança e EPI,43.0,Pix,24.9
+244,2023-01-28,Pincel,Tintas e Acabamento,38.0,Carteira Digital,12.9
+245,2023-08-14,Trena,Ferramentas,29.0,Débito,32.0
+246,2023-08-30,Rolo de Pintura,Tintas e Acabamento,45.0,Carteira Digital,24.9
+247,2023-12-17,Tomada,Elétrica,69.0,Boleto,9.9
+248,2023-03-02,Óculos de Proteção,Segurança e EPI,39.0,Carteira Digital,24.9
+249,2023-04-12,Parafusadeira,Ferramentas,79.0,Pix,429.0
+250,2023-01-09,Alicate,Ferramentas,75.0,Boleto,41.9
+251,2023-09-30,Máscara Respiratória,Segurança e EPI,14.0,Boleto,29.9
+252,2023-01-23,Capacete,Segurança e EPI,10.0,Carteira Digital,49.9
+253,2023-12-08,Colete Reflexivo,Segurança e EPI,77.0,Transferência Bancária,39.9
+254,2023-03-24,Argamassa (20kg),Construção e Estrutura,20.0,Pix,24.9
+255,2023-03-12,Sementes de Grama (1kg),Jardinagem,58.0,Transferência Bancária,19.9
+256,2023-03-22,Caixa de água (500L),Hidráulica,93.0,,799.0
+257,2023-07-07,Tinta Acrílica (18L),Tintas e Acabamento,30.0,Débito,249.0
+258,2023-10-24,Luva de Proteção,Segurança e EPI,75.0,Boleto,19.9
+259,2023-07-21,Verniz (900ml),Tintas e Acabamento,56.0,Dinheiro,139.9
+260,2023-06-12,Lâmpada LED,Elétrica,29.0,Boleto,14.9
+261,2023-07-14,Lixa (Folha),Tintas e Acabamento,42.0,Débito,4.9
+262,2023-08-22,Adubo (5kg),Jardinagem,22.0,Boleto,49.9
+263,2023-12-02,Adubo (5kg),Jardinagem,46.0,Crédito,49.9
+264,2023-05-04,Torneira,Hidráulica,76.0,Dinheiro,79.0
+265,2023-08-01,Enxada,Jardinagem,51.0,Transferência Bancária,89.9
+266,2023-02-10,Bloco de Concreto,Construção e Estrutura,76.0,Pix,6.0
+267,2023-03-02,Lâmpada LED,Elétrica,17.0,Carteira Digital,
+268,2023-08-26,Colete Reflexivo,Segurança e EPI,9.0,Boleto,39.9
+269,2023-03-10,Sementes de Grama (1kg),Jardinagem,29.0,Dinheiro,19.9
+270,2023-01-02,Chave de Fenda,Ferramentas,24.0,Débito,24.5
+271,2023-11-19,Enxada,Jardinagem,10.0,,89.9
+272,2023-09-17,Tomada,Elétrica,94.0,Dinheiro,9.9
+273,2023-09-27,Cimento (50kg),Construção e Estrutura,22.0,Transferência Bancária,39.9
+274,2023-03-10,Adubo (5kg),Jardinagem,45.0,Crédito,49.9
+275,2023-12-18,Areia (20kg),Construção e Estrutura,93.0,Débito,14.9
+276,2023-05-09,Verga Metálica (2m),Construção e Estrutura,65.0,Carteira Digital,119.0
+277,2023-05-17,Adubo (5kg),,3.0,Débito,49.9
+278,2023-04-25,Tijolo,Construção e Estrutura,91.0,Débito,2.0
+279,2023-12-14,Botina,Segurança e EPI,74.0,Carteira Digital,149.0
+280,2023-05-27,Enxada,Jardinagem,19.0,Transferência Bancária,89.9
+281,2023-10-22,Argamassa (20kg),Construção e Estrutura,77.0,Dinheiro,24.9
+282,2023-04-20,Lanterna,Elétrica,3.0,Carteira Digital,59.9
+283,2023-12-13,Colete Reflexivo,Segurança e EPI,57.0,Crédito,39.9
+284,2023-08-25,Interruptor,Elétrica,26.0,Transferência Bancária,12.9
+285,2023-11-04,Lixadeira,Ferramentas,44.0,Crédito,389.0
+286,2023-10-11,Serrote,Ferramentas,49.0,Boleto,64.9
+287,2023-01-17,Capacete,Segurança e EPI,9.0,Boleto,49.9
+288,2023-07-16,Chave de Fenda,Ferramentas,86.0,Débito,24.5
+289,2023-10-08,Telha Cerâmica,Construção e Estrutura,81.0,Carteira Digital,7.9
+290,2023-01-27,Verga Metálica (2m),Construção e Estrutura,84.0,Débito,119.0
+291,2023-12-01,Extensão (5m),Elétrica,77.0,Transferência Bancária,39.9
+292,2023-11-26,Pá,Jardinagem,1.0,Transferência Bancária,74.9
+293,2023-01-24,Tesoura de Poda,Jardinagem,89.0,Pix,59.9
+294,2023-05-04,Tomada,Elétrica,55.0,Carteira Digital,9.9
+295,2023-03-20,Lanterna,Elétrica,20.0,Boleto,59.9
+296,2023-05-07,Interruptor,Elétrica,84.0,Carteira Digital,12.9
+297,2023-11-18,Trena,Ferramentas,77.0,Transferência Bancária,32.0
+298,2023-06-01,Pá,Jardinagem,75.0,Boleto,74.9
+299,2023-09-16,Registro de Água,Hidráulica,37.0,Carteira Digital,54.9
+300,2023-09-13,Rolo de Pintura,Tintas e Acabamento,17.0,Transferência Bancária,24.9
+301,2023-05-30,Pincel,Tintas e Acabamento,78.0,Boleto,12.9
+302,2023-01-21,Extensão (5m),Elétrica,26.0,Transferência Bancária,39.9
+303,2023-02-21,Adubo (5kg),Jardinagem,94.0,Crédito,49.9
+304,2023-07-30,Botina,Segurança e EPI,49.0,Crédito,149.0
+305,2023-05-05,Pilha AA,Elétrica,16.0,Dinheiro,6.9
+306,2023-03-06,Tesoura de Poda,Jardinagem,21.0,Crédito,59.9
+307,2023-09-27,Telha Cerâmica,Construção e Estrutura,94.0,Pix,7.9
+308,2023-03-25,Massa Corrida (25kg),Tintas e Acabamento,38.0,Carteira Digital,89.9
+309,2023-06-12,Regador (10L),Jardinagem,60.0,Transferência Bancária,39.9
+310,2023-05-06,Pincel,Tintas e Acabamento,74.0,Crédito,12.9
+311,2023-12-19,Mangueira Jardim (30m),Jardinagem,58.0,Transferência Bancária,69.9
+312,2023-01-12,Colete Reflexivo,Segurança e EPI,13.0,Carteira Digital,39.9
+313,2023-06-27,Parafusadeira,Ferramentas,51.0,Transferência Bancária,429.0
+314,2023-02-02,Luva de Proteção,Segurança e EPI,45.0,Carteira Digital,19.9
+315,2023-06-12,Interruptor,Elétrica,60.0,Crédito,12.9
+316,2023-01-15,Pincel,Tintas e Acabamento,60.0,Carteira Digital,12.9
+317,2023-03-09,Interruptor,Elétrica,69.0,Dinheiro,12.9
+318,2023-04-13,Mangueira (20m),Hidráulica,70.0,Carteira Digital,59.0
+319,2023-08-24,Registro de Água,Hidráulica,21.0,Transferência Bancária,54.9
+320,2023-05-07,Serrote,Ferramentas,100.0,Pix,64.9
+321,2023-05-02,Pá,Jardinagem,70.0,Carteira Digital,74.9
+322,2023-01-27,Interruptor,Elétrica,26.0,Débito,12.9
+323,2023-07-20,Adubo (5kg),Jardinagem,93.0,Crédito,49.9
+324,2023-04-14,Válvula de Descarga,Hidráulica,27.0,Dinheiro,
+325,2023-02-03,Serrote,Ferramentas,57.0,Débito,64.9
+326,2023-06-26,Disjuntor,Elétrica,12.0,Dinheiro,45.0
+327,2023-09-15,Lixadeira,Ferramentas,7.0,Débito,389.0
+328,2023-05-09,Alicate,Ferramentas,96.0,Pix,41.9
+329,2023-12-30,Pá,Jardinagem,4.0,Pix,74.9
+330,2023-11-05,Pincel,Tintas e Acabamento,89.0,Carteira Digital,12.9
+331,2023-12-11,Caixa de água (500L),Hidráulica,65.0,Pix,799.0
+332,2023-07-02,Serrote,Ferramentas,72.0,Boleto,64.9
+333,2023-02-22,Luva de Proteção,Segurança e EPI,58.0,Crédito,19.9
+334,2023-09-21,Bomba de água,Hidráulica,81.0,Crédito,899.0
+335,2023-06-14,Máscara Respiratória,Segurança e EPI,83.0,Dinheiro,29.9
+336,,Parafusadeira,Ferramentas,26.0,Débito,429.0
+337,2023-11-16,Cano PVC (6m),Hidráulica,69.0,Débito,29.9
+338,2023-12-01,Selador (5L),Tintas e Acabamento,80.0,Boleto,99.9
+339,2023-08-29,Extensão (5m),Elétrica,56.0,Pix,39.9
+340,2023-03-30,Lixa (Folha),Tintas e Acabamento,49.0,Pix,4.9
+341,2023-06-09,Pincel,Tintas e Acabamento,85.0,Débito,12.9
+342,2023-12-13,Rolo de Pintura,Tintas e Acabamento,22.0,Crédito,24.9
+343,2023-10-03,Mangueira Jardim (30m),Jardinagem,40.0,Boleto,69.9
+344,2023-06-25,Bomba de água,Hidráulica,22.0,Crédito,899.0
+345,2023-09-09,Martelo,Ferramentas,86.0,Dinheiro,79.9
+346,2023-08-14,Verga Metálica (2m),Construção e Estrutura,2.0,Débito,119.0
+347,2023-06-25,Sementes de Grama (1kg),Jardinagem,42.0,Boleto,19.9
+348,2023-10-07,Parafusadeira,Ferramentas,50.0,Boleto,429.0
+349,2023-11-14,Capacete,Segurança e EPI,21.0,Crédito,49.9
+350,2023-02-07,Brita (20kg),Construção e Estrutura,75.0,Crédito,17.9
+351,2023-10-02,Disjuntor,Elétrica,74.0,Boleto,45.0
+352,2023-06-19,Adubo (5kg),Jardinagem,27.0,Crédito,49.9
+353,2023-09-17,Registro de Água,Hidráulica,92.0,Pix,54.9
+354,2023-05-18,Argamassa (20kg),Construção e Estrutura,78.0,Carteira Digital,24.9
+355,2023-12-08,Disjuntor,Elétrica,69.0,Pix,45.0
+356,2023-10-13,Extensão (5m),Elétrica,97.0,Transferência Bancária,39.9
+357,2023-01-24,Registro de Água,Hidráulica,91.0,Transferência Bancária,54.9
+358,2023-07-04,Sementes de Grama (1kg),Jardinagem,53.0,Transferência Bancária,19.9
+359,2023-03-03,Telha Cerâmica,Construção e Estrutura,64.0,Dinheiro,7.9
+360,2023-01-12,Extensão (5m),Elétrica,86.0,Débito,39.9
+361,2023-09-29,Fio Elétrico (100m),Elétrica,,Transferência Bancária,3.5
+362,2023-09-15,Torneira,Hidráulica,87.0,Crédito,79.0
+363,2023-03-28,Rolo de Pintura,Tintas e Acabamento,53.0,Pix,24.9
+364,2023-05-23,Torneira,Hidráulica,51.0,Crédito,79.0
+365,2023-04-30,Lâmpada LED,Elétrica,69.0,Débito,14.9
+366,2023-03-05,Tijolo,Construção e Estrutura,37.0,Pix,2.0
+367,2023-11-03,Adubo (5kg),Jardinagem,43.0,Crédito,49.9
+368,2023-01-30,Torneira,Hidráulica,54.0,Débito,79.0
+369,2023-05-31,Válvula de Descarga,Hidráulica,55.0,Crédito,119.0
+370,2023-10-27,Pilha AA,Elétrica,66.0,Boleto,6.9
+371,2023-07-09,Parafusadeira,Ferramentas,90.0,Débito,429.0
+372,2023-08-26,Capacete,Segurança e EPI,45.0,Carteira Digital,49.9
+373,2023-01-15,Extensão (5m),Elétrica,82.0,Dinheiro,39.9
+374,2023-02-03,Enxada,Jardinagem,83.0,Boleto,89.9
+375,2023-02-13,Trena,Ferramentas,25.0,Transferência Bancária,32.0
+376,2023-05-12,Extensão (5m),Elétrica,71.0,Carteira Digital,39.9
+377,2023-12-01,Rolo de Pintura,Tintas e Acabamento,92.0,Débito,24.9
+378,2023-07-26,Mangueira Jardim (30m),Jardinagem,13.0,Boleto,69.9
+379,2023-06-20,Rolo de Pintura,Tintas e Acabamento,21.0,Crédito,24.9
+380,2023-02-01,,Elétrica,54.0,Pix,39.9
+381,2023-05-21,Parafusadeira,Ferramentas,29.0,Dinheiro,429.0
+382,2023-11-01,Extensão (5m),Elétrica,69.0,Débito,39.9
+383,2023-03-12,Lixa (Folha),Tintas e Acabamento,86.0,Crédito,4.9
+384,2023-10-31,Cimento (50kg),Construção e Estrutura,88.0,Transferência Bancária,39.9
+385,2023-08-17,Registro de Água,Hidráulica,65.0,Pix,54.9
+386,2023-06-12,Lixadeira,Ferramentas,4.0,Transferência Bancária,389.0
+387,2023-05-20,Óculos de Proteção,Segurança e EPI,8.0,Carteira Digital,24.9
+388,2023-09-25,Regador (10L),Jardinagem,30.0,Crédito,39.9
+389,2023-08-17,Mangueira Jardim (30m),Jardinagem,18.0,Pix,69.9
+390,2023-06-28,Rolo de Pintura,Tintas e Acabamento,2.0,Crédito,24.9
+391,2023-12-17,Registro de Água,Hidráulica,50.0,Transferência Bancária,54.9
+392,2023-02-21,Areia (20kg),Construção e Estrutura,33.0,Carteira Digital,14.9
+393,2023-11-24,Parafusadeira,,24.0,Pix,429.0
+394,2023-11-21,Furadeira,Ferramentas,67.0,Pix,499.9
+395,2023-10-22,Luva de Proteção,Segurança e EPI,79.0,Boleto,19.9
+396,2023-01-06,Colete Reflexivo,Segurança e EPI,58.0,Débito,39.9
+397,2023-12-05,Verniz (900ml),Tintas e Acabamento,71.0,Dinheiro,139.9
+398,2023-12-24,Máscara Respiratória,Segurança e EPI,77.0,Débito,29.9
+399,2023-02-28,Caixa de água (500L),Hidráulica,57.0,Boleto,799.0
+400,2023-11-03,Rolo de Pintura,Tintas e Acabamento,14.0,Boleto,24.9
+401,2023-12-29,Pá,Jardinagem,79.0,Boleto,74.9
+402,2023-04-09,Interruptor,Elétrica,4.0,,12.9
+403,2023-02-02,Serrote,Ferramentas,19.0,Transferência Bancária,64.9
+404,2023-08-02,Lixa (Folha),Tintas e Acabamento,1.0,Débito,4.9
+405,2023-12-23,Registro de Água,Hidráulica,97.0,Boleto,54.9
+406,2023-03-08,Capacete,Segurança e EPI,32.0,Transferência Bancária,49.9
+407,2023-12-10,Bomba de água,Hidráulica,9.0,Crédito,899.0
+408,2023-11-16,Torneira,Hidráulica,77.0,Crédito,79.0
+409,2023-12-25,Furadeira,Ferramentas,78.0,Pix,499.9
+410,2023-03-18,Chave de Fenda,Ferramentas,10.0,Débito,24.5
+411,2023-02-09,Tomada,Elétrica,87.0,Pix,9.9
+412,2023-04-22,Óculos de Proteção,Segurança e EPI,31.0,Débito,24.9
+413,2023-06-28,Cano PVC (6m),Hidráulica,25.0,Carteira Digital,29.9
+414,2023-07-29,Tinta Acrílica (18L),Tintas e Acabamento,31.0,Dinheiro,249.0
+415,2023-11-07,Válvula de Descarga,Hidráulica,90.0,Dinheiro,119.0
+416,2023-12-20,Trena,Ferramentas,69.0,Transferência Bancária,32.0
+417,2023-01-16,Cimento (50kg),Construção e Estrutura,66.0,Carteira Digital,39.9
+418,2023-08-18,Mangueira Jardim (30m),Jardinagem,50.0,Transferência Bancária,69.9
+419,2023-08-20,Bloco de Concreto,Construção e Estrutura,79.0,Dinheiro,6.0
+420,2023-07-11,Telha Cerâmica,Construção e Estrutura,82.0,Crédito,7.9
+421,2023-09-08,Verniz (900ml),Tintas e Acabamento,33.0,Boleto,139.9
+422,2023-10-20,Verniz (900ml),Tintas e Acabamento,30.0,Boleto,139.9
+423,2023-03-06,Luva de Proteção,Segurança e EPI,50.0,Pix,19.9
+424,2023-08-03,Mangueira (20m),Hidráulica,42.0,Débito,59.0
+425,2023-05-02,Martelo,Ferramentas,53.0,Carteira Digital,79.9
+426,2023-03-16,Verniz (900ml),Tintas e Acabamento,59.0,Pix,139.9
+427,2023-05-05,Lixadeira,Ferramentas,75.0,Transferência Bancária,389.0
+428,2023-03-29,Selador (5L),Tintas e Acabamento,85.0,,99.9
+429,2023-06-02,Selador (5L),Tintas e Acabamento,43.0,Transferência Bancária,99.9
+430,2023-07-06,Protetor Auricular,Segurança e EPI,88.0,Boleto,9.9
+431,2023-09-03,Protetor Auricular,Segurança e EPI,28.0,Dinheiro,9.9
+432,2023-07-11,Selador (5L),Tintas e Acabamento,7.0,Pix,99.9
+433,2023-06-09,Adubo (5kg),Jardinagem,4.0,Boleto,49.9
+434,2023-11-14,Carrinho de Mão,Jardinagem,3.0,Pix,359.0
+435,2023-10-06,Caixa de água (500L),Hidráulica,30.0,Débito,799.0
+436,2023-10-27,Mangueira (20m),Hidráulica,83.0,Pix,59.0
+437,2023-06-21,Chave de Fenda,Ferramentas,90.0,Transferência Bancária,24.5
+438,2023-07-28,Argamassa (20kg),Construção e Estrutura,80.0,Carteira Digital,24.9
+439,2023-01-14,Verniz (900ml),Tintas e Acabamento,99.0,Dinheiro,139.9
+440,2023-05-11,Lanterna,Elétrica,30.0,Boleto,59.9
+441,2023-03-18,Interruptor,Elétrica,19.0,Crédito,12.9
+442,2023-09-13,Parafusadeira,Ferramentas,7.0,Dinheiro,429.0
+443,2023-07-14,Luva de Proteção,Segurança e EPI,56.0,Carteira Digital,19.9
+444,2023-06-10,Luva de Proteção,Segurança e EPI,43.0,Dinheiro,19.9
+445,2023-04-24,Lanterna,Elétrica,94.0,Dinheiro,59.9
+446,2023-08-15,Lanterna,Elétrica,45.0,Dinheiro,59.9
+447,2023-01-08,Disjuntor,Elétrica,10.0,Pix,45.0
+448,2023-08-13,Parafusadeira,Ferramentas,52.0,Crédito,429.0
+449,2023-02-05,Interruptor,Elétrica,34.0,Dinheiro,12.9
+450,2023-04-27,Válvula de Descarga,Hidráulica,59.0,Carteira Digital,119.0
+451,2023-04-26,Pilha AA,Elétrica,94.0,Crédito,6.9
+452,2023-06-15,Tinta Acrílica (18L),Tintas e Acabamento,59.0,Débito,249.0
+453,2023-06-24,Verga Metálica (2m),Construção e Estrutura,18.0,Transferência Bancária,119.0
+454,2023-12-14,Adubo (5kg),Jardinagem,32.0,Transferência Bancária,49.9
+455,2023-07-19,Lâmpada LED,Elétrica,42.0,Pix,14.9
+456,,Serrote,Ferramentas,26.0,Dinheiro,64.9
+457,,Brita (20kg),Construção e Estrutura,83.0,Crédito,17.9
+458,2023-10-04,Registro de Água,Hidráulica,97.0,Boleto,54.9
+459,2023-08-27,Alicate,Ferramentas,97.0,Pix,
+460,2023-10-06,Botina,Segurança e EPI,17.0,Transferência Bancária,149.0
+461,2023-03-29,Interruptor,Elétrica,24.0,Dinheiro,12.9
+462,2023-07-29,Interruptor,Elétrica,15.0,Carteira Digital,12.9
+463,2023-02-01,Mangueira (20m),Hidráulica,9.0,Dinheiro,59.0
+464,2023-01-07,Massa Corrida (25kg),Tintas e Acabamento,3.0,Crédito,89.9
+465,2023-02-07,Luva de Proteção,Segurança e EPI,1.0,Pix,19.9
+466,2023-12-20,Pilha AA,Elétrica,39.0,Dinheiro,6.9
+467,2023-10-20,Cano PVC (6m),Hidráulica,14.0,Carteira Digital,29.9
+468,2023-03-02,Tijolo,Construção e Estrutura,9.0,Débito,2.0
+469,2023-07-23,Caixa de água (500L),Hidráulica,59.0,Dinheiro,799.0
+470,2023-12-24,Pá,Jardinagem,83.0,Crédito,74.9
+471,2023-04-21,Alicate,Ferramentas,82.0,Dinheiro,41.9
+472,2023-05-24,Verga Metálica (2m),Construção e Estrutura,4.0,Crédito,119.0
+473,2023-03-21,Tinta Acrílica (18L),Tintas e Acabamento,82.0,Crédito,249.0
+474,2023-01-30,Carrinho de Mão,Jardinagem,84.0,Débito,359.0
+475,2023-06-03,Lanterna,Elétrica,62.0,Pix,59.9
+476,,Protetor Auricular,Segurança e EPI,51.0,Transferência Bancária,9.9
+477,2023-02-02,Fio Elétrico (100m),Elétrica,99.0,Crédito,3.5
+478,2023-11-06,Argamassa (20kg),Construção e Estrutura,83.0,Pix,24.9
+479,2023-09-03,Lâmpada LED,Elétrica,25.0,Crédito,14.9
+480,2023-01-22,Máscara Respiratória,Segurança e EPI,26.0,Pix,29.9
+481,2023-01-30,Parafusadeira,Ferramentas,11.0,Transferência Bancária,429.0
+482,2023-10-25,Verniz (900ml),Tintas e Acabamento,14.0,Crédito,139.9
+483,2023-08-29,Válvula de Descarga,Hidráulica,76.0,Boleto,119.0
+484,2023-08-07,Lanterna,Elétrica,16.0,Transferência Bancária,59.9
+485,2023-02-18,Interruptor,Elétrica,58.0,Crédito,12.9
+486,2023-11-12,Parafusadeira,Ferramentas,95.0,Carteira Digital,429.0
+487,2023-08-27,Pincel,Tintas e Acabamento,95.0,Dinheiro,12.9
+488,2023-01-05,Fio Elétrico (100m),Elétrica,68.0,Pix,3.5
+489,2023-05-07,Martelo,Ferramentas,50.0,Débito,79.9
+490,2023-05-16,Tomada,Elétrica,49.0,Dinheiro,9.9
+491,2023-12-16,Fio Elétrico (100m),Elétrica,89.0,Carteira Digital,3.5
+492,2023-12-23,Cano PVC (6m),Hidráulica,6.0,Carteira Digital,29.9
+493,2023-05-02,Extensão (5m),Elétrica,54.0,Pix,39.9
+494,2023-06-30,Conexão T,Hidráulica,2.0,Crédito,7.9
+495,2023-08-25,,Jardinagem,26.0,Crédito,39.9
+496,2023-12-30,Caixa de água (500L),Hidráulica,39.0,Crédito,799.0
+497,2023-12-06,Disjuntor,Elétrica,36.0,Transferência Bancária,45.0
+498,2023-01-18,Carrinho de Mão,Jardinagem,29.0,Dinheiro,359.0
+499,2023-09-27,Pá,Jardinagem,23.0,Débito,74.9
+500,2023-12-01,Selador (5L),Tintas e Acabamento,8.0,Dinheiro,99.9
+501,2023-03-05,Óculos de Proteção,Segurança e EPI,93.0,Boleto,24.9
+502,2023-09-30,Mangueira Jardim (30m),Jardinagem,87.0,Pix,69.9
+503,2023-01-06,Tinta Acrílica (18L),Tintas e Acabamento,3.0,Carteira Digital,249.0
+504,2023-11-18,Furadeira,Ferramentas,41.0,Carteira Digital,499.9
+505,2023-07-21,Tomada,Elétrica,42.0,Transferência Bancária,9.9
+506,2023-02-12,Lixadeira,Ferramentas,48.0,Carteira Digital,389.0
+507,2023-10-31,Conexão T,Hidráulica,66.0,Carteira Digital,7.9
+508,2023-08-04,Selador (5L),Tintas e Acabamento,32.0,Débito,99.9
+509,2023-01-12,Disjuntor,Elétrica,62.0,Dinheiro,45.0
+510,2023-07-11,Verniz (900ml),Tintas e Acabamento,50.0,Boleto,139.9
+511,2023-02-19,Telha Cerâmica,Construção e Estrutura,7.0,Débito,7.9
+512,2023-09-25,Registro de Água,Hidráulica,10.0,Carteira Digital,
+513,2023-01-28,Disjuntor,Elétrica,24.0,Carteira Digital,45.0
+514,2023-12-17,Tesoura de Poda,Jardinagem,20.0,Débito,59.9
+515,2023-01-25,Regador (10L),Jardinagem,59.0,Dinheiro,39.9
+516,2023-05-29,Tesoura de Poda,Jardinagem,42.0,Débito,59.9
+517,2023-11-16,Interruptor,Elétrica,22.0,Crédito,12.9
+518,2023-02-20,Lâmpada LED,Elétrica,74.0,Transferência Bancária,14.9
+519,2023-03-11,Cano PVC (6m),Hidráulica,9.0,Crédito,29.9
+520,2023-01-09,Verniz (900ml),Tintas e Acabamento,38.0,Dinheiro,139.9
+521,2023-06-12,Mangueira Jardim (30m),Jardinagem,81.0,Débito,69.9
+522,2023-08-31,Enxada,Jardinagem,11.0,Dinheiro,89.9
+523,2023-07-04,Luva de Proteção,Segurança e EPI,35.0,Dinheiro,19.9
+524,2023-06-15,Óculos de Proteção,Segurança e EPI,84.0,Pix,24.9
+525,2023-07-01,Torneira,Hidráulica,30.0,Débito,79.0
+526,2023-09-02,Trena,Ferramentas,95.0,Crédito,32.0
+527,2023-12-21,Interruptor,Elétrica,2.0,Boleto,12.9
+528,2023-07-12,Conexão T,Hidráulica,63.0,Pix,7.9
+529,2023-01-20,Caixa de água (500L),Hidráulica,51.0,Crédito,799.0
+530,2023-07-25,Extensão (5m),Elétrica,8.0,Carteira Digital,39.9
+531,2023-07-16,Enxada,Jardinagem,40.0,Boleto,89.9
+532,2023-09-04,Bomba de água,Hidráulica,71.0,Carteira Digital,899.0
+533,2023-08-11,Verga Metálica (2m),Construção e Estrutura,1.0,Dinheiro,119.0
+534,2023-05-24,Mangueira (20m),Hidráulica,20.0,Pix,59.0
+535,2023-03-23,,Tintas e Acabamento,43.0,Carteira Digital,24.9
+536,2023-01-12,Sementes de Grama (1kg),Jardinagem,21.0,Débito,19.9
+537,2023-07-31,Verniz (900ml),Tintas e Acabamento,85.0,Crédito,139.9
+538,2023-11-16,Selador (5L),Tintas e Acabamento,94.0,Dinheiro,
+539,2023-04-02,Lixadeira,Ferramentas,12.0,Boleto,389.0
+540,2023-03-17,Trena,Ferramentas,,Transferência Bancária,32.0
+541,2023-05-30,Caixa de água (500L),Hidráulica,34.0,Carteira Digital,799.0
+542,2023-01-27,Caixa de água (500L),Hidráulica,12.0,Dinheiro,799.0
+543,2023-10-13,Fio Elétrico (100m),Elétrica,51.0,Transferência Bancária,3.5
+544,2023-10-03,Óculos de Proteção,,63.0,Transferência Bancária,24.9
+545,2023-02-13,Massa Corrida (25kg),Tintas e Acabamento,86.0,Débito,89.9
+546,2023-09-25,Capacete,Segurança e EPI,46.0,Débito,49.9
+547,2023-05-23,Tijolo,Construção e Estrutura,90.0,Boleto,2.0
+548,2023-07-23,Lâmpada LED,Elétrica,92.0,Crédito,14.9
+549,2023-02-20,Lanterna,Elétrica,24.0,Transferência Bancária,59.9
+550,2023-10-17,Martelo,Ferramentas,67.0,Dinheiro,79.9
+551,2023-06-28,,Segurança e EPI,90.0,Dinheiro,24.9
+552,2023-09-10,Botina,Segurança e EPI,96.0,Crédito,149.0
+553,2023-09-11,Colete Reflexivo,Segurança e EPI,9.0,Carteira Digital,39.9
+554,2023-05-25,Disjuntor,Elétrica,40.0,Boleto,45.0
+555,2023-07-27,Massa Corrida (25kg),Tintas e Acabamento,50.0,Transferência Bancária,89.9
+556,2023-08-10,"Tinta Esmalte (3,6L)",Tintas e Acabamento,94.0,Dinheiro,229.0
+557,2023-01-18,Fio Elétrico (100m),Elétrica,62.0,Boleto,3.5
+558,2023-01-15,Areia (20kg),Construção e Estrutura,16.0,Transferência Bancária,14.9
+559,2023-01-20,Lixadeira,Ferramentas,3.0,Transferência Bancária,389.0
+560,2023-10-23,Cano PVC (6m),Hidráulica,6.0,Débito,29.9
+561,2023-02-11,Areia (20kg),Construção e Estrutura,79.0,Crédito,14.9
+562,2023-06-01,Bloco de Concreto,Construção e Estrutura,22.0,Crédito,6.0
+563,2023-05-06,Extensão (5m),Elétrica,5.0,Boleto,39.9
+564,2023-04-27,Fio Elétrico (100m),Elétrica,61.0,Débito,3.5
+565,2023-04-21,Válvula de Descarga,Hidráulica,23.0,Boleto,119.0
+566,2023-02-03,Carrinho de Mão,Jardinagem,72.0,Dinheiro,359.0
+567,2023-02-02,Botina,Segurança e EPI,62.0,Boleto,149.0
+568,2023-05-16,Botina,Segurança e EPI,56.0,Pix,149.0
+569,2023-01-08,Lâmpada LED,Elétrica,82.0,Dinheiro,14.9
+570,2023-10-25,Rolo de Pintura,Tintas e Acabamento,83.0,Boleto,24.9
+571,2023-07-10,Torneira,Hidráulica,91.0,Dinheiro,79.0
+572,2023-09-16,Mangueira Jardim (30m),Jardinagem,30.0,Pix,69.9
+573,2023-04-28,Regador (10L),Jardinagem,20.0,Dinheiro,39.9
+574,2023-04-06,Regador (10L),Jardinagem,7.0,Transferência Bancária,39.9
+575,2023-05-24,Pilha AA,Elétrica,14.0,Débito,6.9
+576,2023-03-11,Adubo (5kg),Jardinagem,95.0,Dinheiro,49.9
+577,,Rolo de Pintura,Tintas e Acabamento,5.0,Transferência Bancária,24.9
+578,2023-03-12,Lâmpada LED,Elétrica,8.0,Boleto,14.9
+579,2023-05-14,Protetor Auricular,Segurança e EPI,86.0,Boleto,9.9
+580,2023-05-28,Torneira,Hidráulica,21.0,Pix,79.0
+581,2023-10-17,Pincel,Tintas e Acabamento,58.0,Dinheiro,12.9
+582,2023-03-15,,Ferramentas,67.0,Crédito,64.9
+583,2023-09-24,Colete Reflexivo,Segurança e EPI,36.0,Débito,39.9
+584,2023-08-27,Martelo,Ferramentas,84.0,Crédito,79.9
+585,2023-10-07,Capacete,Segurança e EPI,86.0,Transferência Bancária,49.9
+586,2023-04-30,Martelo,Ferramentas,31.0,Transferência Bancária,79.9
+587,2023-12-12,Serrote,Ferramentas,5.0,Crédito,64.9
+588,2023-09-03,Lanterna,Elétrica,38.0,Transferência Bancária,59.9
+589,2023-07-29,Botina,Segurança e EPI,44.0,Débito,149.0
+590,2023-11-21,Parafusadeira,Ferramentas,35.0,Crédito,429.0
+591,2023-11-20,Válvula de Descarga,Hidráulica,83.0,Carteira Digital,119.0
+592,2023-06-22,Mangueira (20m),Hidráulica,95.0,Transferência Bancária,59.0
+593,2023-06-21,Tomada,Elétrica,26.0,Crédito,9.9
+594,2023-08-03,Lixa (Folha),Tintas e Acabamento,10.0,Boleto,4.9
+595,2023-07-26,Disjuntor,Elétrica,97.0,Crédito,45.0
+596,2023-11-28,Mangueira (20m),Hidráulica,,Boleto,59.0
+597,2023-08-30,Pá,Jardinagem,37.0,Carteira Digital,74.9
+598,2023-10-17,Lâmpada LED,Elétrica,10.0,Débito,14.9
+599,2023-09-27,Mangueira (20m),Hidráulica,59.0,Débito,59.0
+600,2023-01-06,Máscara Respiratória,Segurança e EPI,56.0,Transferência Bancária,29.9
+601,2023-02-11,Registro de Água,Hidráulica,11.0,Transferência Bancária,54.9
+602,2023-04-24,Disjuntor,Elétrica,11.0,Carteira Digital,45.0
+603,2023-08-06,Extensão (5m),Elétrica,91.0,Carteira Digital,39.9
+604,2023-08-16,Tijolo,Construção e Estrutura,91.0,Débito,2.0
+605,2023-09-13,Pincel,Tintas e Acabamento,93.0,Débito,12.9
+606,2023-10-16,Pá,Jardinagem,93.0,Dinheiro,74.9
+607,2023-08-30,Tijolo,Construção e Estrutura,57.0,Carteira Digital,2.0
+608,2023-05-25,Pá,Jardinagem,24.0,Crédito,74.9
+609,2023-11-10,Massa Corrida (25kg),Tintas e Acabamento,66.0,Boleto,89.9
+610,2023-11-28,"Tinta Esmalte (3,6L)",Tintas e Acabamento,86.0,Boleto,229.0
+611,2023-10-27,Areia (20kg),Construção e Estrutura,76.0,Carteira Digital,14.9
+612,2023-03-17,Caixa de água (500L),Hidráulica,83.0,Transferência Bancária,799.0
+613,2023-09-14,Regador (10L),Jardinagem,72.0,Dinheiro,39.9
+614,2023-12-21,Luva de Proteção,Segurança e EPI,94.0,Dinheiro,19.9
+615,2023-04-03,Pincel,Tintas e Acabamento,9.0,Boleto,12.9
+616,2023-08-13,Óculos de Proteção,Segurança e EPI,9.0,Dinheiro,24.9
+617,2023-03-26,Pilha AA,Elétrica,91.0,Dinheiro,6.9
+618,2023-12-15,Fio Elétrico (100m),Elétrica,52.0,Pix,3.5
+619,2023-03-19,Mangueira Jardim (30m),Jardinagem,46.0,Boleto,69.9
+620,2023-06-28,Areia (20kg),Construção e Estrutura,20.0,Crédito,14.9
+621,2023-10-14,Lixadeira,Ferramentas,84.0,Crédito,389.0
+622,2023-02-20,Luva de Proteção,Segurança e EPI,29.0,Boleto,19.9
+623,2023-03-15,Tesoura de Poda,Jardinagem,77.0,Pix,59.9
+624,2023-06-05,Luva de Proteção,Segurança e EPI,99.0,Crédito,19.9
+625,2023-08-04,Massa Corrida (25kg),Tintas e Acabamento,12.0,Carteira Digital,89.9
+626,2023-07-04,Mangueira Jardim (30m),Jardinagem,5.0,Pix,69.9
+627,2023-05-15,Máscara Respiratória,Segurança e EPI,57.0,Crédito,29.9
+628,2023-11-11,Serrote,Ferramentas,97.0,Transferência Bancária,64.9
+629,2023-03-29,Fio Elétrico (100m),Elétrica,51.0,Transferência Bancária,3.5
+630,2023-05-08,Conexão T,Hidráulica,63.0,Crédito,7.9
+631,2023-07-08,Brita (20kg),Construção e Estrutura,45.0,Débito,17.9
+632,2023-05-03,Lixa (Folha),Tintas e Acabamento,24.0,Crédito,4.9
+633,2023-03-25,Máscara Respiratória,Segurança e EPI,28.0,Dinheiro,29.9
+634,2023-04-29,Serrote,Ferramentas,82.0,Transferência Bancária,64.9
+635,2023-09-21,Verga Metálica (2m),Construção e Estrutura,99.0,Pix,119.0
+636,2023-08-04,Bloco de Concreto,Construção e Estrutura,60.0,Carteira Digital,6.0
+637,2023-01-29,Fio Elétrico (100m),Elétrica,63.0,Pix,3.5
+638,2023-03-26,Máscara Respiratória,Segurança e EPI,4.0,Pix,29.9
+639,2023-07-28,Rolo de Pintura,Tintas e Acabamento,54.0,Boleto,24.9
+640,2023-02-18,Tesoura de Poda,Jardinagem,33.0,Dinheiro,59.9
+641,2023-10-04,Bomba de água,Hidráulica,26.0,Dinheiro,899.0
+642,2023-11-20,Fio Elétrico (100m),Elétrica,66.0,Dinheiro,3.5
+643,2023-03-23,Fio Elétrico (100m),Elétrica,13.0,Boleto,3.5
+644,2023-04-15,Argamassa (20kg),,54.0,Boleto,24.9
+645,2023-09-26,Massa Corrida (25kg),Tintas e Acabamento,83.0,Transferência Bancária,89.9
+646,2023-09-11,Pá,Jardinagem,87.0,Crédito,74.9
+647,2023-01-30,Interruptor,Elétrica,68.0,Boleto,12.9
+648,2023-11-03,Serrote,Ferramentas,56.0,Boleto,64.9
+649,2023-02-09,Parafusadeira,Ferramentas,13.0,Débito,429.0
+650,2023-09-19,Massa Corrida (25kg),Tintas e Acabamento,13.0,Pix,89.9
+651,2023-11-23,Capacete,Segurança e EPI,65.0,Débito,49.9
+652,2023-08-28,Adubo (5kg),Jardinagem,55.0,Boleto,49.9
+653,2023-08-31,Conexão T,Hidráulica,67.0,Crédito,7.9
+654,2023-01-17,Sementes de Grama (1kg),Jardinagem,8.0,Boleto,19.9
+655,2023-09-20,Alicate,Ferramentas,94.0,Pix,41.9
+656,2023-12-18,Lâmpada LED,Elétrica,87.0,Crédito,14.9
+657,2023-03-17,Interruptor,Elétrica,70.0,Dinheiro,12.9
+658,2023-07-16,Carrinho de Mão,Jardinagem,76.0,Débito,359.0
+659,2023-12-07,Protetor Auricular,Segurança e EPI,,Boleto,9.9
+660,2023-07-25,Sementes de Grama (1kg),Jardinagem,3.0,Dinheiro,19.9
+661,2023-01-21,Parafusadeira,Ferramentas,73.0,Transferência Bancária,429.0
+662,2023-02-24,Pilha AA,Elétrica,99.0,Transferência Bancária,6.9
+663,2023-10-16,Areia (20kg),Construção e Estrutura,54.0,Boleto,14.9
+664,2023-10-09,Tijolo,Construção e Estrutura,96.0,Pix,2.0
+665,2023-08-24,Massa Corrida (25kg),Tintas e Acabamento,82.0,Crédito,89.9
+666,2023-11-10,Verga Metálica (2m),Construção e Estrutura,36.0,Crédito,119.0
+667,2023-04-19,Torneira,Hidráulica,24.0,Boleto,79.0
+668,2023-04-11,Verniz (900ml),Tintas e Acabamento,36.0,Crédito,139.9
+669,2023-11-20,Trena,Ferramentas,41.0,Dinheiro,32.0
+670,2023-08-31,Tinta Acrílica (18L),Tintas e Acabamento,41.0,Boleto,249.0
+671,2023-11-15,,Elétrica,100.0,Carteira Digital,14.9
+672,2023-11-03,Tinta Acrílica (18L),Tintas e Acabamento,84.0,Débito,249.0
+673,2023-10-21,Conexão T,Hidráulica,57.0,Transferência Bancária,7.9
+674,2023-01-17,Mangueira Jardim (30m),Jardinagem,71.0,Crédito,69.9
+675,2023-07-11,Brita (20kg),Construção e Estrutura,15.0,Débito,17.9
+676,2023-12-02,Cimento (50kg),Construção e Estrutura,38.0,Pix,39.9
+677,2023-12-19,Capacete,Segurança e EPI,20.0,Boleto,49.9
+678,2023-11-16,Martelo,Ferramentas,28.0,Débito,79.9
+679,2023-08-08,Lâmpada LED,Elétrica,42.0,Boleto,14.9
+680,2023-05-29,,Segurança e EPI,60.0,Dinheiro,24.9
+681,2023-12-15,Brita (20kg),Construção e Estrutura,,Pix,17.9
+682,2023-09-06,Lixadeira,Ferramentas,84.0,Transferência Bancária,389.0
+683,2023-07-29,Furadeira,Ferramentas,65.0,Carteira Digital,499.9
+684,2023-12-12,Selador (5L),Tintas e Acabamento,19.0,Boleto,99.9
+685,2023-12-26,Lixa (Folha),Tintas e Acabamento,66.0,Pix,4.9
+686,2023-02-17,Colete Reflexivo,Segurança e EPI,28.0,Dinheiro,39.9
+687,2023-12-19,Mangueira (20m),Hidráulica,21.0,Boleto,59.0
+688,2023-01-17,Alicate,Ferramentas,9.0,Pix,41.9
+689,2023-01-09,Cano PVC (6m),Hidráulica,42.0,Pix,29.9
+690,2023-02-27,Verniz (900ml),Tintas e Acabamento,67.0,Dinheiro,139.9
+691,2023-07-27,Bloco de Concreto,Construção e Estrutura,96.0,Transferência Bancária,6.0
+692,2023-01-12,Pá,Jardinagem,94.0,Carteira Digital,74.9
+693,2023-02-28,Tesoura de Poda,Jardinagem,98.0,Dinheiro,59.9
+694,2023-09-10,Óculos de Proteção,Segurança e EPI,41.0,Boleto,24.9
+695,2023-03-16,Botina,Segurança e EPI,18.0,Débito,149.0
+696,2023-06-21,Areia (20kg),Construção e Estrutura,7.0,Pix,14.9
+697,2023-11-11,Trena,Ferramentas,59.0,Pix,32.0
+698,2023-12-09,Lâmpada LED,Elétrica,52.0,Pix,14.9
+699,2023-07-14,Extensão (5m),Elétrica,98.0,Transferência Bancária,39.9
+700,2023-01-12,Tomada,Elétrica,99.0,Dinheiro,9.9
+701,2023-06-12,Parafusadeira,Ferramentas,22.0,Carteira Digital,429.0
+702,2023-06-25,Tomada,Elétrica,46.0,Débito,9.9
+703,2023-12-30,Máscara Respiratória,Segurança e EPI,8.0,Boleto,29.9
+704,2023-08-31,Caixa de água (500L),Hidráulica,95.0,Boleto,799.0
+705,2023-06-22,Rolo de Pintura,Tintas e Acabamento,100.0,Transferência Bancária,24.9
+706,,Extensão (5m),Elétrica,77.0,Crédito,39.9
+707,2023-04-17,Caixa de água (500L),Hidráulica,47.0,Crédito,799.0
+708,2023-09-10,Parafusadeira,Ferramentas,16.0,Dinheiro,429.0
+709,2023-04-07,Capacete,Segurança e EPI,59.0,Dinheiro,49.9
+710,2023-04-18,Serrote,Ferramentas,82.0,Pix,64.9
+711,2023-06-27,Lanterna,Elétrica,17.0,Pix,59.9
+712,2023-05-15,Luva de Proteção,Segurança e EPI,73.0,Débito,19.9
+713,2023-06-10,Verniz (900ml),Tintas e Acabamento,11.0,,139.9
+714,2023-01-25,Brita (20kg),Construção e Estrutura,29.0,Débito,17.9
+715,2023-11-06,Extensão (5m),Elétrica,36.0,Pix,39.9
+716,2023-04-16,"Tinta Esmalte (3,6L)",Tintas e Acabamento,87.0,Pix,229.0
+717,2023-01-14,Tijolo,Construção e Estrutura,5.0,Crédito,2.0
+718,2023-04-24,Selador (5L),Tintas e Acabamento,48.0,Dinheiro,99.9
+719,2023-01-24,Furadeira,Ferramentas,24.0,Débito,499.9
+720,2023-02-23,Selador (5L),Tintas e Acabamento,6.0,Transferência Bancária,99.9
+721,2023-07-08,Tinta Acrílica (18L),Tintas e Acabamento,93.0,Transferência Bancária,249.0
+722,2023-03-04,Areia (20kg),Construção e Estrutura,38.0,Crédito,14.9
+723,2023-08-18,Regador (10L),Jardinagem,40.0,Dinheiro,39.9
+724,2023-12-11,Válvula de Descarga,Hidráulica,13.0,Pix,119.0
+725,2023-08-26,Lanterna,Elétrica,7.0,Débito,59.9
+726,2023-01-28,Capacete,Segurança e EPI,73.0,Dinheiro,49.9
+727,2023-09-25,Enxada,Jardinagem,,Débito,89.9
+728,2023-07-07,Fio Elétrico (100m),Elétrica,90.0,Carteira Digital,3.5
+729,2023-11-20,Verga Metálica (2m),Construção e Estrutura,52.0,Dinheiro,119.0
+730,2023-01-20,Sementes de Grama (1kg),Jardinagem,84.0,Boleto,19.9
+731,2023-11-19,Máscara Respiratória,Segurança e EPI,97.0,Pix,29.9
+732,2023-12-03,Conexão T,Hidráulica,46.0,Transferência Bancária,7.9
+733,2023-10-14,Tesoura de Poda,Jardinagem,88.0,Pix,59.9
+734,2023-09-26,Martelo,Ferramentas,28.0,Transferência Bancária,79.9
+735,2023-03-19,Tesoura de Poda,Jardinagem,42.0,Dinheiro,59.9
+736,2023-01-13,Cimento (50kg),Construção e Estrutura,59.0,Carteira Digital,39.9
+737,2023-05-09,Adubo (5kg),Jardinagem,82.0,Dinheiro,49.9
+738,2023-04-12,Válvula de Descarga,,16.0,Transferência Bancária,119.0
+739,2023-11-11,Serrote,Ferramentas,25.0,Crédito,64.9
+740,2023-01-05,Rolo de Pintura,Tintas e Acabamento,74.0,Transferência Bancária,24.9
+741,2023-09-05,Furadeira,Ferramentas,62.0,Débito,499.9
+742,2023-05-01,Conexão T,Hidráulica,4.0,Transferência Bancária,7.9
+743,2023-12-29,Máscara Respiratória,Segurança e EPI,25.0,Carteira Digital,29.9
+744,2023-06-13,Carrinho de Mão,Jardinagem,9.0,Crédito,359.0
+745,2023-12-14,Disjuntor,Elétrica,76.0,Pix,45.0
+746,2023-08-12,Argamassa (20kg),Construção e Estrutura,82.0,Crédito,24.9
+747,2023-11-07,Chave de Fenda,Ferramentas,42.0,Boleto,24.5
+748,2023-05-20,Parafusadeira,Ferramentas,44.0,Boleto,429.0
+749,2023-03-06,Martelo,Ferramentas,77.0,Pix,79.9
+750,2023-01-16,Chave de Fenda,Ferramentas,70.0,Transferência Bancária,24.5
+751,2023-05-08,Selador (5L),Tintas e Acabamento,34.0,Carteira Digital,99.9
+752,2023-09-23,Máscara Respiratória,Segurança e EPI,9.0,Dinheiro,29.9
+753,2023-12-08,Lixadeira,Ferramentas,32.0,Carteira Digital,389.0
+754,2023-04-17,Tomada,Elétrica,83.0,Pix,9.9
+755,2023-01-22,Luva de Proteção,Segurança e EPI,18.0,Transferência Bancária,19.9
+756,2023-12-07,Cimento (50kg),Construção e Estrutura,98.0,Boleto,39.9
+757,2023-03-02,Mangueira (20m),Hidráulica,32.0,Carteira Digital,59.0
+758,2023-05-27,Carrinho de Mão,Jardinagem,52.0,Transferência Bancária,359.0
+759,2023-07-27,Lâmpada LED,Elétrica,60.0,Dinheiro,14.9
+760,2023-06-12,Torneira,Hidráulica,3.0,Dinheiro,79.0
+761,2023-05-09,Interruptor,Elétrica,82.0,Pix,12.9
+762,2023-07-28,Martelo,Ferramentas,82.0,Carteira Digital,79.9
+763,2023-03-30,Rolo de Pintura,Tintas e Acabamento,92.0,Pix,24.9
+764,2023-08-08,Tinta Acrílica (18L),Tintas e Acabamento,20.0,Dinheiro,249.0
+765,2023-07-28,Máscara Respiratória,Segurança e EPI,94.0,Pix,29.9
+766,2023-10-10,Pincel,Tintas e Acabamento,29.0,Dinheiro,12.9
+767,2023-11-26,Interruptor,Elétrica,35.0,Boleto,12.9
+768,2023-01-28,Luva de Proteção,Segurança e EPI,41.0,Carteira Digital,19.9
+769,2023-12-28,Verniz (900ml),Tintas e Acabamento,78.0,Boleto,139.9
+770,2023-05-17,Torneira,Hidráulica,83.0,Crédito,79.0
+771,2023-10-09,Tijolo,Construção e Estrutura,19.0,Débito,2.0
+772,2023-05-31,Óculos de Proteção,Segurança e EPI,54.0,Boleto,24.9
+773,2023-09-18,Selador (5L),Tintas e Acabamento,28.0,Carteira Digital,99.9
+774,2023-12-17,Torneira,Hidráulica,18.0,Débito,79.0
+775,2023-12-20,Botina,Segurança e EPI,92.0,Crédito,149.0
+776,2023-03-28,Tijolo,Construção e Estrutura,6.0,Transferência Bancária,2.0
+777,2023-10-13,Argamassa (20kg),Construção e Estrutura,10.0,Dinheiro,24.9
+778,2023-05-06,Serrote,Ferramentas,78.0,Carteira Digital,64.9
+779,2023-09-07,Chave de Fenda,Ferramentas,19.0,Pix,24.5
+780,2023-04-18,Máscara Respiratória,Segurança e EPI,75.0,Débito,29.9
+781,2023-06-23,Lanterna,Elétrica,71.0,Transferência Bancária,59.9
+782,2023-12-12,Tesoura de Poda,Jardinagem,96.0,Transferência Bancária,59.9
+783,2023-02-09,Rolo de Pintura,Tintas e Acabamento,20.0,Pix,24.9
+784,2023-04-17,Tesoura de Poda,Jardinagem,4.0,Crédito,59.9
+785,2023-08-31,Bloco de Concreto,Construção e Estrutura,15.0,Boleto,6.0
+786,2023-03-28,Disjuntor,Elétrica,100.0,Pix,45.0
+787,2023-06-11,Pincel,Tintas e Acabamento,36.0,Transferência Bancária,12.9
+788,2023-09-20,Verniz (900ml),Tintas e Acabamento,78.0,Boleto,139.9
+789,2023-10-09,Tesoura de Poda,Jardinagem,46.0,Débito,59.9
+790,2023-06-09,Caixa de água (500L),Hidráulica,62.0,Pix,799.0
+791,2023-11-15,Cimento (50kg),Construção e Estrutura,27.0,Dinheiro,39.9
+792,2023-10-30,Enxada,Jardinagem,74.0,Carteira Digital,89.9
+793,2023-04-22,Selador (5L),Tintas e Acabamento,93.0,Transferência Bancária,99.9
+794,2023-02-04,Telha Cerâmica,Construção e Estrutura,23.0,Dinheiro,7.9
+795,2023-11-16,Lâmpada LED,Elétrica,58.0,Dinheiro,14.9
+796,2023-07-19,Fio Elétrico (100m),Elétrica,26.0,Crédito,3.5
+797,2023-02-18,Lâmpada LED,Elétrica,9.0,Dinheiro,14.9
+798,2023-08-16,Máscara Respiratória,Segurança e EPI,65.0,Carteira Digital,29.9
+799,2023-06-26,Capacete,Segurança e EPI,6.0,Transferência Bancária,49.9
+800,2023-03-19,Regador (10L),Jardinagem,68.0,Transferência Bancária,39.9
+801,2023-08-07,Serrote,Ferramentas,35.0,Carteira Digital,64.9
+802,2023-08-16,Capacete,Segurança e EPI,68.0,Pix,49.9
+803,2023-01-09,Alicate,Ferramentas,47.0,Débito,41.9
+804,2023-02-02,Protetor Auricular,Segurança e EPI,80.0,Transferência Bancária,9.9
+805,2023-11-15,Telha Cerâmica,Construção e Estrutura,64.0,Transferência Bancária,7.9
+806,2023-09-05,Alicate,Ferramentas,25.0,Crédito,41.9
+807,2023-10-09,Rolo de Pintura,Tintas e Acabamento,12.0,Débito,24.9
+808,2023-04-18,Tijolo,Construção e Estrutura,54.0,Débito,2.0
+809,2023-03-06,Trena,Ferramentas,73.0,Transferência Bancária,32.0
+810,2023-11-07,Telha Cerâmica,Construção e Estrutura,19.0,Carteira Digital,7.9
+811,2023-07-21,Areia (20kg),Construção e Estrutura,18.0,Carteira Digital,14.9
+812,2023-12-28,Trena,Ferramentas,45.0,Débito,32.0
+813,2023-08-16,Verga Metálica (2m),Construção e Estrutura,1.0,Débito,119.0
+814,2023-05-08,Regador (10L),Jardinagem,82.0,Transferência Bancária,39.9
+815,2023-09-17,Tomada,Elétrica,39.0,Dinheiro,9.9
+816,2023-02-13,Cano PVC (6m),Hidráulica,24.0,Débito,29.9
+817,2023-06-06,Furadeira,Ferramentas,96.0,Boleto,499.9
+818,2023-09-20,Alicate,Ferramentas,94.0,Boleto,41.9
+819,2023-06-26,Óculos de Proteção,Segurança e EPI,7.0,Crédito,24.9
+820,2023-08-30,Botina,Segurança e EPI,38.0,Carteira Digital,149.0
+821,2023-04-27,Mangueira (20m),Hidráulica,14.0,Débito,59.0
+822,2023-09-05,Tomada,Elétrica,93.0,Pix,9.9
+823,2023-02-07,Tomada,Elétrica,90.0,Dinheiro,9.9
+824,2023-07-16,Carrinho de Mão,Jardinagem,42.0,Débito,359.0
+825,2023-05-13,Bomba de água,Hidráulica,36.0,Débito,899.0
+826,2023-04-06,Serrote,Ferramentas,20.0,Pix,64.9
+827,2023-01-21,Pincel,Tintas e Acabamento,91.0,Boleto,12.9
+828,2023-01-23,Trena,Ferramentas,43.0,,32.0
+829,2023-09-30,Trena,Ferramentas,49.0,Boleto,32.0
+830,2023-04-07,Luva de Proteção,Segurança e EPI,26.0,Crédito,19.9
+831,2023-11-23,Capacete,Segurança e EPI,42.0,Boleto,49.9
+832,2023-09-20,Pilha AA,Elétrica,14.0,Crédito,6.9
+833,2023-07-18,Enxada,Jardinagem,26.0,Débito,89.9
+834,2023-10-24,Conexão T,Hidráulica,67.0,Transferência Bancária,7.9
+835,2023-09-03,Argamassa (20kg),Construção e Estrutura,80.0,Carteira Digital,24.9
+836,2023-06-25,Pincel,Tintas e Acabamento,56.0,Crédito,12.9
+837,2023-10-28,Argamassa (20kg),Construção e Estrutura,20.0,Carteira Digital,24.9
+838,2023-05-23,Extensão (5m),Elétrica,60.0,Débito,39.9
+839,2023-02-11,Lixa (Folha),Tintas e Acabamento,93.0,Pix,4.9
+840,2023-11-02,Colete Reflexivo,Segurança e EPI,81.0,Pix,39.9
+841,2023-07-28,Pincel,Tintas e Acabamento,62.0,Transferência Bancária,12.9
+842,2023-07-13,Brita (20kg),Construção e Estrutura,67.0,Transferência Bancária,17.9
+843,2023-03-06,Luva de Proteção,Segurança e EPI,7.0,Transferência Bancária,19.9
+844,2023-10-30,"Tinta Esmalte (3,6L)",Tintas e Acabamento,64.0,Débito,229.0
+845,2023-07-06,Regador (10L),Jardinagem,58.0,Carteira Digital,39.9
+846,2023-08-26,Cano PVC (6m),Hidráulica,4.0,Débito,29.9
+847,2023-09-01,Lâmpada LED,Elétrica,62.0,Pix,14.9
+848,2023-05-24,Adubo (5kg),Jardinagem,76.0,Carteira Digital,49.9
+849,2023-06-18,Caixa de água (500L),Hidráulica,71.0,Pix,799.0
+850,2023-06-27,Mangueira Jardim (30m),Jardinagem,91.0,Dinheiro,69.9
+851,2023-12-04,Pá,Jardinagem,9.0,Crédito,74.9
+852,2023-07-13,Colete Reflexivo,Segurança e EPI,1.0,Dinheiro,39.9
+853,2023-08-11,Mangueira (20m),Hidráulica,83.0,Débito,59.0
+854,2023-01-29,Alicate,Ferramentas,32.0,Pix,41.9
+855,2023-11-17,Lâmpada LED,Elétrica,27.0,Boleto,14.9
+856,2023-04-29,Protetor Auricular,Segurança e EPI,7.0,,9.9
+857,2023-02-12,Luva de Proteção,Segurança e EPI,51.0,Transferência Bancária,19.9
+858,2023-06-01,Botina,Segurança e EPI,43.0,Boleto,149.0
+859,2023-04-26,"Tinta Esmalte (3,6L)",Tintas e Acabamento,86.0,Pix,229.0
+860,2023-08-14,Martelo,Ferramentas,54.0,Carteira Digital,79.9
+861,2023-09-05,Mangueira (20m),Hidráulica,67.0,Dinheiro,59.0
+862,2023-03-29,Tesoura de Poda,Jardinagem,76.0,Carteira Digital,59.9
+863,2023-09-30,Alicate,Ferramentas,56.0,Transferência Bancária,41.9
+864,2023-07-30,Óculos de Proteção,Segurança e EPI,60.0,Débito,24.9
+865,2023-02-01,Botina,Segurança e EPI,69.0,Transferência Bancária,149.0
+866,2023-03-31,Serrote,Ferramentas,46.0,Pix,64.9
+867,2023-07-14,Tesoura de Poda,Jardinagem,93.0,Débito,59.9
+868,2023-04-22,Válvula de Descarga,Hidráulica,67.0,Débito,119.0
+869,2023-06-08,Cimento (50kg),Construção e Estrutura,,Pix,39.9
+870,2023-04-30,Lanterna,Elétrica,98.0,Crédito,59.9
+871,2023-12-26,Protetor Auricular,Segurança e EPI,58.0,Carteira Digital,9.9
+872,,Registro de Água,Hidráulica,66.0,Crédito,54.9
+873,2023-10-10,Capacete,Segurança e EPI,90.0,Pix,49.9
+874,2023-02-10,Trena,Ferramentas,74.0,Transferência Bancária,32.0
+875,2023-08-23,Sementes de Grama (1kg),Jardinagem,15.0,Carteira Digital,19.9
+876,2023-06-06,Lâmpada LED,Elétrica,13.0,Pix,14.9
+877,2023-03-28,Pá,Jardinagem,7.0,,74.9
+878,2023-10-29,Lanterna,Elétrica,99.0,Dinheiro,59.9
+879,2023-08-11,Chave de Fenda,Ferramentas,91.0,Dinheiro,24.5
+880,2023-08-13,Capacete,Segurança e EPI,54.0,Dinheiro,49.9
+881,2023-06-10,Carrinho de Mão,Jardinagem,81.0,Transferência Bancária,359.0
+882,2023-10-26,"Tinta Esmalte (3,6L)",Tintas e Acabamento,91.0,Carteira Digital,229.0
+883,2023-04-21,Capacete,Segurança e EPI,100.0,Débito,49.9
+884,2023-05-01,Verniz (900ml),Tintas e Acabamento,34.0,Transferência Bancária,139.9
+885,2023-06-24,Regador (10L),Jardinagem,26.0,Carteira Digital,39.9
+886,2023-04-05,Lâmpada LED,Elétrica,25.0,Carteira Digital,14.9
+887,2023-06-29,Rolo de Pintura,Tintas e Acabamento,43.0,Pix,24.9
+888,2023-09-08,Tesoura de Poda,Jardinagem,99.0,Pix,59.9
+889,2023-10-11,Cimento (50kg),Construção e Estrutura,36.0,Transferência Bancária,39.9
+890,2023-07-10,"Tinta Esmalte (3,6L)",Tintas e Acabamento,58.0,Crédito,229.0
+891,2023-04-15,Válvula de Descarga,Hidráulica,68.0,Carteira Digital,119.0
+892,2023-09-12,Furadeira,Ferramentas,34.0,Carteira Digital,499.9
+893,2023-08-18,Pincel,Tintas e Acabamento,27.0,Transferência Bancária,12.9
+894,2023-12-03,Carrinho de Mão,Jardinagem,39.0,Débito,359.0
+895,2023-10-28,Bomba de água,Hidráulica,16.0,Crédito,899.0
+896,2023-03-02,Interruptor,Elétrica,26.0,Boleto,12.9
+897,2023-11-08,Luva de Proteção,Segurança e EPI,87.0,Crédito,19.9
+898,2023-01-26,Caixa de água (500L),Hidráulica,58.0,Pix,799.0
+899,2023-01-11,Martelo,Ferramentas,37.0,Dinheiro,79.9
+900,2023-10-26,Fio Elétrico (100m),Elétrica,87.0,Pix,3.5
+901,2023-02-12,Óculos de Proteção,Segurança e EPI,22.0,Transferência Bancária,24.9
+902,2023-03-08,Tijolo,Construção e Estrutura,90.0,Dinheiro,2.0
+903,2023-02-14,Lâmpada LED,Elétrica,99.0,Carteira Digital,14.9
+904,2023-07-15,Massa Corrida (25kg),Tintas e Acabamento,43.0,Transferência Bancária,89.9
+905,2023-04-01,Fio Elétrico (100m),Elétrica,7.0,Boleto,3.5
+906,2023-04-19,Selador (5L),Tintas e Acabamento,89.0,Carteira Digital,99.9
+907,2023-10-07,Serrote,Ferramentas,38.0,Dinheiro,
+908,2023-01-03,Óculos de Proteção,Segurança e EPI,63.0,Pix,24.9
+909,2023-04-05,Chave de Fenda,Ferramentas,58.0,Débito,24.5
+910,2023-09-26,Fio Elétrico (100m),Elétrica,63.0,Crédito,3.5
+911,2023-12-08,Pá,Jardinagem,22.0,Dinheiro,74.9
+912,2023-03-20,Carrinho de Mão,Jardinagem,18.0,Débito,359.0
+913,2023-01-11,Lixadeira,Ferramentas,78.0,Boleto,389.0
+914,2023-12-04,Regador (10L),Jardinagem,,Crédito,39.9
+915,2023-11-14,Pá,Jardinagem,57.0,Boleto,74.9
+916,2023-07-06,Capacete,Segurança e EPI,5.0,Transferência Bancária,49.9
+917,2023-03-28,Interruptor,Elétrica,20.0,Dinheiro,12.9
+918,2023-01-06,Válvula de Descarga,Hidráulica,62.0,Transferência Bancária,119.0
+919,2023-02-07,Trena,Ferramentas,85.0,Débito,32.0
+920,2023-07-27,Tomada,Elétrica,44.0,Boleto,9.9
+921,2023-04-27,Chave de Fenda,Ferramentas,49.0,Dinheiro,24.5
+922,2023-09-09,Válvula de Descarga,Hidráulica,33.0,Dinheiro,119.0
+923,2023-08-16,Martelo,Ferramentas,100.0,Débito,79.9
+924,2023-07-12,Capacete,Segurança e EPI,55.0,Dinheiro,49.9
+925,2023-06-11,Parafusadeira,Ferramentas,96.0,Crédito,429.0
+926,2023-08-12,Tesoura de Poda,Jardinagem,73.0,Dinheiro,59.9
+927,2023-10-07,Enxada,Jardinagem,15.0,Crédito,89.9
+928,2023-11-11,Mangueira (20m),Hidráulica,1.0,Crédito,59.0
+929,2023-11-05,Colete Reflexivo,Segurança e EPI,71.0,Crédito,39.9
+930,2023-03-20,Extensão (5m),Elétrica,13.0,Crédito,39.9
+931,2023-05-29,Martelo,Ferramentas,26.0,Dinheiro,79.9
+932,2023-10-14,Pincel,Tintas e Acabamento,94.0,Boleto,12.9
+933,2023-01-06,Capacete,Segurança e EPI,85.0,Débito,49.9
+934,2023-09-17,Alicate,Ferramentas,8.0,Débito,41.9
+935,2023-02-21,Registro de Água,Hidráulica,62.0,Boleto,54.9
+936,2023-02-16,Alicate,Ferramentas,19.0,Crédito,41.9
+937,2023-05-27,Válvula de Descarga,Hidráulica,41.0,Débito,119.0
+938,2023-02-18,,Jardinagem,69.0,Transferência Bancária,89.9
+939,2023-04-29,Pincel,Tintas e Acabamento,68.0,Crédito,12.9
+940,2023-12-08,Válvula de Descarga,Hidráulica,37.0,Crédito,119.0
+941,2023-11-15,Torneira,Hidráulica,49.0,Débito,79.0
+942,2023-02-18,Tesoura de Poda,Jardinagem,96.0,Pix,59.9
+943,2023-03-02,Torneira,Hidráulica,12.0,Débito,79.0
+944,2023-01-27,Alicate,Ferramentas,29.0,Boleto,41.9
+945,2023-07-09,Brita (20kg),Construção e Estrutura,47.0,Transferência Bancária,17.9
+946,2023-10-29,Protetor Auricular,Segurança e EPI,68.0,Pix,9.9
+947,2023-02-23,Tomada,Elétrica,70.0,Dinheiro,9.9
+948,2023-10-02,Massa Corrida (25kg),Tintas e Acabamento,10.0,Dinheiro,89.9
+949,2023-01-23,Registro de Água,Hidráulica,95.0,Dinheiro,54.9
+950,2023-06-24,Protetor Auricular,Segurança e EPI,98.0,Transferência Bancária,9.9
+951,2023-03-02,Bloco de Concreto,Construção e Estrutura,96.0,Boleto,6.0
+952,2023-11-22,Registro de Água,Hidráulica,70.0,Boleto,54.9
+953,2023-05-27,Brita (20kg),,33.0,Dinheiro,17.9
+954,2023-11-24,Pilha AA,Elétrica,33.0,Dinheiro,6.9
+955,2023-02-14,Fio Elétrico (100m),Elétrica,36.0,Transferência Bancária,3.5
+956,2023-06-23,Serrote,Ferramentas,64.0,Pix,64.9
+957,2023-09-21,Argamassa (20kg),Construção e Estrutura,77.0,Débito,24.9
+958,2023-08-17,Selador (5L),Tintas e Acabamento,62.0,Carteira Digital,
+959,2023-06-14,Cano PVC (6m),Hidráulica,49.0,Pix,29.9
+960,2023-06-12,Óculos de Proteção,Segurança e EPI,,Transferência Bancária,24.9
+961,2023-09-17,Trena,Ferramentas,98.0,Crédito,32.0
+962,2023-09-22,Torneira,Hidráulica,2.0,Pix,79.0
+963,2023-10-03,Parafusadeira,Ferramentas,12.0,Transferência Bancária,429.0
+964,2023-11-26,Enxada,Jardinagem,86.0,Crédito,89.9
+965,2023-04-08,Tinta Acrílica (18L),Tintas e Acabamento,76.0,Dinheiro,249.0
+966,2023-10-05,Cimento (50kg),Construção e Estrutura,70.0,Crédito,39.9
+967,2023-09-06,Bloco de Concreto,Construção e Estrutura,68.0,Crédito,6.0
+968,2023-04-30,Tinta Acrílica (18L),Tintas e Acabamento,67.0,Transferência Bancária,249.0
+969,2023-07-25,Tinta Acrílica (18L),Tintas e Acabamento,85.0,Transferência Bancária,249.0
+970,2023-07-21,Pilha AA,,67.0,Crédito,6.9
+971,2023-02-01,Regador (10L),Jardinagem,93.0,Crédito,39.9
+972,2023-10-18,Fio Elétrico (100m),Elétrica,55.0,Boleto,3.5
+973,2023-11-11,Rolo de Pintura,Tintas e Acabamento,28.0,Crédito,24.9
+974,2023-05-10,Massa Corrida (25kg),Tintas e Acabamento,47.0,Crédito,89.9
+975,2023-03-19,Selador (5L),Tintas e Acabamento,98.0,Crédito,99.9
+976,2023-04-19,Botina,Segurança e EPI,55.0,Dinheiro,149.0
+977,2023-04-12,Protetor Auricular,Segurança e EPI,10.0,Pix,9.9
+978,2023-12-27,Carrinho de Mão,Jardinagem,83.0,Boleto,359.0
+979,2023-05-04,Mangueira Jardim (30m),Jardinagem,26.0,Carteira Digital,69.9
+980,2023-04-01,Máscara Respiratória,Segurança e EPI,98.0,Pix,29.9
+981,2023-02-02,"Tinta Esmalte (3,6L)",Tintas e Acabamento,67.0,Pix,229.0
+982,2023-11-27,Areia (20kg),Construção e Estrutura,100.0,Dinheiro,14.9
+983,2023-12-18,Bloco de Concreto,Construção e Estrutura,67.0,Dinheiro,6.0
+984,2023-09-08,Sementes de Grama (1kg),Jardinagem,12.0,Débito,19.9
+985,2023-04-23,Protetor Auricular,Segurança e EPI,13.0,Carteira Digital,9.9
+986,2023-10-19,Lixa (Folha),Tintas e Acabamento,27.0,Boleto,4.9
+987,2023-03-04,Tinta Acrílica (18L),Tintas e Acabamento,49.0,Dinheiro,249.0
+988,2023-06-11,Bloco de Concreto,Construção e Estrutura,64.0,Crédito,6.0
+989,2023-06-03,Parafusadeira,Ferramentas,63.0,Pix,429.0
+990,2023-11-30,Disjuntor,Elétrica,98.0,Dinheiro,45.0
+991,2023-07-16,Botina,Segurança e EPI,52.0,Dinheiro,149.0
+992,2023-06-03,Serrote,Ferramentas,91.0,Crédito,64.9
+993,2023-06-25,Massa Corrida (25kg),Tintas e Acabamento,75.0,Débito,89.9
+994,2023-04-24,Parafusadeira,Ferramentas,40.0,Pix,429.0
+995,2023-10-17,Mangueira (20m),Hidráulica,31.0,Crédito,59.0
+996,2023-05-08,Extensão (5m),Elétrica,86.0,Transferência Bancária,39.9
+997,2023-01-28,Conexão T,Hidráulica,4.0,Transferência Bancária,7.9
+998,2023-09-08,Selador (5L),Tintas e Acabamento,53.0,Carteira Digital,99.9
+999,2023-09-26,Adubo (5kg),Jardinagem,73.0,Crédito,49.9
+1000,2023-07-03,Torneira,Hidráulica,8.0,Carteira Digital,79.0
+1001,2023-02-11,Disjuntor,Elétrica,7.0,Transferência Bancária,45.0
+1002,2023-05-06,Mangueira Jardim (30m),Jardinagem,54.0,Transferência Bancária,69.9
+1003,2023-02-01,Martelo,Ferramentas,10.0,Carteira Digital,79.9
+1004,2023-08-10,Areia (20kg),Construção e Estrutura,24.0,Boleto,14.9
+1005,2023-02-23,Protetor Auricular,Segurança e EPI,92.0,Boleto,9.9
+1006,2023-04-08,Colete Reflexivo,Segurança e EPI,67.0,Transferência Bancária,39.9
+1007,2023-07-20,Capacete,Segurança e EPI,63.0,Boleto,49.9
+1008,2023-08-20,Alicate,Ferramentas,26.0,Boleto,41.9
+1009,2023-04-28,Máscara Respiratória,Segurança e EPI,73.0,Débito,29.9
+1010,2023-02-23,Bloco de Concreto,Construção e Estrutura,39.0,Carteira Digital,6.0
+1011,2023-05-03,Extensão (5m),Elétrica,82.0,Pix,39.9
+1012,2023-12-09,Registro de Água,Hidráulica,77.0,Boleto,54.9
+1013,2023-04-01,Tinta Acrílica (18L),Tintas e Acabamento,12.0,Carteira Digital,249.0
+1014,2023-11-01,Adubo (5kg),Jardinagem,,Carteira Digital,49.9
+1015,2023-11-27,Argamassa (20kg),Construção e Estrutura,12.0,Pix,24.9
+1016,2023-05-19,Válvula de Descarga,Hidráulica,55.0,Débito,119.0
+1017,2023-11-26,,Jardinagem,31.0,Crédito,74.9
+1018,2023-05-11,Extensão (5m),Elétrica,8.0,Débito,39.9
+1019,2023-07-05,Parafusadeira,Ferramentas,90.0,Pix,429.0
+1020,2023-09-10,Extensão (5m),Elétrica,42.0,Pix,39.9
+1021,2023-12-17,Botina,Segurança e EPI,33.0,Dinheiro,149.0
+1022,2023-02-08,Areia (20kg),Construção e Estrutura,63.0,Dinheiro,14.9
+1023,2023-09-17,Trena,Ferramentas,19.0,Pix,32.0
+1024,2023-01-09,Sementes de Grama (1kg),Jardinagem,83.0,Débito,
+1025,2023-04-12,Adubo (5kg),Jardinagem,47.0,Pix,49.9
+1026,2023-10-30,Alicate,Ferramentas,79.0,Carteira Digital,41.9
+1027,2023-09-19,Luva de Proteção,Segurança e EPI,87.0,Transferência Bancária,19.9
+1028,2023-08-26,Sementes de Grama (1kg),Jardinagem,77.0,Dinheiro,19.9
+1029,2023-08-31,Telha Cerâmica,Construção e Estrutura,69.0,Carteira Digital,7.9
+1030,2023-03-15,Parafusadeira,Ferramentas,100.0,Dinheiro,429.0
+1031,2023-09-28,Carrinho de Mão,Jardinagem,14.0,Dinheiro,359.0
+1032,2023-11-11,Lâmpada LED,Elétrica,97.0,Pix,14.9
+1033,2023-10-18,Interruptor,Elétrica,45.0,Dinheiro,12.9
+1034,2023-03-10,Lanterna,Elétrica,72.0,Carteira Digital,59.9
+1035,2023-02-04,Massa Corrida (25kg),Tintas e Acabamento,96.0,Crédito,89.9
+1036,2023-07-23,Martelo,Ferramentas,32.0,Transferência Bancária,79.9
+1037,2023-09-19,Protetor Auricular,Segurança e EPI,11.0,Crédito,9.9
+1038,2023-05-09,Tomada,Elétrica,8.0,Transferência Bancária,9.9
+1039,2023-02-27,Chave de Fenda,Ferramentas,61.0,Carteira Digital,24.5
+1040,2023-04-07,Sementes de Grama (1kg),Jardinagem,17.0,Pix,19.9
+1041,2023-07-26,Serrote,Ferramentas,21.0,Débito,64.9
+1042,2023-07-17,Lâmpada LED,Elétrica,23.0,Carteira Digital,14.9
+1043,2023-01-04,Parafusadeira,Ferramentas,67.0,Carteira Digital,429.0
+1044,2023-03-23,Enxada,Jardinagem,72.0,Pix,89.9
+1045,2023-02-08,Serrote,Ferramentas,36.0,Boleto,64.9
+1046,2023-10-14,Tomada,,80.0,Crédito,9.9
+1047,2023-12-13,,Hidráulica,7.0,Dinheiro,899.0
+1048,2023-11-13,Mangueira Jardim (30m),Jardinagem,38.0,Carteira Digital,69.9
+1049,2023-08-09,Brita (20kg),Construção e Estrutura,15.0,Carteira Digital,17.9
+1050,2023-03-08,Tesoura de Poda,Jardinagem,33.0,Pix,59.9
+1051,2023-02-02,Lixadeira,Ferramentas,18.0,Carteira Digital,389.0
+1052,2023-05-03,Bloco de Concreto,Construção e Estrutura,91.0,Pix,6.0
+1053,2023-11-23,Lâmpada LED,Elétrica,97.0,Débito,14.9
+1054,2023-11-21,Tijolo,Construção e Estrutura,97.0,Débito,2.0
+1055,2023-12-13,Massa Corrida (25kg),Tintas e Acabamento,77.0,Dinheiro,89.9
+1056,2023-08-18,Protetor Auricular,Segurança e EPI,97.0,Carteira Digital,9.9
+1057,2023-12-17,Tomada,Elétrica,56.0,Carteira Digital,9.9
+1058,2023-12-07,Regador (10L),Jardinagem,74.0,Débito,39.9
+1059,2023-09-10,Alicate,Ferramentas,86.0,Dinheiro,41.9
+1060,2023-04-06,Sementes de Grama (1kg),Jardinagem,17.0,Dinheiro,19.9
+1061,2023-09-03,Fio Elétrico (100m),Elétrica,98.0,Dinheiro,3.5
+1062,2023-02-15,Fio Elétrico (100m),Elétrica,9.0,Boleto,3.5
+1063,2023-02-26,Conexão T,Hidráulica,28.0,Pix,7.9
+1064,2023-04-21,Válvula de Descarga,Hidráulica,2.0,Transferência Bancária,119.0
+1065,2023-01-09,Lixadeira,Ferramentas,24.0,Carteira Digital,389.0
+1066,2023-04-19,Caixa de água (500L),Hidráulica,77.0,Transferência Bancária,799.0
+1067,2023-04-26,Massa Corrida (25kg),Tintas e Acabamento,58.0,Carteira Digital,89.9
+1068,2023-10-03,Botina,Segurança e EPI,25.0,Débito,149.0
+1069,2023-10-18,Enxada,Jardinagem,59.0,Crédito,89.9
+1070,2023-08-14,Tijolo,Construção e Estrutura,16.0,Transferência Bancária,2.0
+1071,2023-11-29,Telha Cerâmica,Construção e Estrutura,33.0,Débito,7.9
+1072,2023-08-04,Luva de Proteção,Segurança e EPI,4.0,Débito,19.9
+1073,2023-03-22,Interruptor,Elétrica,20.0,Débito,12.9
+1074,2023-12-25,Luva de Proteção,Segurança e EPI,50.0,Boleto,19.9
+1075,2023-03-29,Trena,Ferramentas,50.0,Transferência Bancária,
+1076,2023-12-23,Botina,Segurança e EPI,99.0,Dinheiro,149.0
+1077,2023-04-08,Luva de Proteção,Segurança e EPI,6.0,Boleto,19.9
+1078,2023-07-02,Rolo de Pintura,Tintas e Acabamento,79.0,Transferência Bancária,24.9
+1079,2023-12-08,Regador (10L),Jardinagem,24.0,Pix,39.9
+1080,2023-01-09,Argamassa (20kg),Construção e Estrutura,,Transferência Bancária,24.9
+1081,2023-07-05,Lâmpada LED,Elétrica,11.0,Dinheiro,14.9
+1082,2023-02-28,Colete Reflexivo,Segurança e EPI,37.0,Dinheiro,39.9
+1083,2023-08-01,Tinta Acrílica (18L),Tintas e Acabamento,31.0,Débito,249.0
+1084,2023-03-24,Telha Cerâmica,Construção e Estrutura,4.0,Dinheiro,7.9
+1085,2023-12-09,Selador (5L),Tintas e Acabamento,66.0,Dinheiro,99.9
+1086,2023-06-17,Tomada,Elétrica,42.0,Transferência Bancária,9.9
+1087,2023-09-19,Tesoura de Poda,Jardinagem,97.0,Débito,59.9
+1088,2023-09-18,Selador (5L),Tintas e Acabamento,28.0,Transferência Bancária,99.9
+1089,,Telha Cerâmica,Construção e Estrutura,75.0,Carteira Digital,7.9
+1090,,Interruptor,Elétrica,41.0,Transferência Bancária,12.9
+1091,2023-03-12,Protetor Auricular,Segurança e EPI,44.0,Dinheiro,9.9
+1092,2023-04-13,Verniz (900ml),Tintas e Acabamento,28.0,Pix,139.9
+1093,2023-10-05,Trena,Ferramentas,56.0,Boleto,32.0
+1094,2023-07-03,Capacete,Segurança e EPI,90.0,Débito,49.9
+1095,2023-09-17,Serrote,Ferramentas,43.0,Crédito,64.9
+1096,2023-08-24,Tomada,Elétrica,18.0,Crédito,9.9
+1097,2023-07-09,Caixa de água (500L),Hidráulica,90.0,Crédito,799.0
+1098,2023-10-03,Tijolo,Construção e Estrutura,12.0,Carteira Digital,2.0
+1099,2023-05-13,Verniz (900ml),Tintas e Acabamento,40.0,Dinheiro,139.9
+1100,2023-12-28,Botina,Segurança e EPI,15.0,Carteira Digital,149.0
+1101,2023-08-05,Argamassa (20kg),Construção e Estrutura,42.0,Crédito,24.9
+1102,2023-11-21,Chave de Fenda,Ferramentas,79.0,Débito,24.5
+1103,2023-12-06,Tesoura de Poda,Jardinagem,87.0,Débito,59.9
+1104,2023-09-13,Tinta Acrílica (18L),Tintas e Acabamento,97.0,Carteira Digital,249.0
+1105,2023-06-02,Válvula de Descarga,Hidráulica,18.0,Transferência Bancária,119.0
+1106,2023-06-26,Furadeira,Ferramentas,75.0,Boleto,499.9
+1107,2023-10-31,Botina,Segurança e EPI,4.0,Dinheiro,149.0
+1108,2023-04-10,Regador (10L),Jardinagem,7.0,Boleto,39.9
+1109,2023-07-03,Disjuntor,Elétrica,8.0,Dinheiro,45.0
+1110,2023-10-31,Luva de Proteção,Segurança e EPI,11.0,Débito,19.9
+1111,2023-07-15,Óculos de Proteção,Segurança e EPI,7.0,Transferência Bancária,24.9
+1112,2023-04-26,Fio Elétrico (100m),Elétrica,71.0,Dinheiro,3.5
+1113,2023-02-06,Pincel,Tintas e Acabamento,11.0,Crédito,12.9
+1114,2023-10-29,Fio Elétrico (100m),Elétrica,96.0,Débito,3.5
+1115,2023-01-02,Lixa (Folha),Tintas e Acabamento,20.0,Boleto,4.9
+1116,2023-04-13,Luva de Proteção,Segurança e EPI,17.0,Transferência Bancária,19.9
+1117,2023-01-14,Pincel,Tintas e Acabamento,32.0,Pix,12.9
+1118,2023-05-21,Pá,Jardinagem,28.0,Dinheiro,74.9
+1119,2023-01-21,Serrote,Ferramentas,89.0,Carteira Digital,64.9
+1120,2023-08-21,Bomba de água,Hidráulica,88.0,Boleto,899.0
+1121,2023-10-08,Parafusadeira,Ferramentas,72.0,,429.0
+1122,2023-06-24,Carrinho de Mão,Jardinagem,83.0,Boleto,359.0
+1123,2023-07-29,Bloco de Concreto,Construção e Estrutura,59.0,Débito,6.0
+1124,2023-02-01,Tijolo,Construção e Estrutura,18.0,Dinheiro,2.0
+1125,2023-03-19,"Tinta Esmalte (3,6L)",Tintas e Acabamento,13.0,Débito,229.0
+1126,2023-10-24,Mangueira (20m),Hidráulica,64.0,Pix,59.0
+1127,2023-12-08,Caixa de água (500L),Hidráulica,14.0,Crédito,799.0
+1128,2023-08-17,Chave de Fenda,Ferramentas,97.0,Carteira Digital,24.5
+1129,2023-12-07,Lixa (Folha),Tintas e Acabamento,15.0,Dinheiro,4.9
+1130,2023-12-22,Interruptor,Elétrica,98.0,Crédito,12.9
+1131,2023-05-11,Adubo (5kg),Jardinagem,80.0,Débito,49.9
+1132,2023-03-21,Tinta Acrílica (18L),Tintas e Acabamento,48.0,Dinheiro,249.0
+1133,2023-02-06,Furadeira,Ferramentas,80.0,Débito,499.9
+1134,2023-06-17,Enxada,Jardinagem,27.0,Boleto,89.9
+1135,2023-08-02,Sementes de Grama (1kg),Jardinagem,43.0,Carteira Digital,19.9
+1136,2023-05-20,Serrote,Ferramentas,97.0,Carteira Digital,64.9
+1137,2023-07-27,Parafusadeira,Ferramentas,11.0,Pix,429.0
+1138,2023-03-22,Óculos de Proteção,Segurança e EPI,1.0,Débito,24.9
+1139,2023-11-04,Areia (20kg),Construção e Estrutura,76.0,Pix,14.9
+1140,2023-07-25,Selador (5L),Tintas e Acabamento,58.0,Boleto,99.9
+1141,2023-03-18,Trena,Ferramentas,77.0,Boleto,32.0
+1142,2023-08-09,Conexão T,Hidráulica,44.0,Carteira Digital,7.9
+1143,2023-12-02,Lixadeira,Ferramentas,69.0,Carteira Digital,389.0
+1144,2023-03-22,Bloco de Concreto,Construção e Estrutura,8.0,Boleto,6.0
+1145,2023-02-07,Furadeira,Ferramentas,83.0,Dinheiro,499.9
+1146,2023-07-21,Capacete,Segurança e EPI,87.0,Débito,49.9
+1147,2023-09-22,Botina,Segurança e EPI,2.0,Carteira Digital,149.0
+1148,2023-10-01,Adubo (5kg),Jardinagem,10.0,Crédito,49.9
+1149,2023-02-13,Cimento (50kg),Construção e Estrutura,85.0,Débito,39.9
+1150,2023-05-28,Óculos de Proteção,Segurança e EPI,82.0,Débito,24.9
+1151,2023-12-20,Brita (20kg),Construção e Estrutura,20.0,Boleto,17.9
+1152,2023-11-05,Extensão (5m),Elétrica,88.0,Transferência Bancária,39.9
+1153,2023-12-03,Trena,Ferramentas,6.0,Dinheiro,32.0
+1154,2023-10-18,Cano PVC (6m),Hidráulica,77.0,Dinheiro,29.9
+1155,2023-05-31,Óculos de Proteção,Segurança e EPI,3.0,Crédito,24.9
+1156,2023-01-14,Selador (5L),Tintas e Acabamento,81.0,Pix,99.9
+1157,2023-05-01,"Tinta Esmalte (3,6L)",Tintas e Acabamento,73.0,Crédito,229.0
+1158,2023-08-26,Extensão (5m),Elétrica,48.0,Pix,39.9
+1159,2023-06-11,Pá,Jardinagem,70.0,Transferência Bancária,74.9
+1160,2023-01-28,,Construção e Estrutura,14.0,Boleto,119.0
+1161,2023-09-14,Tesoura de Poda,Jardinagem,65.0,Transferência Bancária,59.9
+1162,2023-02-27,Pincel,Tintas e Acabamento,74.0,Transferência Bancária,12.9
+1163,2023-08-11,Areia (20kg),Construção e Estrutura,16.0,Boleto,14.9
+1164,2023-03-06,Conexão T,Hidráulica,87.0,Transferência Bancária,7.9
+1165,2023-06-29,Sementes de Grama (1kg),Jardinagem,2.0,Boleto,19.9
+1166,2023-04-07,Tesoura de Poda,Jardinagem,44.0,Dinheiro,59.9
+1167,2023-03-21,Lixadeira,Ferramentas,31.0,Crédito,389.0
+1168,2023-11-25,Chave de Fenda,Ferramentas,30.0,Crédito,24.5
+1169,2023-03-27,Bomba de água,Hidráulica,82.0,Pix,899.0
+1170,2023-01-28,Torneira,Hidráulica,85.0,Boleto,79.0
+1171,2023-11-06,Lâmpada LED,Elétrica,75.0,Carteira Digital,14.9
+1172,2023-02-16,Conexão T,Hidráulica,26.0,Transferência Bancária,7.9
+1173,2023-05-19,Disjuntor,Elétrica,48.0,Pix,45.0
+1174,2023-02-08,Capacete,Segurança e EPI,64.0,Débito,49.9
+1175,2023-11-01,Adubo (5kg),Jardinagem,51.0,Débito,49.9
+1176,2023-07-21,Protetor Auricular,Segurança e EPI,20.0,Transferência Bancária,9.9
+1177,2023-01-03,Parafusadeira,Ferramentas,4.0,Carteira Digital,429.0
+1178,2023-12-21,Pilha AA,Elétrica,9.0,Boleto,6.9
+1179,2023-04-20,Regador (10L),Jardinagem,24.0,Transferência Bancária,
+1180,2023-11-04,Argamassa (20kg),Construção e Estrutura,54.0,Carteira Digital,24.9
+1181,2023-10-03,Óculos de Proteção,Segurança e EPI,64.0,Dinheiro,24.9
+1182,2023-08-31,Cimento (50kg),Construção e Estrutura,11.0,Débito,39.9
+1183,2023-04-13,Parafusadeira,Ferramentas,89.0,Transferência Bancária,429.0
+1184,2023-01-08,Areia (20kg),Construção e Estrutura,1.0,Carteira Digital,14.9
+1185,2023-01-29,Registro de Água,Hidráulica,16.0,Pix,54.9
+1186,2023-12-08,Rolo de Pintura,Tintas e Acabamento,99.0,Crédito,24.9
+1187,2023-10-03,Trena,Ferramentas,27.0,Dinheiro,32.0
+1188,2023-07-11,Rolo de Pintura,Tintas e Acabamento,96.0,Transferência Bancária,24.9
+1189,2023-01-07,Parafusadeira,Ferramentas,20.0,Transferência Bancária,429.0
+1190,2023-08-23,Furadeira,Ferramentas,69.0,Dinheiro,499.9
+1191,2023-04-15,Botina,Segurança e EPI,32.0,Dinheiro,149.0
+1192,2023-08-01,"Tinta Esmalte (3,6L)",Tintas e Acabamento,48.0,Dinheiro,229.0
+1193,2023-04-28,Tijolo,Construção e Estrutura,19.0,Débito,2.0
+1194,2023-01-26,Protetor Auricular,Segurança e EPI,61.0,Crédito,9.9
+1195,2023-10-21,Adubo (5kg),Jardinagem,93.0,Carteira Digital,49.9
+1196,2023-03-02,Válvula de Descarga,Hidráulica,81.0,Dinheiro,119.0
+1197,2023-04-03,Argamassa (20kg),Construção e Estrutura,26.0,Dinheiro,24.9
+1198,2023-11-25,Tesoura de Poda,Jardinagem,76.0,Boleto,59.9
+1199,2023-12-25,Selador (5L),Tintas e Acabamento,28.0,Débito,99.9
+1200,2023-02-20,Areia (20kg),Construção e Estrutura,47.0,Boleto,14.9
+1201,2023-06-07,Máscara Respiratória,Segurança e EPI,41.0,Crédito,29.9
+1202,2023-02-22,Pincel,Tintas e Acabamento,42.0,Pix,12.9
+1203,2023-07-27,Areia (20kg),Construção e Estrutura,73.0,Carteira Digital,14.9
+1204,2023-07-03,Colete Reflexivo,Segurança e EPI,27.0,Boleto,39.9
+1205,2023-04-06,Colete Reflexivo,Segurança e EPI,35.0,Transferência Bancária,39.9
+1206,2023-05-14,Registro de Água,Hidráulica,87.0,Transferência Bancária,54.9
+1207,2023-11-25,Fio Elétrico (100m),Elétrica,13.0,Crédito,3.5
+1208,2023-09-11,Lanterna,Elétrica,100.0,Débito,59.9
+1209,2023-08-02,Parafusadeira,Ferramentas,84.0,Transferência Bancária,429.0
+1210,2023-05-01,Sementes de Grama (1kg),Jardinagem,48.0,Boleto,19.9
+1211,2023-02-20,Verga Metálica (2m),Construção e Estrutura,76.0,Pix,119.0
+1212,2023-04-15,Furadeira,Ferramentas,20.0,Crédito,499.9
+1213,2023-02-15,Martelo,Ferramentas,32.0,Crédito,79.9
+1214,2023-08-27,Tinta Acrílica (18L),Tintas e Acabamento,65.0,Boleto,249.0
+1215,2023-01-05,Chave de Fenda,Ferramentas,84.0,Transferência Bancária,24.5
+1216,2023-06-01,Protetor Auricular,Segurança e EPI,27.0,Pix,9.9
+1217,2023-08-10,Parafusadeira,Ferramentas,24.0,Boleto,429.0
+1218,2023-10-16,Areia (20kg),Construção e Estrutura,51.0,Pix,14.9
+1219,2023-12-04,Óculos de Proteção,Segurança e EPI,80.0,Transferência Bancária,24.9
+1220,2023-04-03,Bomba de água,Hidráulica,61.0,Transferência Bancária,899.0
+1221,2023-10-18,Lanterna,Elétrica,37.0,Crédito,59.9
+1222,2023-05-07,Pá,Jardinagem,19.0,Débito,74.9
+1223,2023-10-20,Argamassa (20kg),Construção e Estrutura,64.0,Crédito,24.9
+1224,2023-04-25,Lixa (Folha),Tintas e Acabamento,17.0,Boleto,4.9
+1225,2023-04-19,Areia (20kg),Construção e Estrutura,35.0,Pix,14.9
+1226,2023-07-07,Fio Elétrico (100m),Elétrica,28.0,Boleto,3.5
+1227,2023-08-07,Fio Elétrico (100m),Elétrica,26.0,Carteira Digital,3.5
+1228,2023-09-24,Carrinho de Mão,Jardinagem,59.0,Dinheiro,359.0
+1229,2023-06-27,Selador (5L),Tintas e Acabamento,76.0,Dinheiro,99.9
+1230,2023-11-30,Argamassa (20kg),Construção e Estrutura,79.0,Dinheiro,24.9
+1231,2023-12-23,Regador (10L),Jardinagem,29.0,Carteira Digital,39.9
+1232,2023-02-22,Colete Reflexivo,Segurança e EPI,31.0,Pix,39.9
+1233,2023-05-05,Verniz (900ml),Tintas e Acabamento,58.0,Transferência Bancária,139.9
+1234,2023-12-20,Capacete,Segurança e EPI,79.0,Débito,49.9
+1235,2023-06-02,Enxada,Jardinagem,37.0,Débito,89.9
+1236,2023-11-19,Telha Cerâmica,Construção e Estrutura,10.0,Boleto,7.9
+1237,2023-06-06,Tomada,Elétrica,42.0,Débito,9.9
+1238,2023-08-21,Trena,Ferramentas,86.0,Crédito,32.0
+1239,2023-06-05,Lixa (Folha),Tintas e Acabamento,43.0,Boleto,4.9
+1240,2023-01-04,Tomada,Elétrica,5.0,Crédito,9.9
+1241,2023-05-06,Lâmpada LED,Elétrica,78.0,Crédito,14.9
+1242,,Tomada,Elétrica,37.0,Boleto,9.9
+1243,2023-02-17,Protetor Auricular,Segurança e EPI,88.0,Pix,9.9
+1244,2023-10-01,Alicate,Ferramentas,55.0,Dinheiro,41.9
+1245,2023-10-10,Caixa de água (500L),Hidráulica,78.0,Crédito,799.0
+1246,2023-11-20,Pincel,,43.0,Carteira Digital,12.9
+1247,2023-12-12,Martelo,Ferramentas,44.0,Transferência Bancária,79.9
+1248,2023-03-03,Tinta Acrílica (18L),Tintas e Acabamento,34.0,Débito,249.0
+1249,2023-09-01,Serrote,Ferramentas,28.0,Débito,64.9
+1250,2023-02-24,Serrote,Ferramentas,3.0,Crédito,64.9
+1251,2023-10-08,Trena,Ferramentas,64.0,Crédito,32.0
+1252,2023-11-19,Conexão T,,24.0,Crédito,7.9
+1253,2023-09-27,"Tinta Esmalte (3,6L)",Tintas e Acabamento,40.0,Débito,229.0
+1254,2023-11-11,Areia (20kg),Construção e Estrutura,69.0,Dinheiro,14.9
+1255,2023-05-09,Fio Elétrico (100m),Elétrica,14.0,Pix,3.5
+1256,2023-07-20,Alicate,Ferramentas,59.0,Boleto,41.9
+1257,2023-01-30,Protetor Auricular,Segurança e EPI,94.0,Boleto,9.9
+1258,2023-11-30,Brita (20kg),Construção e Estrutura,34.0,Transferência Bancária,17.9
+1259,2023-05-25,Conexão T,Hidráulica,58.0,Boleto,7.9
+1260,2023-03-19,Brita (20kg),Construção e Estrutura,7.0,Pix,17.9
+1261,2023-01-29,Tinta Acrílica (18L),Tintas e Acabamento,28.0,Carteira Digital,249.0
+1262,2023-05-18,Lâmpada LED,Elétrica,55.0,Crédito,14.9
+1263,2023-05-24,Telha Cerâmica,Construção e Estrutura,96.0,Carteira Digital,7.9
+1264,2023-05-20,Tijolo,Construção e Estrutura,100.0,Crédito,2.0
+1265,2023-03-28,Pá,Jardinagem,19.0,Carteira Digital,74.9
+1266,2023-12-15,Alicate,Ferramentas,2.0,Boleto,41.9
+1267,2023-11-12,Tijolo,Construção e Estrutura,14.0,Boleto,2.0
+1268,2023-10-15,Verga Metálica (2m),Construção e Estrutura,46.0,Dinheiro,119.0
+1269,2023-06-17,Mangueira (20m),Hidráulica,86.0,Dinheiro,59.0
+1270,2023-07-26,Tijolo,Construção e Estrutura,92.0,Dinheiro,2.0
+1271,2023-11-18,"Tinta Esmalte (3,6L)",Tintas e Acabamento,33.0,Dinheiro,229.0
+1272,2023-09-06,Massa Corrida (25kg),Tintas e Acabamento,12.0,Crédito,89.9
+1273,2023-09-05,Selador (5L),Tintas e Acabamento,21.0,Crédito,99.9
+1274,2023-01-15,Mangueira (20m),Hidráulica,73.0,Carteira Digital,59.0
+1275,2023-05-03,Parafusadeira,Ferramentas,100.0,Carteira Digital,429.0
+1276,2023-01-07,Adubo (5kg),Jardinagem,28.0,Carteira Digital,49.9
+1277,,Tijolo,Construção e Estrutura,63.0,Boleto,2.0
+1278,2023-04-19,Bloco de Concreto,Construção e Estrutura,34.0,Boleto,6.0
+1279,2023-06-26,Válvula de Descarga,Hidráulica,57.0,Pix,119.0
+1280,2023-10-08,Bloco de Concreto,Construção e Estrutura,21.0,Carteira Digital,6.0
+1281,2023-02-22,Interruptor,Elétrica,66.0,Boleto,12.9
+1282,2023-03-20,Cano PVC (6m),Hidráulica,5.0,Pix,29.9
+1283,2023-09-05,Serrote,Ferramentas,93.0,Débito,64.9
+1284,2023-04-10,Lanterna,,81.0,Pix,59.9
+1285,2023-09-03,Cimento (50kg),Construção e Estrutura,65.0,Pix,39.9
+1286,2023-05-04,Colete Reflexivo,Segurança e EPI,74.0,Carteira Digital,39.9
+1287,2023-03-10,Pá,Jardinagem,67.0,Transferência Bancária,74.9
+1288,2023-01-03,Lixadeira,Ferramentas,15.0,Pix,389.0
+1289,2023-12-02,Caixa de água (500L),Hidráulica,73.0,Carteira Digital,799.0
+1290,2023-02-24,Luva de Proteção,Segurança e EPI,87.0,Pix,19.9
+1291,2023-02-14,Telha Cerâmica,Construção e Estrutura,12.0,Boleto,7.9
+1292,2023-12-29,Bloco de Concreto,Construção e Estrutura,54.0,Pix,6.0
+1293,2023-08-15,Pincel,Tintas e Acabamento,88.0,Crédito,12.9
+1294,2023-02-21,Caixa de água (500L),Hidráulica,20.0,Pix,799.0
+1295,2023-03-22,Lixadeira,Ferramentas,45.0,Boleto,389.0
+1296,2023-09-16,Fio Elétrico (100m),Elétrica,88.0,Pix,3.5
+1297,2023-06-12,Protetor Auricular,Segurança e EPI,15.0,Boleto,9.9
+1298,2023-11-04,Caixa de água (500L),Hidráulica,90.0,Transferência Bancária,799.0
+1299,2023-03-01,Sementes de Grama (1kg),Jardinagem,84.0,Carteira Digital,19.9
+1300,2023-12-10,Cano PVC (6m),Hidráulica,41.0,Crédito,29.9
+1301,2023-04-12,Registro de Água,Hidráulica,50.0,Boleto,54.9
+1302,2023-03-21,Registro de Água,Hidráulica,85.0,Pix,54.9
+1303,2023-12-31,Botina,Segurança e EPI,41.0,Dinheiro,149.0
+1304,2023-10-12,Protetor Auricular,Segurança e EPI,74.0,Crédito,9.9
+1305,2023-10-01,Alicate,Ferramentas,56.0,Carteira Digital,41.9
+1306,2023-08-31,Bloco de Concreto,Construção e Estrutura,60.0,Crédito,6.0
+1307,2023-09-13,Colete Reflexivo,Segurança e EPI,13.0,Dinheiro,39.9
+1308,2023-02-28,Martelo,Ferramentas,71.0,Boleto,79.9
+1309,2023-03-31,Bloco de Concreto,Construção e Estrutura,25.0,Boleto,6.0
+1310,2023-03-21,Interruptor,Elétrica,97.0,Crédito,12.9
+1311,2023-02-25,Tijolo,Construção e Estrutura,13.0,Débito,2.0
+1312,2023-07-12,Parafusadeira,Ferramentas,78.0,Pix,429.0
+1313,2023-02-25,Parafusadeira,Ferramentas,50.0,Crédito,429.0
+1314,2023-10-03,Brita (20kg),Construção e Estrutura,42.0,Débito,17.9
+1315,2023-05-15,Bomba de água,Hidráulica,4.0,Pix,899.0
+1316,2023-05-13,Cano PVC (6m),Hidráulica,91.0,Dinheiro,29.9
+1317,2023-04-30,Luva de Proteção,Segurança e EPI,5.0,Transferência Bancária,19.9
+1318,2023-05-21,Argamassa (20kg),Construção e Estrutura,15.0,Pix,24.9
+1319,2023-10-30,Disjuntor,Elétrica,28.0,Crédito,45.0
+1320,2023-07-01,Cano PVC (6m),Hidráulica,24.0,Pix,29.9
+1321,2023-01-27,Rolo de Pintura,Tintas e Acabamento,96.0,Boleto,24.9
+1322,2023-10-24,Pincel,Tintas e Acabamento,13.0,Carteira Digital,12.9
+1323,2023-10-16,Adubo (5kg),Jardinagem,91.0,Transferência Bancária,49.9
+1324,2023-07-22,Lixadeira,Ferramentas,33.0,Crédito,389.0
+1325,2023-04-23,Fio Elétrico (100m),Elétrica,47.0,Boleto,3.5
+1326,2023-04-08,Óculos de Proteção,Segurança e EPI,24.0,Dinheiro,24.9
+1327,2023-02-03,Tijolo,Construção e Estrutura,,Carteira Digital,2.0
+1328,2023-07-27,Máscara Respiratória,Segurança e EPI,75.0,Débito,29.9
+1329,2023-06-27,Lixa (Folha),Tintas e Acabamento,58.0,Boleto,4.9
+1330,2023-10-29,Martelo,Ferramentas,23.0,Boleto,79.9
+1331,2023-09-09,Furadeira,Ferramentas,89.0,Dinheiro,499.9
+1332,2023-09-06,Lanterna,Elétrica,39.0,Dinheiro,59.9
+1333,2023-10-27,Registro de Água,Hidráulica,67.0,Transferência Bancária,54.9
+1334,2023-11-03,Mangueira Jardim (30m),Jardinagem,88.0,Débito,69.9
+1335,2023-02-23,Tesoura de Poda,Jardinagem,31.0,Boleto,59.9
+1336,,Extensão (5m),Elétrica,59.0,Carteira Digital,39.9
+1337,2023-11-22,Lâmpada LED,Elétrica,63.0,,14.9
+1338,2023-08-28,Carrinho de Mão,Jardinagem,99.0,Pix,
+1339,2023-01-08,Cimento (50kg),Construção e Estrutura,22.0,Carteira Digital,39.9
+1340,2023-03-07,Enxada,Jardinagem,52.0,Carteira Digital,89.9
+1341,2023-07-26,Pincel,Tintas e Acabamento,66.0,Transferência Bancária,12.9
+1342,2023-02-06,Caixa de água (500L),Hidráulica,91.0,Crédito,799.0
+1343,2023-03-10,Botina,Segurança e EPI,39.0,Boleto,149.0
+1344,2023-10-12,Caixa de água (500L),Hidráulica,39.0,Transferência Bancária,799.0
+1345,2023-07-09,Conexão T,Hidráulica,66.0,Crédito,7.9
+1346,2023-04-12,Pincel,Tintas e Acabamento,97.0,Boleto,12.9
+1347,2023-01-02,Luva de Proteção,Segurança e EPI,14.0,Crédito,19.9
+1348,2023-12-09,Interruptor,Elétrica,59.0,Crédito,12.9
+1349,2023-01-30,Óculos de Proteção,Segurança e EPI,90.0,Pix,24.9
+1350,2023-01-05,Telha Cerâmica,Construção e Estrutura,17.0,Pix,7.9
+1351,2023-04-04,Regador (10L),Jardinagem,42.0,Boleto,39.9
+1352,2023-01-19,Pincel,Tintas e Acabamento,16.0,Pix,12.9
+1353,2023-07-08,Alicate,Ferramentas,88.0,Transferência Bancária,41.9
+1354,2023-02-13,Martelo,Ferramentas,65.0,Crédito,79.9
+1355,2023-11-05,Bloco de Concreto,Construção e Estrutura,39.0,Boleto,6.0
+1356,2023-10-13,Tijolo,Construção e Estrutura,32.0,Boleto,2.0
+1357,2023-04-08,Máscara Respiratória,Segurança e EPI,80.0,Débito,29.9
+1358,2023-12-07,Disjuntor,Elétrica,89.0,Débito,45.0
+1359,2023-01-18,Bomba de água,Hidráulica,33.0,Carteira Digital,899.0
+1360,2023-11-16,Bloco de Concreto,Construção e Estrutura,50.0,Crédito,6.0
+1361,2023-04-13,Trena,Ferramentas,63.0,Crédito,32.0
+1362,2023-02-14,Enxada,Jardinagem,15.0,Carteira Digital,89.9
+1363,2023-11-21,Areia (20kg),Construção e Estrutura,27.0,Dinheiro,14.9
+1364,2023-06-22,Lâmpada LED,Elétrica,53.0,Dinheiro,14.9
+1365,2023-08-05,Lanterna,Elétrica,12.0,Pix,59.9
+1366,2023-12-27,Parafusadeira,Ferramentas,48.0,Crédito,429.0
+1367,2023-01-11,Lâmpada LED,Elétrica,51.0,Carteira Digital,14.9
+1368,2023-02-28,Conexão T,Hidráulica,34.0,Dinheiro,7.9
+1369,2023-12-19,Luva de Proteção,Segurança e EPI,72.0,Débito,19.9
+1370,2023-08-09,Pá,Jardinagem,37.0,Pix,74.9
+1371,2023-06-12,Tomada,Elétrica,47.0,Boleto,9.9
+1372,2023-06-27,Massa Corrida (25kg),Tintas e Acabamento,73.0,Boleto,89.9
+1373,2023-12-07,Telha Cerâmica,Construção e Estrutura,69.0,Pix,7.9
+1374,2023-07-21,Chave de Fenda,Ferramentas,52.0,Crédito,24.5
+1375,2023-11-25,Brita (20kg),Construção e Estrutura,47.0,Boleto,17.9
+1376,2023-03-18,Enxada,Jardinagem,33.0,Débito,89.9
+1377,2023-07-19,Torneira,Hidráulica,22.0,Boleto,79.0
+1378,2023-06-01,Alicate,Ferramentas,21.0,Boleto,41.9
+1379,2023-11-01,"Tinta Esmalte (3,6L)",Tintas e Acabamento,100.0,Boleto,229.0
+1380,2023-07-19,Telha Cerâmica,Construção e Estrutura,19.0,Crédito,7.9
+1381,2023-02-20,Conexão T,Hidráulica,82.0,Carteira Digital,7.9
+1382,2023-08-09,Tomada,Elétrica,26.0,Boleto,9.9
+1383,2023-09-24,Cano PVC (6m),Hidráulica,65.0,Débito,29.9
+1384,2023-09-13,Enxada,Jardinagem,43.0,Pix,89.9
+1385,2023-10-25,Telha Cerâmica,Construção e Estrutura,48.0,Débito,7.9
+1386,2023-05-10,Lâmpada LED,Elétrica,12.0,Dinheiro,14.9
+1387,2023-05-27,Trena,Ferramentas,23.0,Boleto,32.0
+1388,2023-03-30,Caixa de água (500L),Hidráulica,100.0,Boleto,799.0
+1389,2023-07-16,Torneira,Hidráulica,1.0,Transferência Bancária,79.0
+1390,2023-05-29,Pá,Jardinagem,75.0,Dinheiro,74.9
+1391,2023-04-29,Interruptor,Elétrica,50.0,Débito,12.9
+1392,2023-04-18,Bloco de Concreto,Construção e Estrutura,5.0,Débito,6.0
+1393,2023-08-14,Sementes de Grama (1kg),Jardinagem,13.0,Dinheiro,19.9
+1394,2023-09-05,Máscara Respiratória,Segurança e EPI,28.0,Transferência Bancária,29.9
+1395,2023-05-19,Enxada,Jardinagem,23.0,Pix,89.9
+1396,2023-09-26,Interruptor,Elétrica,10.0,Dinheiro,12.9
+1397,2023-04-20,Argamassa (20kg),Construção e Estrutura,26.0,Carteira Digital,24.9
+1398,2023-10-29,Brita (20kg),Construção e Estrutura,35.0,Pix,17.9
+1399,2023-09-17,Lanterna,Elétrica,10.0,Carteira Digital,59.9
+1400,2023-01-01,Martelo,Ferramentas,36.0,Crédito,79.9
+1401,2023-10-31,Capacete,Segurança e EPI,25.0,Crédito,49.9
+1402,2023-02-22,Interruptor,Elétrica,17.0,Crédito,12.9
+1403,2023-04-18,Colete Reflexivo,Segurança e EPI,39.0,Carteira Digital,39.9
+1404,2023-06-05,Serrote,Ferramentas,21.0,Carteira Digital,64.9
+1405,2023-01-05,Argamassa (20kg),Construção e Estrutura,27.0,Carteira Digital,24.9
+1406,2023-07-16,Selador (5L),Tintas e Acabamento,90.0,Débito,99.9
+1407,2023-01-28,Extensão (5m),Elétrica,80.0,Dinheiro,39.9
+1408,2023-09-17,Luva de Proteção,Segurança e EPI,76.0,Débito,19.9
+1409,2023-12-12,Óculos de Proteção,Segurança e EPI,68.0,Crédito,24.9
+1410,2023-11-05,Tesoura de Poda,Jardinagem,83.0,Débito,59.9
+1411,2023-10-03,Registro de Água,Hidráulica,15.0,Transferência Bancária,54.9
+1412,2023-12-09,Massa Corrida (25kg),Tintas e Acabamento,18.0,Transferência Bancária,89.9
+1413,2023-12-12,Enxada,Jardinagem,14.0,Boleto,89.9
+1414,2023-09-16,Martelo,Ferramentas,81.0,Débito,79.9
+1415,2023-02-09,Óculos de Proteção,Segurança e EPI,24.0,Transferência Bancária,24.9
+1416,2023-05-03,Cano PVC (6m),Hidráulica,55.0,Carteira Digital,29.9
+1417,2023-12-02,Colete Reflexivo,Segurança e EPI,79.0,Pix,39.9
+1418,2023-08-05,Lanterna,Elétrica,22.0,Dinheiro,59.9
+1419,2023-11-12,Trena,Ferramentas,49.0,Crédito,32.0
+1420,2023-03-10,Furadeira,Ferramentas,16.0,Boleto,499.9
+1421,2023-08-10,Conexão T,Hidráulica,43.0,Boleto,7.9
+1422,2023-02-03,Rolo de Pintura,Tintas e Acabamento,63.0,Transferência Bancária,24.9
+1423,2023-09-03,Conexão T,Hidráulica,91.0,Crédito,7.9
+1424,2023-12-11,Registro de Água,Hidráulica,15.0,Carteira Digital,54.9
+1425,2023-11-22,Bomba de água,Hidráulica,27.0,Débito,899.0
+1426,2023-09-30,Mangueira Jardim (30m),Jardinagem,14.0,Crédito,69.9
+1427,2023-08-11,Capacete,Segurança e EPI,40.0,Transferência Bancária,49.9
+1428,2023-02-08,Verga Metálica (2m),Construção e Estrutura,51.0,Débito,119.0
+1429,2023-03-03,Protetor Auricular,Segurança e EPI,41.0,Pix,9.9
+1430,2023-10-02,Tesoura de Poda,Jardinagem,100.0,Débito,59.9
+1431,2023-03-13,Tinta Acrílica (18L),Tintas e Acabamento,86.0,Pix,249.0
+1432,2023-12-10,Mangueira Jardim (30m),Jardinagem,29.0,Dinheiro,69.9
+1433,2023-11-09,Martelo,Ferramentas,79.0,Débito,79.9
+1434,2023-11-07,Regador (10L),Jardinagem,84.0,Crédito,39.9
+1435,2023-02-23,Luva de Proteção,Segurança e EPI,36.0,Dinheiro,19.9
+1436,2023-02-25,Areia (20kg),Construção e Estrutura,94.0,Crédito,14.9
+1437,2023-11-03,Verga Metálica (2m),Construção e Estrutura,4.0,Carteira Digital,119.0
+1438,2023-09-16,Lixadeira,Ferramentas,35.0,Pix,389.0
+1439,2023-12-06,Argamassa (20kg),Construção e Estrutura,35.0,Débito,24.9
+1440,2023-08-15,Adubo (5kg),Jardinagem,76.0,Débito,49.9
+1441,2023-06-15,Massa Corrida (25kg),Tintas e Acabamento,18.0,Dinheiro,89.9
+1442,2023-04-02,Lixadeira,Ferramentas,12.0,Crédito,389.0
+1443,2023-10-02,Selador (5L),Tintas e Acabamento,23.0,Transferência Bancária,99.9
+1444,2023-05-09,Óculos de Proteção,Segurança e EPI,14.0,Transferência Bancária,24.9
+1445,2023-11-28,Colete Reflexivo,Segurança e EPI,25.0,Dinheiro,39.9
+1446,2023-01-29,Colete Reflexivo,Segurança e EPI,1.0,Pix,39.9
+1447,2023-10-05,Registro de Água,Hidráulica,36.0,Boleto,54.9
+1448,2023-09-04,Adubo (5kg),Jardinagem,1.0,Débito,49.9
+1449,2023-01-23,Parafusadeira,Ferramentas,57.0,Boleto,429.0
+1450,2023-10-25,Luva de Proteção,Segurança e EPI,57.0,Pix,
+1451,2023-12-22,Furadeira,Ferramentas,83.0,Débito,499.9
+1452,2023-10-31,Chave de Fenda,Ferramentas,66.0,Dinheiro,24.5
+1453,2023-04-24,Furadeira,Ferramentas,64.0,Transferência Bancária,499.9
+1454,2023-06-14,Fio Elétrico (100m),Elétrica,93.0,Pix,3.5
+1455,2023-07-09,"Tinta Esmalte (3,6L)",Tintas e Acabamento,85.0,Carteira Digital,229.0
+1456,2023-01-27,Conexão T,Hidráulica,14.0,Dinheiro,7.9
+1457,2023-01-28,Lixadeira,Ferramentas,29.0,Crédito,389.0
+1458,2023-01-10,Lixa (Folha),Tintas e Acabamento,52.0,,4.9
+1459,2023-07-21,Brita (20kg),Construção e Estrutura,64.0,Transferência Bancária,17.9
+1460,2023-11-27,,Tintas e Acabamento,45.0,Dinheiro,99.9
+1461,,Areia (20kg),Construção e Estrutura,26.0,Boleto,14.9
+1462,2023-02-11,Massa Corrida (25kg),Tintas e Acabamento,17.0,Débito,89.9
+1463,2023-11-13,Serrote,Ferramentas,96.0,Débito,64.9
+1464,2023-10-07,Bloco de Concreto,,73.0,Pix,6.0
+1465,2023-10-01,Bomba de água,Hidráulica,53.0,Pix,899.0
+1466,2023-10-19,Pilha AA,Elétrica,73.0,Carteira Digital,6.9
+1467,2023-06-05,Tinta Acrílica (18L),Tintas e Acabamento,28.0,Carteira Digital,249.0
+1468,2023-05-18,Torneira,Hidráulica,79.0,Transferência Bancária,79.0
+1469,2023-02-04,Verniz (900ml),Tintas e Acabamento,27.0,Pix,139.9
+1470,2023-03-10,Bomba de água,Hidráulica,29.0,Pix,899.0
+1471,2023-08-15,Torneira,Hidráulica,31.0,Crédito,79.0
+1472,2023-03-08,Tijolo,Construção e Estrutura,70.0,Débito,2.0
+1473,2023-01-11,Capacete,Segurança e EPI,28.0,Carteira Digital,49.9
+1474,2023-05-10,"Tinta Esmalte (3,6L)",Tintas e Acabamento,84.0,,229.0
+1475,2023-10-09,Tomada,Elétrica,72.0,Boleto,9.9
+1476,2023-03-01,Cimento (50kg),Construção e Estrutura,27.0,Pix,39.9
+1477,2023-12-13,Argamassa (20kg),Construção e Estrutura,23.0,Boleto,24.9
+1478,2023-03-19,Lanterna,Elétrica,69.0,Crédito,59.9
+1479,2023-09-02,Fio Elétrico (100m),Elétrica,86.0,Carteira Digital,3.5
+1480,2023-05-08,,Elétrica,97.0,Pix,6.9
+1481,2023-08-30,Bomba de água,Hidráulica,59.0,Débito,899.0
+1482,2023-05-16,Extensão (5m),Elétrica,47.0,Transferência Bancária,39.9
+1483,2023-01-24,Máscara Respiratória,Segurança e EPI,60.0,Carteira Digital,29.9
+1484,2023-02-02,Mangueira (20m),Hidráulica,9.0,Débito,59.0
+1485,,Tijolo,Construção e Estrutura,68.0,Pix,2.0
+1486,2023-07-06,Colete Reflexivo,Segurança e EPI,73.0,Dinheiro,39.9
+1487,2023-12-08,Bloco de Concreto,Construção e Estrutura,31.0,Carteira Digital,6.0
+1488,2023-09-14,Martelo,Ferramentas,18.0,Dinheiro,79.9
+1489,2023-07-13,Enxada,Jardinagem,13.0,Boleto,89.9
+1490,2023-10-09,Regador (10L),Jardinagem,43.0,Boleto,39.9
+1491,2023-11-04,Mangueira Jardim (30m),Jardinagem,17.0,Pix,69.9
+1492,2023-03-26,Areia (20kg),Construção e Estrutura,15.0,Carteira Digital,14.9
+1493,2023-07-12,Capacete,Segurança e EPI,57.0,Carteira Digital,49.9
+1494,2023-08-18,Disjuntor,Elétrica,80.0,Débito,45.0
+1495,2023-09-01,Disjuntor,Elétrica,51.0,Carteira Digital,45.0
+1496,2023-01-06,Trena,Ferramentas,33.0,Boleto,32.0
+1497,2023-05-06,Tinta Acrílica (18L),Tintas e Acabamento,99.0,Transferência Bancária,249.0
+1498,2023-08-01,Caixa de água (500L),Hidráulica,53.0,Dinheiro,799.0
+1499,2023-10-13,Telha Cerâmica,Construção e Estrutura,5.0,Dinheiro,7.9
+1500,2023-12-17,Mangueira Jardim (30m),Jardinagem,10.0,Carteira Digital,69.9
+1501,2023-01-02,Lâmpada LED,Elétrica,25.0,Pix,14.9
+1502,2023-11-17,Serrote,Ferramentas,84.0,Débito,64.9
+1503,2023-10-11,Enxada,Jardinagem,48.0,Pix,89.9
+1504,2023-10-27,Luva de Proteção,Segurança e EPI,99.0,Transferência Bancária,19.9
+1505,2023-11-16,Tijolo,Construção e Estrutura,58.0,Dinheiro,2.0
+1506,2023-02-22,Massa Corrida (25kg),Tintas e Acabamento,74.0,Débito,89.9
+1507,2023-03-14,Carrinho de Mão,Jardinagem,93.0,Débito,359.0
+1508,2023-11-27,Tesoura de Poda,Jardinagem,83.0,Transferência Bancária,59.9
+1509,2023-06-21,Lanterna,Elétrica,69.0,Carteira Digital,59.9
+1510,2023-11-13,Fio Elétrico (100m),Elétrica,,Carteira Digital,3.5
+1511,2023-12-09,Verga Metálica (2m),Construção e Estrutura,11.0,Crédito,119.0
+1512,2023-06-01,Carrinho de Mão,Jardinagem,74.0,Boleto,359.0
+1513,2023-08-31,Lâmpada LED,Elétrica,28.0,Crédito,14.9
+1514,2023-05-02,Conexão T,Hidráulica,85.0,Transferência Bancária,7.9
+1515,2023-08-24,Botina,Segurança e EPI,45.0,Débito,149.0
+1516,2023-02-14,Cimento (50kg),Construção e Estrutura,38.0,Boleto,39.9
+1517,2023-04-09,Chave de Fenda,Ferramentas,9.0,Dinheiro,24.5
+1518,2023-09-12,Protetor Auricular,Segurança e EPI,39.0,Transferência Bancária,9.9
+1519,2023-05-28,Argamassa (20kg),Construção e Estrutura,67.0,Transferência Bancária,24.9
+1520,2023-06-23,Selador (5L),Tintas e Acabamento,24.0,Transferência Bancária,99.9
+1521,2023-02-26,Trena,Ferramentas,44.0,Carteira Digital,32.0
+1522,2023-03-24,Tinta Acrílica (18L),Tintas e Acabamento,4.0,Débito,249.0
+1523,2023-08-23,Areia (20kg),Construção e Estrutura,32.0,Débito,14.9
+1524,2023-03-11,Enxada,Jardinagem,30.0,Transferência Bancária,89.9
+1525,2023-02-10,Pincel,Tintas e Acabamento,83.0,Dinheiro,12.9
+1526,2023-08-10,Cano PVC (6m),Hidráulica,93.0,Carteira Digital,29.9
+1527,2023-01-26,Adubo (5kg),Jardinagem,77.0,Crédito,49.9
+1528,2023-12-16,Massa Corrida (25kg),Tintas e Acabamento,75.0,Pix,89.9
+1529,2023-10-01,Pilha AA,Elétrica,11.0,Pix,6.9
+1530,2023-12-13,Pá,Jardinagem,22.0,Transferência Bancária,74.9
+1531,2023-01-10,Lixa (Folha),Tintas e Acabamento,91.0,Dinheiro,4.9
+1532,,Massa Corrida (25kg),Tintas e Acabamento,23.0,Pix,89.9
+1533,2023-06-07,Tesoura de Poda,Jardinagem,9.0,Carteira Digital,59.9
+1534,2023-02-04,Enxada,Jardinagem,84.0,Boleto,89.9
+1535,2023-10-11,Argamassa (20kg),Construção e Estrutura,23.0,Débito,24.9
+1536,2023-08-11,Bomba de água,Hidráulica,50.0,Pix,899.0
+1537,2023-01-31,Telha Cerâmica,Construção e Estrutura,82.0,Carteira Digital,7.9
+1538,2023-06-18,Disjuntor,Elétrica,48.0,Dinheiro,45.0
+1539,2023-10-18,Torneira,Hidráulica,23.0,Débito,79.0
+1540,2023-04-09,Fio Elétrico (100m),Elétrica,85.0,Pix,3.5
+1541,2023-03-25,Registro de Água,Hidráulica,32.0,Débito,54.9
+1542,2023-06-19,Protetor Auricular,,59.0,Débito,9.9
+1543,2023-03-23,Brita (20kg),Construção e Estrutura,40.0,Crédito,17.9
+1544,2023-04-28,Trena,Ferramentas,47.0,Pix,32.0
+1545,2023-11-19,"Tinta Esmalte (3,6L)",Tintas e Acabamento,78.0,,229.0
+1546,2023-11-21,Tijolo,Construção e Estrutura,63.0,,2.0
+1547,2023-09-10,Máscara Respiratória,Segurança e EPI,91.0,Carteira Digital,29.9
+1548,2023-09-07,Parafusadeira,Ferramentas,69.0,Crédito,429.0
+1549,2023-12-08,Máscara Respiratória,Segurança e EPI,99.0,Boleto,29.9
+1550,2023-03-19,Adubo (5kg),Jardinagem,10.0,Carteira Digital,49.9
+1551,2023-07-08,Protetor Auricular,Segurança e EPI,46.0,Dinheiro,9.9
+1552,2023-10-06,Martelo,Ferramentas,87.0,Transferência Bancária,
+1553,2023-09-18,Enxada,Jardinagem,73.0,Pix,89.9
+1554,2023-03-06,Fio Elétrico (100m),Elétrica,49.0,Pix,3.5
+1555,2023-08-10,Trena,Ferramentas,6.0,Crédito,32.0
+1556,2023-01-29,Lâmpada LED,Elétrica,28.0,Boleto,14.9
+1557,2023-01-27,Alicate,Ferramentas,70.0,Crédito,41.9
+1558,2023-09-27,Pincel,Tintas e Acabamento,6.0,Transferência Bancária,12.9
+1559,2023-02-19,Lixadeira,Ferramentas,47.0,Pix,389.0
+1560,2023-12-23,Massa Corrida (25kg),Tintas e Acabamento,78.0,Crédito,89.9
+1561,2023-05-23,Pilha AA,Elétrica,83.0,Boleto,6.9
+1562,2023-03-15,Verga Metálica (2m),Construção e Estrutura,2.0,Carteira Digital,119.0
+1563,2023-12-15,Tesoura de Poda,Jardinagem,11.0,Dinheiro,59.9
+1564,2023-05-27,Sementes de Grama (1kg),Jardinagem,79.0,Transferência Bancária,19.9
+1565,2023-01-13,Mangueira Jardim (30m),Jardinagem,26.0,Carteira Digital,69.9
+1566,2023-10-02,Capacete,Segurança e EPI,66.0,Dinheiro,49.9
+1567,2023-03-18,Lâmpada LED,Elétrica,74.0,Carteira Digital,14.9
+1568,2023-09-15,Válvula de Descarga,Hidráulica,40.0,Boleto,119.0
+1569,2023-09-02,Registro de Água,Hidráulica,38.0,Boleto,54.9
+1570,2023-08-27,Selador (5L),Tintas e Acabamento,98.0,Crédito,99.9
+1571,2023-01-20,Fio Elétrico (100m),Elétrica,88.0,Débito,3.5
+1572,2023-11-16,Capacete,Segurança e EPI,63.0,Carteira Digital,49.9
+1573,2023-10-31,Cimento (50kg),Construção e Estrutura,86.0,Transferência Bancária,39.9
+1574,2023-06-04,Conexão T,Hidráulica,84.0,Dinheiro,7.9
+1575,2023-03-18,Pá,Jardinagem,54.0,Boleto,74.9
+1576,2023-04-16,Massa Corrida (25kg),Tintas e Acabamento,31.0,Dinheiro,89.9
+1577,2023-02-13,Furadeira,Ferramentas,71.0,Crédito,499.9
+1578,2023-12-22,,Ferramentas,71.0,Transferência Bancária,41.9
+1579,2023-06-20,Tomada,Elétrica,58.0,Carteira Digital,9.9
+1580,2023-05-08,Registro de Água,,95.0,Transferência Bancária,54.9
+1581,2023-08-31,Botina,Segurança e EPI,33.0,Pix,149.0
+1582,2023-09-04,Bloco de Concreto,Construção e Estrutura,84.0,Crédito,6.0
+1583,2023-05-23,Válvula de Descarga,Hidráulica,76.0,Transferência Bancária,119.0
+1584,2023-08-24,Colete Reflexivo,Segurança e EPI,94.0,Pix,39.9
+1585,2023-12-03,Tomada,Elétrica,29.0,Crédito,9.9
+1586,2023-12-10,Botina,Segurança e EPI,16.0,Pix,149.0
+1587,2023-09-15,Válvula de Descarga,Hidráulica,50.0,Débito,119.0
+1588,2023-04-29,Chave de Fenda,Ferramentas,64.0,Boleto,24.5
+1589,2023-11-17,Botina,Segurança e EPI,44.0,Pix,149.0
+1590,2023-04-28,Brita (20kg),Construção e Estrutura,49.0,Transferência Bancária,
+1591,,Lâmpada LED,Elétrica,43.0,Boleto,14.9
+1592,2023-12-21,Chave de Fenda,Ferramentas,95.0,Transferência Bancária,24.5
+1593,2023-05-01,Pilha AA,Elétrica,76.0,Carteira Digital,6.9
+1594,2023-09-05,Sementes de Grama (1kg),Jardinagem,71.0,Boleto,19.9
+1595,2023-07-22,Interruptor,Elétrica,44.0,Carteira Digital,12.9
+1596,2023-08-11,Protetor Auricular,Segurança e EPI,57.0,Pix,9.9
+1597,2023-04-30,Selador (5L),Tintas e Acabamento,89.0,Débito,99.9
+1598,2023-02-05,Enxada,Jardinagem,16.0,Pix,89.9
+1599,2023-07-18,Máscara Respiratória,Segurança e EPI,3.0,Boleto,29.9
+1600,2023-03-04,Chave de Fenda,Ferramentas,97.0,Dinheiro,24.5
+1601,2023-11-17,Tomada,Elétrica,40.0,,9.9
+1602,2023-03-20,Tesoura de Poda,Jardinagem,66.0,Débito,59.9
+1603,2023-08-14,Pincel,Tintas e Acabamento,31.0,Débito,12.9
+1604,2023-01-20,Areia (20kg),Construção e Estrutura,39.0,Carteira Digital,14.9
+1605,2023-06-25,Verniz (900ml),Tintas e Acabamento,4.0,Crédito,139.9
+1606,2023-08-15,Selador (5L),Tintas e Acabamento,57.0,Transferência Bancária,99.9
+1607,2023-06-28,Máscara Respiratória,Segurança e EPI,53.0,Carteira Digital,29.9
+1608,2023-02-08,Brita (20kg),Construção e Estrutura,84.0,Boleto,17.9
+1609,2023-12-11,Pilha AA,Elétrica,89.0,Débito,
+1610,2023-04-17,Chave de Fenda,Ferramentas,56.0,Pix,24.5
+1611,2023-03-17,Interruptor,Elétrica,62.0,Pix,12.9
+1612,2023-08-12,Protetor Auricular,Segurança e EPI,9.0,Crédito,9.9
+1613,2023-11-03,Bomba de água,Hidráulica,30.0,Carteira Digital,899.0
+1614,2023-07-13,Massa Corrida (25kg),Tintas e Acabamento,12.0,Pix,89.9
+1615,2023-08-24,Capacete,Segurança e EPI,22.0,Dinheiro,49.9
+1616,2023-04-20,Pilha AA,Elétrica,81.0,Dinheiro,6.9
+1617,2023-02-21,Trena,Ferramentas,86.0,Boleto,32.0
+1618,2023-08-09,Chave de Fenda,Ferramentas,91.0,Transferência Bancária,24.5
+1619,2023-07-19,Bloco de Concreto,Construção e Estrutura,48.0,Carteira Digital,6.0
+1620,2023-12-05,Cimento (50kg),Construção e Estrutura,74.0,Dinheiro,39.9
+1621,2023-05-07,Enxada,Jardinagem,11.0,Carteira Digital,89.9
+1622,2023-08-13,Botina,Segurança e EPI,21.0,Transferência Bancária,149.0
+1623,2023-03-21,Tomada,Elétrica,53.0,Débito,9.9
+1624,2023-04-26,Serrote,Ferramentas,16.0,Crédito,64.9
+1625,2023-04-10,Rolo de Pintura,Tintas e Acabamento,99.0,Boleto,24.9
+1626,2023-01-16,Bloco de Concreto,Construção e Estrutura,27.0,Carteira Digital,6.0
+1627,2023-10-19,Lâmpada LED,Elétrica,6.0,Pix,14.9
+1628,2023-11-09,Verga Metálica (2m),Construção e Estrutura,18.0,Boleto,119.0
+1629,2023-08-09,Lâmpada LED,Elétrica,97.0,Pix,14.9
+1630,2023-11-27,Registro de Água,Hidráulica,89.0,Carteira Digital,54.9
+1631,2023-05-27,Brita (20kg),Construção e Estrutura,54.0,Pix,17.9
+1632,2023-11-29,Luva de Proteção,Segurança e EPI,38.0,Carteira Digital,19.9
+1633,2023-09-24,Tomada,Elétrica,55.0,Transferência Bancária,9.9
+1634,2023-11-18,Registro de Água,Hidráulica,45.0,Transferência Bancária,54.9
+1635,2023-07-09,Extensão (5m),Elétrica,1.0,Carteira Digital,39.9
+1636,2023-03-14,Lâmpada LED,Elétrica,87.0,Pix,14.9
+1637,2023-10-05,Selador (5L),Tintas e Acabamento,5.0,Crédito,99.9
+1638,2023-10-17,Mangueira (20m),Hidráulica,18.0,Débito,59.0
+1639,2023-06-29,Torneira,Hidráulica,60.0,Débito,
+1640,2023-12-04,Serrote,Ferramentas,98.0,Pix,64.9
+1641,2023-10-30,Interruptor,Elétrica,34.0,Dinheiro,12.9
+1642,2023-12-18,Adubo (5kg),Jardinagem,37.0,Boleto,49.9
+1643,2023-05-27,Telha Cerâmica,Construção e Estrutura,53.0,,7.9
+1644,2023-11-02,Telha Cerâmica,Construção e Estrutura,39.0,Transferência Bancária,7.9
+1645,2023-11-29,Enxada,Jardinagem,42.0,Crédito,89.9
+1646,2023-03-18,Carrinho de Mão,Jardinagem,1.0,Débito,359.0
+1647,2023-12-02,Extensão (5m),Elétrica,51.0,Crédito,39.9
+1648,2023-12-12,Argamassa (20kg),Construção e Estrutura,95.0,Pix,24.9
+1649,2023-05-14,Massa Corrida (25kg),Tintas e Acabamento,23.0,Crédito,89.9
+1650,2023-04-16,Mangueira (20m),Hidráulica,27.0,Débito,59.0
+1651,2023-11-30,"Tinta Esmalte (3,6L)",Tintas e Acabamento,50.0,Crédito,229.0
+1652,2023-03-30,Alicate,Ferramentas,19.0,Carteira Digital,41.9
+1653,2023-09-23,Tinta Acrílica (18L),Tintas e Acabamento,89.0,Pix,249.0
+1654,2023-11-10,Sementes de Grama (1kg),Jardinagem,63.0,Carteira Digital,19.9
+1655,2023-01-12,Trena,Ferramentas,100.0,Transferência Bancária,32.0
+1656,2023-02-11,Luva de Proteção,Segurança e EPI,43.0,Crédito,19.9
+1657,2023-10-10,Extensão (5m),Elétrica,17.0,Boleto,39.9
+1658,2023-01-28,Pilha AA,Elétrica,3.0,Transferência Bancária,6.9
+1659,2023-07-11,Fio Elétrico (100m),Elétrica,24.0,Crédito,3.5
+1660,2023-12-30,Botina,Segurança e EPI,55.0,Pix,149.0
+1661,2023-06-10,Tijolo,Construção e Estrutura,40.0,Débito,2.0
+1662,2023-09-12,Botina,Segurança e EPI,40.0,Transferência Bancária,149.0
+1663,2023-07-05,Interruptor,Elétrica,69.0,Crédito,12.9
+1664,2023-07-14,Capacete,Segurança e EPI,63.0,Crédito,49.9
+1665,2023-05-29,Válvula de Descarga,Hidráulica,70.0,Crédito,119.0
+1666,2023-06-09,Chave de Fenda,Ferramentas,86.0,Dinheiro,24.5
+1667,2023-06-04,Extensão (5m),Elétrica,90.0,Transferência Bancária,39.9
+1668,2023-11-30,Fio Elétrico (100m),Elétrica,31.0,Dinheiro,3.5
+1669,2023-08-31,Pilha AA,Elétrica,39.0,Pix,6.9
+1670,2023-12-27,"Tinta Esmalte (3,6L)",Tintas e Acabamento,99.0,Dinheiro,229.0
+1671,2023-01-10,"Tinta Esmalte (3,6L)",Tintas e Acabamento,95.0,Crédito,229.0
+1672,2023-10-12,Lâmpada LED,Elétrica,46.0,Dinheiro,14.9
+1673,2023-09-13,Botina,Segurança e EPI,76.0,Débito,149.0
+1674,2023-01-07,Serrote,Ferramentas,29.0,Transferência Bancária,64.9
+1675,2023-11-10,Parafusadeira,Ferramentas,58.0,Crédito,429.0
+1676,2023-10-07,"Tinta Esmalte (3,6L)",Tintas e Acabamento,48.0,Transferência Bancária,229.0
+1677,2023-11-01,Válvula de Descarga,Hidráulica,88.0,Dinheiro,119.0
+1678,2023-12-18,Chave de Fenda,Ferramentas,24.0,Dinheiro,24.5
+1679,2023-10-05,Furadeira,Ferramentas,72.0,Carteira Digital,499.9
+1680,2023-11-21,Caixa de água (500L),Hidráulica,41.0,Débito,799.0
+1681,2023-02-08,Pincel,Tintas e Acabamento,93.0,Transferência Bancária,12.9
+1682,2023-03-18,Telha Cerâmica,Construção e Estrutura,32.0,Crédito,7.9
+1683,2023-04-14,Telha Cerâmica,Construção e Estrutura,16.0,Crédito,7.9
+1684,2023-06-04,Luva de Proteção,Segurança e EPI,73.0,Carteira Digital,19.9
+1685,2023-05-02,Parafusadeira,Ferramentas,31.0,Carteira Digital,429.0
+1686,2023-05-21,Disjuntor,Elétrica,86.0,Carteira Digital,45.0
+1687,2023-03-01,Mangueira (20m),Hidráulica,67.0,Pix,59.0
+1688,2023-06-19,Verga Metálica (2m),Construção e Estrutura,29.0,Carteira Digital,119.0
+1689,2023-05-09,Areia (20kg),Construção e Estrutura,40.0,Crédito,14.9
+1690,2023-08-07,Cano PVC (6m),Hidráulica,47.0,Crédito,29.9
+1691,2023-03-23,Martelo,Ferramentas,46.0,Carteira Digital,79.9
+1692,2023-12-12,Lixa (Folha),Tintas e Acabamento,89.0,Crédito,4.9
+1693,2023-12-26,Sementes de Grama (1kg),Jardinagem,79.0,Transferência Bancária,19.9
+1694,2023-04-26,Argamassa (20kg),Construção e Estrutura,11.0,Transferência Bancária,24.9
+1695,2023-11-10,Areia (20kg),Construção e Estrutura,52.0,Crédito,14.9
+1696,2023-03-17,Cimento (50kg),Construção e Estrutura,97.0,Crédito,39.9
+1697,2023-02-26,Protetor Auricular,Segurança e EPI,15.0,Carteira Digital,9.9
+1698,2023-07-10,Tesoura de Poda,Jardinagem,71.0,Crédito,59.9
+1699,2023-11-09,Martelo,Ferramentas,53.0,Carteira Digital,79.9
+1700,2023-11-23,Pá,Jardinagem,30.0,Pix,74.9
+1701,2023-09-23,Válvula de Descarga,Hidráulica,73.0,Débito,119.0
+1702,2023-07-07,Lanterna,Elétrica,38.0,Pix,59.9
+1703,2023-05-06,Máscara Respiratória,Segurança e EPI,60.0,Carteira Digital,29.9
+1704,2023-08-27,Selador (5L),Tintas e Acabamento,57.0,Boleto,99.9
+1705,2023-08-10,Botina,Segurança e EPI,38.0,Boleto,149.0
+1706,2023-03-14,Óculos de Proteção,Segurança e EPI,23.0,Dinheiro,24.9
+1707,2023-03-10,Botina,Segurança e EPI,55.0,Crédito,149.0
+1708,2023-06-29,Enxada,Jardinagem,27.0,Boleto,89.9
+1709,2023-07-13,Mangueira (20m),Hidráulica,61.0,Transferência Bancária,59.0
+1710,2023-05-05,Verga Metálica (2m),Construção e Estrutura,59.0,Carteira Digital,119.0
+1711,2023-06-02,Pá,Jardinagem,5.0,Débito,74.9
+1712,2023-12-22,Pincel,Tintas e Acabamento,88.0,Crédito,
+1713,2023-02-08,Cimento (50kg),Construção e Estrutura,10.0,Débito,39.9
+1714,2023-06-15,Luva de Proteção,Segurança e EPI,,Boleto,19.9
+1715,2023-11-22,Capacete,Segurança e EPI,42.0,Carteira Digital,49.9
+1716,2023-10-31,Tinta Acrílica (18L),Tintas e Acabamento,86.0,Boleto,249.0
+1717,2023-08-04,Trena,Ferramentas,6.0,Crédito,32.0
+1718,2023-02-06,Torneira,Hidráulica,86.0,Débito,79.0
+1719,2023-03-11,Tomada,Elétrica,1.0,Transferência Bancária,9.9
+1720,,Lixa (Folha),Tintas e Acabamento,53.0,Dinheiro,4.9
+1721,2023-05-04,Serrote,Ferramentas,16.0,Pix,64.9
+1722,2023-01-01,Argamassa (20kg),Construção e Estrutura,68.0,Pix,24.9
+1723,2023-10-09,Verniz (900ml),Tintas e Acabamento,18.0,Boleto,139.9
+1724,2023-03-12,Serrote,Ferramentas,87.0,Transferência Bancária,64.9
+1725,2023-11-01,Caixa de água (500L),Hidráulica,49.0,Transferência Bancária,799.0
+1726,2023-04-22,Tomada,Elétrica,93.0,Pix,9.9
+1727,2023-03-02,Chave de Fenda,Ferramentas,87.0,Crédito,24.5
+1728,2023-11-29,Pá,Jardinagem,73.0,Débito,74.9
+1729,2023-04-06,Enxada,Jardinagem,16.0,Transferência Bancária,89.9
+1730,2023-05-02,Registro de Água,Hidráulica,89.0,Pix,54.9
+1731,2023-06-16,Caixa de água (500L),Hidráulica,91.0,Boleto,799.0
+1732,2023-03-07,Bomba de água,Hidráulica,33.0,Pix,899.0
+1733,2023-12-10,Bloco de Concreto,Construção e Estrutura,9.0,Dinheiro,6.0
+1734,2023-11-22,Fio Elétrico (100m),Elétrica,23.0,Boleto,3.5
+1735,2023-12-18,Selador (5L),Tintas e Acabamento,40.0,Crédito,99.9
+1736,2023-01-20,Rolo de Pintura,Tintas e Acabamento,87.0,Débito,24.9
+1737,2023-08-06,Válvula de Descarga,Hidráulica,52.0,Crédito,119.0
+1738,2023-11-02,Colete Reflexivo,Segurança e EPI,2.0,Transferência Bancária,39.9
+1739,2023-11-26,Adubo (5kg),Jardinagem,7.0,Crédito,49.9
+1740,2023-10-10,Pincel,Tintas e Acabamento,81.0,Pix,12.9
+1741,2023-01-22,Protetor Auricular,Segurança e EPI,79.0,Pix,9.9
+1742,2023-01-15,Chave de Fenda,Ferramentas,76.0,Débito,24.5
+1743,2023-07-18,Verniz (900ml),Tintas e Acabamento,66.0,Carteira Digital,139.9
+1744,2023-12-17,Trena,Ferramentas,79.0,Boleto,32.0
+1745,2023-05-17,"Tinta Esmalte (3,6L)",Tintas e Acabamento,34.0,Transferência Bancária,229.0
+1746,2023-06-20,Lanterna,Elétrica,21.0,Pix,59.9
+1747,2023-03-03,Lâmpada LED,Elétrica,30.0,Débito,14.9
+1748,2023-05-19,Cano PVC (6m),Hidráulica,52.0,Transferência Bancária,29.9
+1749,2023-06-05,Lâmpada LED,Elétrica,64.0,Boleto,14.9
+1750,2023-12-29,Interruptor,Elétrica,99.0,Pix,12.9
+1751,2023-06-19,Parafusadeira,Ferramentas,40.0,Débito,429.0
+1752,2023-01-21,Bomba de água,Hidráulica,31.0,Boleto,899.0
+1753,2023-12-02,Capacete,Segurança e EPI,3.0,Transferência Bancária,49.9
+1754,2023-08-03,Extensão (5m),Elétrica,56.0,Pix,39.9
+1755,2023-04-12,Pá,Jardinagem,28.0,Pix,74.9
+1756,2023-07-11,Telha Cerâmica,Construção e Estrutura,18.0,Débito,7.9
+1757,2023-03-04,"Tinta Esmalte (3,6L)",Tintas e Acabamento,4.0,Crédito,229.0
+1758,2023-07-01,Lâmpada LED,Elétrica,96.0,Transferência Bancária,14.9
+1759,2023-08-29,Caixa de água (500L),Hidráulica,58.0,Boleto,799.0
+1760,2023-12-11,Luva de Proteção,Segurança e EPI,100.0,Boleto,19.9
+1761,2023-11-26,Lâmpada LED,Elétrica,32.0,Carteira Digital,
+1762,2023-02-25,Mangueira (20m),Hidráulica,33.0,Crédito,59.0
+1763,2023-10-03,Interruptor,Elétrica,85.0,Crédito,12.9
+1764,2023-12-29,Areia (20kg),Construção e Estrutura,59.0,Dinheiro,14.9
+1765,2023-09-03,Capacete,Segurança e EPI,29.0,Transferência Bancária,49.9
+1766,2023-05-26,,Ferramentas,69.0,Crédito,64.9
+1767,2023-03-23,Verniz (900ml),Tintas e Acabamento,1.0,Débito,139.9
+1768,2023-04-16,Tinta Acrílica (18L),Tintas e Acabamento,77.0,Transferência Bancária,249.0
+1769,2023-03-26,Areia (20kg),Construção e Estrutura,56.0,Carteira Digital,14.9
+1770,2023-11-19,Lanterna,Elétrica,77.0,Transferência Bancária,59.9
+1771,2023-11-16,Luva de Proteção,Segurança e EPI,94.0,Pix,19.9
+1772,2023-05-31,Lixa (Folha),Tintas e Acabamento,22.0,Crédito,4.9
+1773,2023-02-07,Torneira,Hidráulica,7.0,Transferência Bancária,79.0
+1774,2023-12-06,Parafusadeira,Ferramentas,53.0,Débito,429.0
+1775,2023-03-12,Parafusadeira,Ferramentas,31.0,Transferência Bancária,429.0
+1776,2023-10-16,Lanterna,Elétrica,19.0,Pix,59.9
+1777,2023-06-28,Óculos de Proteção,Segurança e EPI,76.0,Transferência Bancária,24.9
+1778,2023-09-23,Verniz (900ml),Tintas e Acabamento,86.0,Transferência Bancária,139.9
+1779,2023-03-24,Pá,Jardinagem,71.0,Carteira Digital,74.9
+1780,2023-11-17,Selador (5L),Tintas e Acabamento,52.0,Boleto,99.9
+1781,2023-04-04,Lixadeira,Ferramentas,88.0,Transferência Bancária,389.0
+1782,2023-01-03,Caixa de água (500L),Hidráulica,71.0,Pix,799.0
+1783,2023-06-19,Verga Metálica (2m),Construção e Estrutura,100.0,Crédito,119.0
+1784,2023-07-24,Rolo de Pintura,Tintas e Acabamento,96.0,Crédito,
+1785,2023-10-12,Alicate,Ferramentas,97.0,Boleto,41.9
+1786,2023-05-05,Carrinho de Mão,Jardinagem,78.0,Crédito,359.0
+1787,2023-01-23,Chave de Fenda,Ferramentas,48.0,Transferência Bancária,24.5
+1788,2023-01-09,Adubo (5kg),Jardinagem,43.0,Débito,49.9
+1789,2023-03-10,Disjuntor,Elétrica,14.0,Carteira Digital,45.0
+1790,2023-07-27,Rolo de Pintura,Tintas e Acabamento,15.0,Carteira Digital,24.9
+1791,2023-06-03,Alicate,Ferramentas,27.0,Pix,41.9
+1792,2023-03-02,Máscara Respiratória,Segurança e EPI,13.0,Carteira Digital,29.9
+1793,2023-06-09,Sementes de Grama (1kg),Jardinagem,49.0,Dinheiro,19.9
+1794,2023-08-25,,Tintas e Acabamento,59.0,Pix,4.9
+1795,,Alicate,Ferramentas,32.0,Transferência Bancária,41.9
+1796,2023-11-07,Extensão (5m),Elétrica,100.0,Carteira Digital,39.9
+1797,2023-04-28,Rolo de Pintura,Tintas e Acabamento,11.0,Boleto,24.9
+1798,2023-10-30,Areia (20kg),Construção e Estrutura,81.0,Transferência Bancária,14.9
+1799,2023-12-02,Martelo,Ferramentas,27.0,Crédito,79.9
+1800,2023-08-17,Sementes de Grama (1kg),Jardinagem,55.0,Transferência Bancária,19.9
+1801,2023-11-11,Parafusadeira,Ferramentas,21.0,Pix,429.0
+1802,2023-12-06,Alicate,Ferramentas,90.0,Carteira Digital,41.9
+1803,2023-01-23,Colete Reflexivo,Segurança e EPI,31.0,Dinheiro,39.9
+1804,2023-09-10,Enxada,Jardinagem,13.0,Débito,89.9
+1805,2023-04-16,Argamassa (20kg),Construção e Estrutura,32.0,Débito,24.9
+1806,2023-02-23,Máscara Respiratória,Segurança e EPI,10.0,Boleto,29.9
+1807,2023-08-08,Serrote,Ferramentas,52.0,Crédito,64.9
+1808,2023-03-30,Pilha AA,Elétrica,28.0,Pix,6.9
+1809,2023-01-27,Verniz (900ml),Tintas e Acabamento,90.0,Transferência Bancária,139.9
+1810,2023-06-03,Carrinho de Mão,Jardinagem,43.0,Crédito,359.0
+1811,2023-03-12,"Tinta Esmalte (3,6L)",Tintas e Acabamento,15.0,Transferência Bancária,229.0
+1812,2023-11-17,Verga Metálica (2m),Construção e Estrutura,82.0,Crédito,119.0
+1813,2023-01-15,Areia (20kg),Construção e Estrutura,24.0,Dinheiro,14.9
+1814,2023-04-30,Lanterna,Elétrica,91.0,Transferência Bancária,59.9
+1815,2023-06-06,Lixa (Folha),Tintas e Acabamento,55.0,Carteira Digital,4.9
+1816,2023-02-14,Registro de Água,Hidráulica,2.0,Boleto,54.9
+1817,2023-11-14,Rolo de Pintura,Tintas e Acabamento,37.0,Carteira Digital,24.9
+1818,2023-12-03,Protetor Auricular,Segurança e EPI,62.0,Crédito,9.9
+1819,2023-10-23,Capacete,Segurança e EPI,52.0,Transferência Bancária,49.9
+1820,2023-04-06,Colete Reflexivo,Segurança e EPI,7.0,Crédito,39.9
+1821,2023-07-01,Adubo (5kg),Jardinagem,55.0,Pix,49.9
+1822,2023-04-16,Parafusadeira,Ferramentas,43.0,Boleto,429.0
+1823,2023-01-20,Botina,Segurança e EPI,26.0,Pix,149.0
+1824,2023-02-22,Máscara Respiratória,Segurança e EPI,17.0,Transferência Bancária,29.9
+1825,2023-12-28,Serrote,Ferramentas,85.0,Carteira Digital,64.9
+1826,2023-01-15,Areia (20kg),Construção e Estrutura,34.0,Dinheiro,14.9
+1827,2023-09-09,Selador (5L),Tintas e Acabamento,45.0,Boleto,99.9
+1828,2023-07-28,Furadeira,Ferramentas,98.0,Carteira Digital,499.9
+1829,2023-04-11,Trena,Ferramentas,33.0,Pix,32.0
+1830,2023-08-13,Sementes de Grama (1kg),Jardinagem,47.0,Pix,19.9
+1831,2023-01-27,Alicate,Ferramentas,81.0,Crédito,41.9
+1832,2023-04-05,Rolo de Pintura,Tintas e Acabamento,79.0,Transferência Bancária,24.9
+1833,2023-03-26,Luva de Proteção,,94.0,Débito,19.9
+1834,2023-07-15,Brita (20kg),Construção e Estrutura,3.0,Carteira Digital,17.9
+1835,2023-10-20,Parafusadeira,Ferramentas,99.0,Boleto,429.0
+1836,2023-10-24,Pincel,Tintas e Acabamento,72.0,Dinheiro,12.9
+1837,2023-06-12,Telha Cerâmica,Construção e Estrutura,27.0,Dinheiro,7.9
+1838,2023-01-03,Tinta Acrílica (18L),Tintas e Acabamento,15.0,Pix,249.0
+1839,2023-05-27,Bomba de água,Hidráulica,44.0,Transferência Bancária,899.0
+1840,2023-07-08,Conexão T,Hidráulica,90.0,Crédito,7.9
+1841,2023-10-27,Enxada,Jardinagem,74.0,Débito,89.9
+1842,2023-11-28,Máscara Respiratória,Segurança e EPI,10.0,Transferência Bancária,29.9
+1843,2023-12-05,Sementes de Grama (1kg),Jardinagem,51.0,Transferência Bancária,19.9
+1844,2023-02-15,Fio Elétrico (100m),Elétrica,7.0,Boleto,3.5
+1845,2023-03-24,Caixa de água (500L),Hidráulica,81.0,Carteira Digital,799.0
+1846,2023-09-09,Capacete,Segurança e EPI,,Pix,49.9
+1847,2023-12-13,Parafusadeira,Ferramentas,22.0,Pix,429.0
+1848,2023-01-28,Óculos de Proteção,Segurança e EPI,63.0,Pix,24.9
+1849,2023-03-22,Areia (20kg),Construção e Estrutura,33.0,Débito,14.9
+1850,2023-01-10,Verniz (900ml),Tintas e Acabamento,35.0,Débito,139.9
+1851,2023-02-04,Máscara Respiratória,Segurança e EPI,85.0,Carteira Digital,29.9
+1852,2023-05-15,Interruptor,Elétrica,26.0,Carteira Digital,12.9
+1853,2023-07-27,Torneira,Hidráulica,91.0,Transferência Bancária,79.0
+1854,2023-05-14,Lixadeira,Ferramentas,67.0,Débito,389.0
+1855,2023-05-18,Torneira,Hidráulica,82.0,Crédito,
+1856,2023-07-19,Interruptor,Elétrica,78.0,Boleto,12.9
+1857,2023-10-14,Tesoura de Poda,Jardinagem,2.0,Transferência Bancária,59.9
+1858,2023-01-31,Bomba de água,Hidráulica,94.0,Boleto,899.0
+1859,2023-01-11,Lâmpada LED,Elétrica,23.0,Transferência Bancária,14.9
+1860,2023-01-19,Martelo,Ferramentas,80.0,Débito,79.9
+1861,2023-01-27,Lixadeira,Ferramentas,53.0,Carteira Digital,389.0
+1862,2023-12-28,Tesoura de Poda,Jardinagem,33.0,Crédito,59.9
+1863,2023-02-02,Trena,,26.0,Pix,32.0
+1864,2023-02-19,Cano PVC (6m),Hidráulica,50.0,Dinheiro,29.9
+1865,2023-08-09,Alicate,Ferramentas,21.0,Transferência Bancária,41.9
+1866,2023-02-09,Luva de Proteção,Segurança e EPI,75.0,Carteira Digital,19.9
+1867,2023-11-29,Argamassa (20kg),Construção e Estrutura,100.0,Boleto,24.9
+1868,2023-02-03,Luva de Proteção,Segurança e EPI,21.0,Crédito,19.9
+1869,2023-05-04,Furadeira,Ferramentas,91.0,Dinheiro,
+1870,2023-08-10,Regador (10L),Jardinagem,42.0,Boleto,39.9
+1871,2023-06-15,Trena,Ferramentas,70.0,Dinheiro,32.0
+1872,2023-06-29,Bomba de água,Hidráulica,15.0,Crédito,899.0
+1873,2023-08-06,Mangueira Jardim (30m),Jardinagem,88.0,Crédito,69.9
+1874,2023-12-09,Lixa (Folha),Tintas e Acabamento,98.0,Dinheiro,4.9
+1875,2023-03-19,Sementes de Grama (1kg),Jardinagem,22.0,Carteira Digital,19.9
+1876,2023-05-23,Enxada,Jardinagem,75.0,Pix,89.9
+1877,2023-01-13,Botina,Segurança e EPI,45.0,Dinheiro,149.0
+1878,2023-11-11,Mangueira (20m),Hidráulica,1.0,Crédito,59.0
+1879,2023-11-14,Conexão T,Hidráulica,38.0,Transferência Bancária,7.9
+1880,2023-07-14,Tesoura de Poda,Jardinagem,97.0,Débito,59.9
+1881,2023-09-30,Enxada,Jardinagem,87.0,Crédito,89.9
+1882,2023-01-10,Carrinho de Mão,Jardinagem,21.0,Crédito,359.0
+1883,2023-05-04,Tesoura de Poda,Jardinagem,10.0,Transferência Bancária,59.9
+1884,2023-02-04,Máscara Respiratória,Segurança e EPI,57.0,Pix,29.9
+1885,2023-03-22,Martelo,Ferramentas,99.0,Crédito,79.9
+1886,2023-01-07,Lixa (Folha),Tintas e Acabamento,86.0,Transferência Bancária,4.9
+1887,2023-12-10,Tijolo,Construção e Estrutura,25.0,Crédito,2.0
+1888,2023-04-12,Interruptor,Elétrica,57.0,Débito,12.9
+1889,2023-02-03,Interruptor,Elétrica,87.0,Transferência Bancária,12.9
+1890,2023-10-10,Torneira,Hidráulica,15.0,Transferência Bancária,79.0
+1891,2023-08-23,Lixa (Folha),Tintas e Acabamento,22.0,Carteira Digital,4.9
+1892,2023-02-25,Mangueira (20m),Hidráulica,69.0,Boleto,59.0
+1893,2023-01-25,Carrinho de Mão,Jardinagem,90.0,Carteira Digital,359.0
+1894,2023-10-31,Torneira,Hidráulica,28.0,Boleto,79.0
+1895,2023-03-14,Mangueira Jardim (30m),Jardinagem,21.0,Transferência Bancária,69.9
+1896,2023-12-23,Óculos de Proteção,Segurança e EPI,36.0,Débito,24.9
+1897,2023-10-18,Capacete,Segurança e EPI,71.0,Débito,49.9
+1898,2023-11-14,Óculos de Proteção,Segurança e EPI,14.0,Débito,24.9
+1899,2023-01-18,Bloco de Concreto,Construção e Estrutura,94.0,Transferência Bancária,6.0
+1900,2023-07-31,Martelo,Ferramentas,53.0,Boleto,79.9
+1901,2023-03-14,Telha Cerâmica,Construção e Estrutura,42.0,Carteira Digital,7.9
+1902,2023-11-04,Cano PVC (6m),Hidráulica,95.0,Pix,29.9
+1903,2023-12-29,Disjuntor,Elétrica,71.0,Boleto,45.0
+1904,2023-12-17,Lixa (Folha),Tintas e Acabamento,51.0,Carteira Digital,4.9
+1905,2023-12-19,Tinta Acrílica (18L),Tintas e Acabamento,44.0,Débito,249.0
+1906,2023-02-26,Colete Reflexivo,Segurança e EPI,86.0,Transferência Bancária,39.9
+1907,2023-06-28,Adubo (5kg),Jardinagem,8.0,Transferência Bancária,49.9
+1908,2023-10-16,Luva de Proteção,Segurança e EPI,5.0,Transferência Bancária,19.9
+1909,2023-07-07,Pá,Jardinagem,76.0,Carteira Digital,74.9
+1910,2023-12-25,Furadeira,Ferramentas,63.0,Carteira Digital,499.9
+1911,2023-03-09,Verniz (900ml),Tintas e Acabamento,22.0,Crédito,139.9
+1912,2023-11-08,Areia (20kg),Construção e Estrutura,80.0,Crédito,14.9
+1913,2023-08-30,Torneira,Hidráulica,77.0,Pix,79.0
+1914,2023-10-08,Bloco de Concreto,Construção e Estrutura,3.0,Carteira Digital,6.0
+1915,2023-06-17,Tijolo,Construção e Estrutura,23.0,Boleto,2.0
+1916,2023-12-17,Luva de Proteção,Segurança e EPI,95.0,Crédito,19.9
+1917,2023-07-09,Selador (5L),Tintas e Acabamento,95.0,Boleto,99.9
+1918,2023-03-01,Bloco de Concreto,Construção e Estrutura,50.0,Carteira Digital,6.0
+1919,2023-10-23,Enxada,Jardinagem,8.0,Boleto,89.9
+1920,2023-11-20,Brita (20kg),Construção e Estrutura,94.0,Dinheiro,17.9
+1921,2023-05-27,Areia (20kg),Construção e Estrutura,9.0,Boleto,14.9
+1922,2023-09-03,Válvula de Descarga,Hidráulica,16.0,Pix,119.0
+1923,2023-06-17,Óculos de Proteção,Segurança e EPI,93.0,Débito,24.9
+1924,2023-03-07,Cano PVC (6m),Hidráulica,14.0,Transferência Bancária,29.9
+1925,2023-03-23,Tomada,Elétrica,27.0,Crédito,9.9
+1926,2023-12-21,Torneira,Hidráulica,28.0,Crédito,79.0
+1927,2023-10-28,Bomba de água,Hidráulica,92.0,Pix,899.0
+1928,2023-07-13,Mangueira Jardim (30m),Jardinagem,46.0,Dinheiro,69.9
+1929,2023-12-17,"Tinta Esmalte (3,6L)",Tintas e Acabamento,86.0,Dinheiro,229.0
+1930,2023-02-01,Válvula de Descarga,Hidráulica,5.0,,119.0
+1931,2023-03-12,Tinta Acrílica (18L),Tintas e Acabamento,89.0,Boleto,249.0
+1932,2023-05-11,"Tinta Esmalte (3,6L)",Tintas e Acabamento,69.0,Crédito,229.0
+1933,2023-06-14,Lixa (Folha),Tintas e Acabamento,95.0,Pix,4.9
+1934,2023-06-28,Verga Metálica (2m),Construção e Estrutura,91.0,Débito,119.0
+1935,2023-08-25,Furadeira,Ferramentas,17.0,Transferência Bancária,499.9
+1936,2023-03-20,Pá,Jardinagem,13.0,Pix,74.9
+1937,2023-03-14,Protetor Auricular,Segurança e EPI,64.0,Pix,9.9
+1938,2023-06-13,Luva de Proteção,Segurança e EPI,33.0,Pix,19.9
+1939,2023-10-02,Lâmpada LED,Elétrica,49.0,Dinheiro,14.9
+1940,2023-12-07,Cimento (50kg),Construção e Estrutura,53.0,Crédito,39.9
+1941,2023-08-08,Chave de Fenda,Ferramentas,82.0,Boleto,24.5
+1942,2023-06-28,Torneira,Hidráulica,11.0,Transferência Bancária,79.0
+1943,2023-08-12,Botina,Segurança e EPI,62.0,Transferência Bancária,149.0
+1944,2023-10-20,Interruptor,Elétrica,35.0,Dinheiro,12.9
+1945,2023-09-02,Tijolo,Construção e Estrutura,32.0,Dinheiro,2.0
+1946,2023-06-06,Pilha AA,Elétrica,9.0,Débito,6.9
+1947,2023-12-26,Sementes de Grama (1kg),Jardinagem,95.0,Boleto,19.9
+1948,2023-06-24,Alicate,Ferramentas,74.0,Carteira Digital,41.9
+1949,2023-06-07,Tijolo,Construção e Estrutura,10.0,Carteira Digital,2.0
+1950,2023-12-21,Caixa de água (500L),Hidráulica,58.0,Boleto,799.0
+1951,2023-11-05,Pincel,Tintas e Acabamento,96.0,Boleto,12.9
+1952,2023-03-29,Lixadeira,Ferramentas,36.0,Crédito,389.0
+1953,2023-07-01,Alicate,Ferramentas,62.0,Boleto,41.9
+1954,2023-03-27,Regador (10L),Jardinagem,64.0,Débito,39.9
+1955,2023-10-23,Brita (20kg),Construção e Estrutura,9.0,Carteira Digital,17.9
+1956,2023-08-26,Interruptor,Elétrica,43.0,Transferência Bancária,12.9
+1957,2023-09-14,Carrinho de Mão,Jardinagem,41.0,Crédito,359.0
+1958,2023-12-16,Parafusadeira,Ferramentas,33.0,Transferência Bancária,429.0
+1959,2023-01-09,Máscara Respiratória,Segurança e EPI,40.0,Boleto,29.9
+1960,2023-08-29,Conexão T,Hidráulica,82.0,Boleto,7.9
+1961,2023-06-08,Capacete,Segurança e EPI,43.0,Boleto,49.9
+1962,2023-07-02,Pincel,Tintas e Acabamento,4.0,Dinheiro,12.9
+1963,2023-12-15,Válvula de Descarga,Hidráulica,43.0,Dinheiro,119.0
+1964,2023-04-11,Telha Cerâmica,Construção e Estrutura,31.0,Crédito,7.9
+1965,2023-03-25,Telha Cerâmica,Construção e Estrutura,66.0,Carteira Digital,7.9
+1966,2023-03-06,Enxada,Jardinagem,55.0,Débito,89.9
+1967,2023-03-19,Tomada,Elétrica,48.0,Transferência Bancária,9.9
+1968,2023-12-20,Protetor Auricular,Segurança e EPI,45.0,Transferência Bancária,9.9
+1969,2023-08-31,Sementes de Grama (1kg),Jardinagem,52.0,Pix,19.9
+1970,2023-09-10,Bloco de Concreto,Construção e Estrutura,41.0,Pix,6.0
+1971,2023-08-26,Massa Corrida (25kg),Tintas e Acabamento,80.0,Débito,89.9
+1972,2023-06-20,Pilha AA,Elétrica,82.0,Crédito,6.9
+1973,2023-01-03,Conexão T,Hidráulica,50.0,Dinheiro,7.9
+1974,2023-09-17,Luva de Proteção,,87.0,Débito,19.9
+1975,2023-06-13,Pincel,Tintas e Acabamento,3.0,Pix,12.9
+1976,2023-03-04,Extensão (5m),Elétrica,9.0,Crédito,39.9
+1977,2023-10-21,Tinta Acrílica (18L),Tintas e Acabamento,43.0,Crédito,249.0
+1978,2023-02-24,Serrote,Ferramentas,42.0,Pix,64.9
+1979,2023-06-18,Cano PVC (6m),Hidráulica,19.0,Boleto,29.9
+1980,2023-05-10,Argamassa (20kg),Construção e Estrutura,34.0,Pix,24.9
+1981,2023-03-21,Pilha AA,Elétrica,86.0,Carteira Digital,6.9
+1982,2023-12-02,Lâmpada LED,Elétrica,24.0,Transferência Bancária,14.9
+1983,2023-05-19,Cano PVC (6m),Hidráulica,40.0,Transferência Bancária,29.9
+1984,2023-03-06,Luva de Proteção,Segurança e EPI,42.0,Débito,19.9
+1985,2023-10-24,Trena,Ferramentas,66.0,Crédito,32.0
+1986,2023-06-26,Colete Reflexivo,Segurança e EPI,6.0,Crédito,39.9
+1987,2023-03-31,Furadeira,Ferramentas,81.0,Pix,499.9
+1988,2023-10-31,Verga Metálica (2m),Construção e Estrutura,23.0,Dinheiro,119.0
+1989,2023-05-08,Máscara Respiratória,Segurança e EPI,62.0,Boleto,29.9
+1990,2023-03-31,Lixa (Folha),Tintas e Acabamento,37.0,Débito,4.9
+1991,2023-09-22,Furadeira,Ferramentas,11.0,Pix,499.9
+1992,2023-03-26,Máscara Respiratória,Segurança e EPI,74.0,Carteira Digital,29.9
+1993,2023-04-30,Adubo (5kg),Jardinagem,69.0,Pix,49.9
+1994,2023-09-28,Cimento (50kg),Construção e Estrutura,92.0,Boleto,39.9
+1995,2023-08-27,Enxada,Jardinagem,63.0,Crédito,89.9
+1996,2023-09-17,Furadeira,Ferramentas,52.0,Débito,499.9
+1997,2023-03-14,Verniz (900ml),Tintas e Acabamento,95.0,Boleto,139.9
+1998,2023-04-05,Conexão T,Hidráulica,96.0,Dinheiro,7.9
+1999,2023-07-09,Válvula de Descarga,Hidráulica,,Crédito,119.0
+2000,2023-05-01,Lanterna,Elétrica,23.0,Débito,59.9
+2001,2023-11-18,Mangueira (20m),Hidráulica,47.0,Dinheiro,59.0
+2002,2023-03-29,Areia (20kg),Construção e Estrutura,92.0,Carteira Digital,14.9
+2003,2023-09-09,Tesoura de Poda,Jardinagem,62.0,Transferência Bancária,59.9
+2004,2023-07-24,Carrinho de Mão,Jardinagem,99.0,Boleto,359.0
+2005,2023-05-19,Furadeira,Ferramentas,73.0,Pix,499.9
+2006,2023-05-28,Regador (10L),Jardinagem,4.0,Dinheiro,39.9
+2007,2023-08-04,Extensão (5m),Elétrica,49.0,Débito,39.9
+2008,2023-12-06,Massa Corrida (25kg),Tintas e Acabamento,31.0,Dinheiro,89.9
+2009,2023-09-24,Válvula de Descarga,Hidráulica,51.0,Transferência Bancária,119.0
+2010,2023-08-16,Chave de Fenda,Ferramentas,99.0,Dinheiro,24.5
+2011,2023-11-26,Alicate,,40.0,Pix,41.9
+2012,2023-06-12,Massa Corrida (25kg),Tintas e Acabamento,49.0,Carteira Digital,89.9
+2013,2023-10-16,Regador (10L),Jardinagem,56.0,,39.9
+2014,2023-04-28,Fio Elétrico (100m),Elétrica,48.0,Boleto,3.5
+2015,2023-07-14,Carrinho de Mão,Jardinagem,2.0,,359.0
+2016,2023-04-21,Regador (10L),Jardinagem,56.0,Carteira Digital,39.9
+2017,2023-07-13,Regador (10L),Jardinagem,79.0,Boleto,39.9
+2018,2023-11-09,Furadeira,Ferramentas,100.0,Crédito,499.9
+2019,2023-03-16,Parafusadeira,Ferramentas,33.0,Carteira Digital,429.0
+2020,2023-09-05,Argamassa (20kg),Construção e Estrutura,6.0,Transferência Bancária,24.9
+2021,2023-08-22,Cimento (50kg),Construção e Estrutura,65.0,Transferência Bancária,39.9
+2022,2023-05-22,Interruptor,Elétrica,1.0,Débito,12.9
+2023,2023-10-20,Rolo de Pintura,Tintas e Acabamento,25.0,Pix,24.9
+2024,2023-01-05,Lixa (Folha),Tintas e Acabamento,13.0,Débito,4.9
+2025,2023-08-02,Colete Reflexivo,Segurança e EPI,5.0,Dinheiro,39.9
+2026,2023-07-09,Lixadeira,Ferramentas,69.0,Carteira Digital,389.0
+2027,2023-01-25,Chave de Fenda,Ferramentas,48.0,Pix,24.5
+2028,2023-08-22,Conexão T,Hidráulica,72.0,Boleto,7.9
+2029,2023-01-04,Furadeira,Ferramentas,10.0,Carteira Digital,499.9
+2030,2023-09-17,Capacete,Segurança e EPI,83.0,Boleto,49.9
+2031,2023-11-25,Serrote,Ferramentas,56.0,Débito,64.9
+2032,2023-08-25,Areia (20kg),Construção e Estrutura,71.0,,14.9
+2033,2023-09-21,Trena,Ferramentas,11.0,Crédito,32.0
+2034,2023-09-01,Lâmpada LED,Elétrica,99.0,Dinheiro,14.9
+2035,2023-05-30,Martelo,Ferramentas,36.0,Crédito,79.9
+2036,2023-10-28,Martelo,Ferramentas,81.0,Pix,79.9
+2037,2023-11-25,Areia (20kg),Construção e Estrutura,58.0,Débito,14.9
+2038,2023-05-06,Martelo,Ferramentas,10.0,Boleto,79.9
+2039,2023-08-28,Telha Cerâmica,Construção e Estrutura,23.0,Débito,7.9
+2040,2023-04-20,Cano PVC (6m),Hidráulica,12.0,Dinheiro,29.9
+2041,2023-06-10,Interruptor,Elétrica,81.0,Pix,12.9
+2042,2023-04-11,Luva de Proteção,Segurança e EPI,11.0,Débito,19.9
+2043,2023-08-29,Lanterna,Elétrica,26.0,Dinheiro,59.9
+2044,2023-06-05,Mangueira Jardim (30m),Jardinagem,43.0,Boleto,69.9
+2045,2023-11-02,Lixa (Folha),Tintas e Acabamento,18.0,Crédito,4.9
+2046,2023-02-10,Pá,Jardinagem,4.0,Crédito,74.9
+2047,2023-08-22,Disjuntor,Elétrica,72.0,Carteira Digital,45.0
+2048,2023-09-18,Máscara Respiratória,Segurança e EPI,19.0,Transferência Bancária,29.9
+2049,2023-11-19,Brita (20kg),Construção e Estrutura,100.0,Crédito,17.9
+2050,2023-05-26,Lixa (Folha),Tintas e Acabamento,24.0,Dinheiro,4.9
+2051,2023-03-31,Rolo de Pintura,Tintas e Acabamento,77.0,Pix,24.9
+2052,2023-12-22,Interruptor,Elétrica,32.0,Transferência Bancária,12.9
+2053,2023-07-28,Colete Reflexivo,Segurança e EPI,92.0,Débito,39.9
+2054,2023-11-02,Brita (20kg),Construção e Estrutura,30.0,Pix,17.9
+2055,2023-01-07,Tijolo,Construção e Estrutura,28.0,Débito,2.0
+2056,2023-06-19,Areia (20kg),Construção e Estrutura,52.0,Transferência Bancária,14.9
+2057,2023-03-28,Verga Metálica (2m),Construção e Estrutura,15.0,Crédito,119.0
+2058,2023-09-07,Lanterna,Elétrica,54.0,Dinheiro,59.9
+2059,2023-12-12,Chave de Fenda,Ferramentas,17.0,Débito,24.5
+2060,2023-09-11,Protetor Auricular,Segurança e EPI,8.0,Crédito,9.9
+2061,2023-02-02,Regador (10L),Jardinagem,45.0,Carteira Digital,39.9
+2062,2023-11-22,Botina,Segurança e EPI,25.0,Pix,149.0
+2063,2023-09-22,Selador (5L),Tintas e Acabamento,7.0,Dinheiro,99.9
+2064,2023-08-11,Pá,Jardinagem,53.0,Boleto,74.9
+2065,2023-02-15,Tijolo,Construção e Estrutura,72.0,Carteira Digital,2.0
+2066,2023-12-17,Sementes de Grama (1kg),Jardinagem,5.0,Pix,19.9
+2067,2023-03-21,Pilha AA,Elétrica,8.0,Dinheiro,6.9
+2068,2023-08-25,Carrinho de Mão,Jardinagem,29.0,Débito,359.0
+2069,2023-11-17,Pincel,Tintas e Acabamento,76.0,Dinheiro,12.9
+2070,2023-12-04,Tesoura de Poda,Jardinagem,97.0,Dinheiro,59.9
+2071,2023-02-10,Óculos de Proteção,Segurança e EPI,58.0,Transferência Bancária,24.9
+2072,2023-10-13,Parafusadeira,Ferramentas,90.0,Boleto,429.0
+2073,2023-11-14,Rolo de Pintura,Tintas e Acabamento,91.0,Boleto,24.9
+2074,2023-08-25,Máscara Respiratória,Segurança e EPI,97.0,Transferência Bancária,29.9
+2075,2023-03-12,Adubo (5kg),Jardinagem,81.0,Dinheiro,49.9
+2076,2023-09-01,Cano PVC (6m),Hidráulica,80.0,Pix,29.9
+2077,2023-01-22,Pincel,Tintas e Acabamento,52.0,Boleto,12.9
+2078,2023-04-20,Mangueira (20m),Hidráulica,99.0,Débito,59.0
+2079,2023-11-22,Cano PVC (6m),Hidráulica,93.0,Transferência Bancária,29.9
+2080,2023-11-22,Lâmpada LED,Elétrica,82.0,Boleto,14.9
+2081,,"Tinta Esmalte (3,6L)",,56.0,Débito,229.0
+2082,2023-08-19,Pincel,Tintas e Acabamento,40.0,Crédito,12.9
+2083,2023-11-26,Alicate,Ferramentas,71.0,Transferência Bancária,41.9
+2084,2023-12-04,Caixa de água (500L),Hidráulica,13.0,Transferência Bancária,799.0
+2085,2023-03-09,Válvula de Descarga,Hidráulica,22.0,Dinheiro,119.0
+2086,2023-05-30,Lixa (Folha),Tintas e Acabamento,69.0,Dinheiro,4.9
+2087,2023-04-03,Bomba de água,Hidráulica,66.0,Boleto,899.0
+2088,2023-01-02,Tinta Acrílica (18L),Tintas e Acabamento,84.0,Carteira Digital,249.0
+2089,2023-03-22,Lixadeira,Ferramentas,4.0,Débito,389.0
+2090,2023-07-23,Registro de Água,Hidráulica,77.0,Pix,54.9
+2091,2023-01-03,Mangueira Jardim (30m),Jardinagem,82.0,Transferência Bancária,69.9
+2092,2023-07-16,Botina,Segurança e EPI,8.0,Carteira Digital,149.0
+2093,2023-04-04,Trena,Ferramentas,8.0,Pix,32.0
+2094,2023-12-22,Argamassa (20kg),Construção e Estrutura,51.0,Dinheiro,24.9
+2095,2023-06-16,Pilha AA,Elétrica,31.0,Crédito,6.9
+2096,2023-12-21,Regador (10L),Jardinagem,7.0,Crédito,39.9
+2097,2023-03-29,Protetor Auricular,Segurança e EPI,84.0,Dinheiro,9.9
+2098,2023-06-05,Lixadeira,Ferramentas,49.0,Carteira Digital,389.0
+2099,2023-08-27,Sementes de Grama (1kg),Jardinagem,68.0,Transferência Bancária,19.9
+2100,2023-11-10,Luva de Proteção,Segurança e EPI,30.0,Dinheiro,19.9
+2101,2023-09-06,Óculos de Proteção,Segurança e EPI,37.0,Débito,24.9
+2102,2023-11-13,Trena,Ferramentas,55.0,Pix,32.0
+2103,2023-03-02,Pincel,Tintas e Acabamento,10.0,Boleto,12.9
+2104,2023-06-15,Alicate,Ferramentas,71.0,Dinheiro,41.9
+2105,2023-07-08,Furadeira,Ferramentas,97.0,Transferência Bancária,499.9
+2106,2023-10-30,Tinta Acrílica (18L),Tintas e Acabamento,84.0,Dinheiro,249.0
+2107,2023-08-24,Tomada,Elétrica,98.0,Transferência Bancária,9.9
+2108,2023-03-13,Máscara Respiratória,Segurança e EPI,38.0,Transferência Bancária,29.9
+2109,2023-11-14,Trena,Ferramentas,84.0,Transferência Bancária,32.0
+2110,2023-12-22,Lâmpada LED,Elétrica,56.0,Transferência Bancária,14.9
+2111,2023-01-29,Colete Reflexivo,Segurança e EPI,90.0,Dinheiro,39.9
+2112,2023-12-25,Mangueira Jardim (30m),Jardinagem,5.0,Boleto,69.9
+2113,2023-12-09,Mangueira (20m),Hidráulica,15.0,Boleto,59.0
+2114,2023-06-08,Selador (5L),Tintas e Acabamento,95.0,Boleto,99.9
+2115,2023-06-24,Mangueira (20m),Hidráulica,10.0,Pix,59.0
+2116,2023-05-29,Capacete,Segurança e EPI,77.0,Pix,49.9
+2117,2023-08-04,Telha Cerâmica,Construção e Estrutura,54.0,Dinheiro,7.9
+2118,2023-06-14,Máscara Respiratória,Segurança e EPI,95.0,Boleto,29.9
+2119,2023-06-28,Disjuntor,Elétrica,27.0,Pix,45.0
+2120,2023-09-04,,Elétrica,4.0,Crédito,9.9
+2121,2023-08-30,Enxada,Jardinagem,42.0,Carteira Digital,89.9
+2122,2023-01-03,Registro de Água,Hidráulica,,Carteira Digital,54.9
+2123,2023-01-30,Lâmpada LED,Elétrica,84.0,Dinheiro,14.9
+2124,2023-04-09,Capacete,Segurança e EPI,100.0,Dinheiro,49.9
+2125,2023-06-12,Lanterna,Elétrica,87.0,Crédito,59.9
+2126,2023-10-08,Carrinho de Mão,Jardinagem,40.0,Transferência Bancária,359.0
+2127,2023-10-25,Trena,Ferramentas,3.0,Débito,32.0
+2128,2023-03-30,Furadeira,Ferramentas,93.0,Dinheiro,499.9
+2129,2023-08-27,Massa Corrida (25kg),Tintas e Acabamento,42.0,Dinheiro,89.9
+2130,2023-04-05,Argamassa (20kg),Construção e Estrutura,80.0,Carteira Digital,24.9
+2131,2023-08-27,Carrinho de Mão,Jardinagem,90.0,Dinheiro,359.0
+2132,2023-02-16,Fio Elétrico (100m),Elétrica,77.0,Pix,3.5
+2133,2023-05-14,Alicate,Ferramentas,57.0,Débito,41.9
+2134,2023-11-16,Mangueira Jardim (30m),Jardinagem,55.0,Pix,69.9
+2135,2023-02-24,Disjuntor,Elétrica,8.0,Dinheiro,45.0
+2136,2023-01-28,Máscara Respiratória,Segurança e EPI,61.0,Crédito,29.9
+2137,2023-09-11,Areia (20kg),Construção e Estrutura,33.0,Dinheiro,14.9
+2138,2023-06-06,Alicate,Ferramentas,61.0,Carteira Digital,41.9
+2139,2023-10-25,Brita (20kg),Construção e Estrutura,33.0,Pix,17.9
+2140,2023-08-21,Válvula de Descarga,Hidráulica,76.0,Transferência Bancária,119.0
+2141,2023-12-25,Lixadeira,Ferramentas,19.0,Crédito,389.0
+2142,2023-05-22,Fio Elétrico (100m),Elétrica,51.0,Pix,3.5
+2143,2023-02-16,Brita (20kg),Construção e Estrutura,90.0,Dinheiro,17.9
+2144,2023-06-07,Verga Metálica (2m),Construção e Estrutura,53.0,Transferência Bancária,119.0
+2145,2023-12-29,Lâmpada LED,Elétrica,96.0,Pix,14.9
+2146,2023-03-15,Telha Cerâmica,Construção e Estrutura,99.0,Pix,7.9
+2147,2023-10-18,"Tinta Esmalte (3,6L)",Tintas e Acabamento,86.0,,229.0
+2148,2023-08-01,Regador (10L),Jardinagem,62.0,Débito,39.9
+2149,2023-12-19,Óculos de Proteção,Segurança e EPI,14.0,Débito,24.9
+2150,2023-02-26,Telha Cerâmica,Construção e Estrutura,21.0,Crédito,7.9
+2151,2023-08-05,Adubo (5kg),Jardinagem,96.0,Dinheiro,49.9
+2152,2023-02-25,Mangueira Jardim (30m),Jardinagem,68.0,Boleto,69.9
+2153,2023-08-26,"Tinta Esmalte (3,6L)",Tintas e Acabamento,2.0,Transferência Bancária,229.0
+2154,2023-11-14,Trena,Ferramentas,58.0,Débito,32.0
+2155,2023-11-08,Trena,Ferramentas,32.0,Crédito,32.0
+2156,2023-08-13,Conexão T,Hidráulica,76.0,Dinheiro,7.9
+2157,2023-12-27,Lixadeira,Ferramentas,77.0,Transferência Bancária,
+2158,2023-10-17,Lâmpada LED,Elétrica,34.0,Débito,14.9
+2159,2023-01-11,Verga Metálica (2m),Construção e Estrutura,71.0,Crédito,119.0
+2160,2023-10-22,Máscara Respiratória,Segurança e EPI,23.0,Transferência Bancária,29.9
+2161,2023-02-11,Tomada,Elétrica,43.0,Dinheiro,9.9
+2162,2023-03-14,Serrote,Ferramentas,49.0,Débito,64.9
+2163,2023-01-20,Chave de Fenda,Ferramentas,21.0,Carteira Digital,24.5
+2164,2023-08-19,Colete Reflexivo,Segurança e EPI,97.0,Dinheiro,39.9
+2165,2023-07-09,Torneira,Hidráulica,40.0,Débito,79.0
+2166,2023-05-01,Tomada,Elétrica,68.0,Pix,9.9
+2167,2023-10-24,Enxada,Jardinagem,34.0,Crédito,89.9
+2168,2023-01-02,Regador (10L),Jardinagem,51.0,Crédito,39.9
+2169,2023-01-10,"Tinta Esmalte (3,6L)",Tintas e Acabamento,9.0,Crédito,229.0
+2170,2023-03-03,Pá,Jardinagem,97.0,Pix,74.9
+2171,2023-04-12,Óculos de Proteção,Segurança e EPI,87.0,Crédito,24.9
+2172,2023-07-22,Luva de Proteção,Segurança e EPI,33.0,Carteira Digital,19.9
+2173,2023-06-12,Brita (20kg),Construção e Estrutura,60.0,Pix,17.9
+2174,2023-04-23,Verga Metálica (2m),Construção e Estrutura,6.0,Transferência Bancária,119.0
+2175,2023-09-03,"Tinta Esmalte (3,6L)",Tintas e Acabamento,61.0,Débito,229.0
+2176,2023-08-13,Lanterna,Elétrica,16.0,Crédito,59.9
+2177,2023-10-13,Carrinho de Mão,Jardinagem,23.0,Pix,359.0
+2178,2023-07-14,Torneira,Hidráulica,19.0,Transferência Bancária,79.0
+2179,2023-03-28,Tinta Acrílica (18L),Tintas e Acabamento,25.0,Transferência Bancária,249.0
+2180,2023-07-05,Fio Elétrico (100m),,74.0,Pix,3.5
+2181,2023-12-17,Máscara Respiratória,Segurança e EPI,53.0,Boleto,29.9
+2182,2023-01-17,Capacete,Segurança e EPI,67.0,Transferência Bancária,49.9
+2183,2023-02-21,Torneira,Hidráulica,90.0,Carteira Digital,79.0
+2184,2023-10-03,Verga Metálica (2m),Construção e Estrutura,12.0,Carteira Digital,119.0
+2185,2023-07-09,Máscara Respiratória,Segurança e EPI,16.0,Débito,29.9
+2186,2023-02-28,Cimento (50kg),Construção e Estrutura,72.0,Boleto,39.9
+2187,2023-07-03,Válvula de Descarga,,66.0,Carteira Digital,119.0
+2188,2023-12-14,Botina,Segurança e EPI,59.0,Débito,149.0
+2189,2023-04-28,Pilha AA,Elétrica,90.0,Boleto,6.9
+2190,2023-01-02,Regador (10L),Jardinagem,79.0,Transferência Bancária,39.9
+2191,2023-08-13,Extensão (5m),Elétrica,100.0,Pix,39.9
+2192,2023-04-03,Argamassa (20kg),Construção e Estrutura,97.0,Transferência Bancária,24.9
+2193,2023-01-21,Trena,Ferramentas,67.0,Carteira Digital,32.0
+2194,2023-07-09,Disjuntor,Elétrica,19.0,Dinheiro,45.0
+2195,2023-09-11,Enxada,Jardinagem,45.0,Carteira Digital,89.9
+2196,2023-12-10,Mangueira Jardim (30m),Jardinagem,5.0,Pix,69.9
+2197,2023-08-12,Protetor Auricular,Segurança e EPI,54.0,Boleto,
+2198,2023-11-02,Máscara Respiratória,Segurança e EPI,63.0,Boleto,29.9
+2199,2023-04-28,Válvula de Descarga,Hidráulica,61.0,Pix,119.0
+2200,2023-07-16,Óculos de Proteção,Segurança e EPI,11.0,Carteira Digital,24.9
+2201,2023-11-30,Protetor Auricular,Segurança e EPI,41.0,Crédito,9.9
+2202,2023-09-14,Pincel,Tintas e Acabamento,67.0,Carteira Digital,12.9
+2203,2023-02-04,Lixadeira,Ferramentas,60.0,Pix,389.0
+2204,2023-09-09,Pincel,Tintas e Acabamento,53.0,Transferência Bancária,12.9
+2205,2023-04-24,Rolo de Pintura,Tintas e Acabamento,31.0,Carteira Digital,24.9
+2206,2023-02-16,Lâmpada LED,Elétrica,37.0,Crédito,14.9
+2207,2023-06-29,Areia (20kg),Construção e Estrutura,43.0,Transferência Bancária,14.9
+2208,2023-10-02,Mangueira (20m),Hidráulica,76.0,Carteira Digital,59.0
+2209,2023-05-09,Brita (20kg),Construção e Estrutura,49.0,Pix,17.9
+2210,2023-02-24,Lixadeira,Ferramentas,77.0,Crédito,389.0
+2211,2023-06-20,Parafusadeira,Ferramentas,72.0,Débito,429.0
+2212,2023-01-20,Verga Metálica (2m),Construção e Estrutura,13.0,Dinheiro,119.0
+2213,2023-01-07,Tesoura de Poda,Jardinagem,68.0,Boleto,59.9
+2214,2023-08-22,Adubo (5kg),Jardinagem,17.0,Dinheiro,49.9
+2215,2023-04-09,Fio Elétrico (100m),Elétrica,25.0,Crédito,3.5
+2216,2023-10-24,Registro de Água,Hidráulica,33.0,Boleto,54.9
+2217,2023-09-05,Areia (20kg),Construção e Estrutura,12.0,Dinheiro,14.9
+2218,2023-11-10,Mangueira Jardim (30m),Jardinagem,21.0,Pix,69.9
+2219,2023-08-04,Tomada,Elétrica,59.0,Transferência Bancária,9.9
+2220,2023-04-06,Sementes de Grama (1kg),Jardinagem,73.0,Crédito,19.9
+2221,2023-11-22,Bloco de Concreto,Construção e Estrutura,19.0,Carteira Digital,6.0
+2222,2023-01-15,Lanterna,Elétrica,95.0,Pix,59.9
+2223,2023-12-05,Mangueira (20m),Hidráulica,30.0,Crédito,59.0
+2224,2023-12-27,Tomada,Elétrica,67.0,Carteira Digital,9.9
+2225,2023-05-18,Colete Reflexivo,Segurança e EPI,28.0,Crédito,39.9
+2226,2023-09-16,Brita (20kg),Construção e Estrutura,4.0,Débito,17.9
+2227,2023-10-14,Verniz (900ml),Tintas e Acabamento,49.0,Carteira Digital,139.9
+2228,2023-01-01,Selador (5L),Tintas e Acabamento,97.0,Crédito,99.9
+2229,2023-12-03,Verniz (900ml),Tintas e Acabamento,20.0,Boleto,139.9
+2230,2023-09-03,Parafusadeira,Ferramentas,91.0,Pix,429.0
+2231,2023-11-03,Extensão (5m),Elétrica,98.0,Crédito,39.9
+2232,2023-09-17,Capacete,Segurança e EPI,13.0,Crédito,49.9
+2233,2023-04-14,Registro de Água,Hidráulica,12.0,Débito,54.9
+2234,2023-08-07,Capacete,Segurança e EPI,83.0,Dinheiro,49.9
+2235,2023-08-14,Válvula de Descarga,Hidráulica,43.0,Boleto,119.0
+2236,2023-11-16,Massa Corrida (25kg),Tintas e Acabamento,64.0,Dinheiro,89.9
+2237,2023-12-14,Caixa de água (500L),Hidráulica,68.0,Boleto,799.0
+2238,2023-06-25,Tesoura de Poda,Jardinagem,59.0,Débito,59.9
+2239,2023-09-27,Protetor Auricular,Segurança e EPI,36.0,Dinheiro,9.9
+2240,2023-11-01,Cano PVC (6m),Hidráulica,45.0,Carteira Digital,29.9
+2241,2023-03-19,Registro de Água,Hidráulica,12.0,Transferência Bancária,54.9
+2242,2023-11-22,Bloco de Concreto,Construção e Estrutura,98.0,Crédito,
+2243,2023-07-13,Botina,Segurança e EPI,4.0,Carteira Digital,149.0
+2244,2023-05-27,Tomada,Elétrica,11.0,Carteira Digital,9.9
+2245,2023-08-25,Argamassa (20kg),Construção e Estrutura,47.0,Carteira Digital,24.9
+2246,2023-09-19,Conexão T,Hidráulica,54.0,Débito,7.9
+2247,2023-02-02,Cimento (50kg),Construção e Estrutura,89.0,Transferência Bancária,39.9
+2248,2023-04-24,Serrote,Ferramentas,12.0,Crédito,64.9
+2249,2023-12-27,Sementes de Grama (1kg),Jardinagem,84.0,Crédito,19.9
+2250,2023-02-20,Pá,Jardinagem,13.0,Pix,74.9
+2251,2023-01-11,Verga Metálica (2m),Construção e Estrutura,91.0,Boleto,119.0
+2252,2023-06-14,Chave de Fenda,Ferramentas,42.0,Pix,24.5
+2253,2023-06-30,Areia (20kg),Construção e Estrutura,81.0,Dinheiro,14.9
+2254,2023-11-15,Luva de Proteção,Segurança e EPI,28.0,Pix,19.9
+2255,2023-09-17,Máscara Respiratória,Segurança e EPI,30.0,Boleto,29.9
+2256,2023-04-06,Protetor Auricular,Segurança e EPI,75.0,Boleto,9.9
+2257,2023-06-03,Mangueira Jardim (30m),Jardinagem,68.0,Pix,69.9
+2258,2023-06-11,Lixa (Folha),Tintas e Acabamento,48.0,Carteira Digital,4.9
+2259,2023-06-17,Mangueira (20m),Hidráulica,8.0,Dinheiro,59.0
+2260,2023-04-19,Regador (10L),Jardinagem,45.0,Dinheiro,39.9
+2261,2023-04-23,Óculos de Proteção,Segurança e EPI,45.0,Dinheiro,24.9
+2262,2023-06-28,Telha Cerâmica,,52.0,Carteira Digital,7.9
+2263,2023-11-09,Sementes de Grama (1kg),Jardinagem,76.0,Crédito,19.9
+2264,2023-03-11,Luva de Proteção,Segurança e EPI,52.0,Crédito,19.9
+2265,2023-02-26,Lanterna,Elétrica,49.0,Dinheiro,59.9
+2266,2023-03-12,Brita (20kg),Construção e Estrutura,43.0,Crédito,17.9
+2267,2023-07-10,Verga Metálica (2m),Construção e Estrutura,50.0,Dinheiro,119.0
+2268,2023-03-26,Disjuntor,Elétrica,62.0,Dinheiro,45.0
+2269,2023-08-27,Luva de Proteção,Segurança e EPI,75.0,Dinheiro,19.9
+2270,2023-01-28,Telha Cerâmica,Construção e Estrutura,11.0,Dinheiro,7.9
+2271,2023-11-04,Interruptor,Elétrica,70.0,Transferência Bancária,12.9
+2272,2023-05-26,Capacete,Segurança e EPI,2.0,Crédito,49.9
+2273,2023-09-12,Colete Reflexivo,Segurança e EPI,92.0,Boleto,39.9
+2274,2023-09-28,Lanterna,Elétrica,78.0,Débito,59.9
+2275,2023-05-18,Verga Metálica (2m),Construção e Estrutura,57.0,Boleto,119.0
+2276,2023-11-05,"Tinta Esmalte (3,6L)",Tintas e Acabamento,50.0,Dinheiro,229.0
+2277,2023-11-25,Martelo,Ferramentas,52.0,Débito,79.9
+2278,2023-05-15,Mangueira Jardim (30m),Jardinagem,58.0,Crédito,69.9
+2279,2023-09-09,Rolo de Pintura,Tintas e Acabamento,46.0,Crédito,24.9
+2280,2023-03-13,Interruptor,Elétrica,77.0,Crédito,12.9
+2281,2023-08-26,Pincel,Tintas e Acabamento,91.0,Débito,12.9
+2282,2023-08-29,Lixa (Folha),Tintas e Acabamento,16.0,Carteira Digital,4.9
+2283,2023-10-26,Mangueira Jardim (30m),Jardinagem,,Carteira Digital,69.9
+2284,2023-03-11,Tomada,Elétrica,85.0,Crédito,9.9
+2285,2023-02-18,Tesoura de Poda,Jardinagem,75.0,Boleto,59.9
+2286,2023-10-01,Martelo,Ferramentas,81.0,Carteira Digital,
+2287,2023-07-07,Rolo de Pintura,Tintas e Acabamento,36.0,Carteira Digital,24.9
+2288,2023-04-13,Sementes de Grama (1kg),Jardinagem,100.0,Dinheiro,19.9
+2289,2023-07-19,Conexão T,Hidráulica,80.0,Transferência Bancária,7.9
+2290,2023-03-11,Enxada,Jardinagem,24.0,Pix,89.9
+2291,2023-06-20,Tijolo,Construção e Estrutura,31.0,Boleto,2.0
+2292,2023-10-23,Carrinho de Mão,,44.0,Dinheiro,359.0
+2293,2023-08-09,Martelo,Ferramentas,79.0,Crédito,79.9
+2294,2023-05-05,Óculos de Proteção,Segurança e EPI,6.0,Transferência Bancária,24.9
+2295,2023-06-23,Extensão (5m),Elétrica,72.0,Pix,39.9
+2296,2023-09-03,Tesoura de Poda,Jardinagem,97.0,Crédito,59.9
+2297,2023-06-16,Bloco de Concreto,Construção e Estrutura,68.0,Crédito,6.0
+2298,2023-05-19,Martelo,Ferramentas,91.0,Pix,79.9
+2299,2023-03-30,Brita (20kg),Construção e Estrutura,15.0,Carteira Digital,17.9
+2300,2023-05-11,Selador (5L),Tintas e Acabamento,58.0,Crédito,99.9
+2301,2023-12-07,Carrinho de Mão,Jardinagem,66.0,Débito,359.0
+2302,2023-04-30,Carrinho de Mão,Jardinagem,15.0,Débito,359.0
+2303,2023-07-27,Pilha AA,Elétrica,61.0,Carteira Digital,6.9
+2304,2023-04-23,Disjuntor,Elétrica,61.0,Pix,45.0
+2305,2023-11-24,Bloco de Concreto,Construção e Estrutura,93.0,Crédito,6.0
+2306,2023-08-05,Chave de Fenda,Ferramentas,30.0,Carteira Digital,24.5
+2307,2023-11-03,Disjuntor,Elétrica,28.0,Crédito,45.0
+2308,2023-05-26,Verniz (900ml),Tintas e Acabamento,26.0,Transferência Bancária,139.9
+2309,2023-08-05,Lixadeira,Ferramentas,42.0,Pix,389.0
+2310,2023-12-14,Colete Reflexivo,Segurança e EPI,70.0,Dinheiro,39.9
+2311,2023-05-01,Tesoura de Poda,Jardinagem,2.0,Boleto,59.9
+2312,2023-12-10,Alicate,Ferramentas,99.0,Pix,41.9
+2313,2023-01-31,Caixa de água (500L),Hidráulica,13.0,Débito,799.0
+2314,2023-01-11,Serrote,Ferramentas,39.0,Dinheiro,64.9
+2315,2023-01-11,Botina,Segurança e EPI,48.0,Transferência Bancária,149.0
+2316,2023-09-02,Pá,Jardinagem,58.0,Carteira Digital,74.9
+2317,2023-02-12,Bloco de Concreto,Construção e Estrutura,66.0,Débito,6.0
+2318,2023-08-17,Bomba de água,Hidráulica,66.0,Pix,899.0
+2319,2023-03-08,Enxada,Jardinagem,99.0,Carteira Digital,89.9
+2320,2023-05-02,Cano PVC (6m),Hidráulica,13.0,Débito,29.9
+2321,2023-04-08,Cano PVC (6m),Hidráulica,19.0,Boleto,29.9
+2322,2023-10-19,Fio Elétrico (100m),Elétrica,6.0,Pix,3.5
+2323,2023-07-27,Torneira,Hidráulica,55.0,Pix,79.0
+2324,2023-03-22,Cimento (50kg),Construção e Estrutura,63.0,Pix,39.9
+2325,2023-06-30,Regador (10L),Jardinagem,45.0,Débito,39.9
+2326,2023-09-07,Tomada,Elétrica,55.0,Carteira Digital,9.9
+2327,2023-06-05,Botina,Segurança e EPI,72.0,Boleto,149.0
+2328,2023-12-12,Cano PVC (6m),,51.0,Dinheiro,29.9
+2329,2023-10-21,Máscara Respiratória,Segurança e EPI,88.0,Pix,29.9
+2330,2023-07-19,Lixa (Folha),Tintas e Acabamento,46.0,Crédito,4.9
+2331,2023-08-07,Regador (10L),Jardinagem,8.0,Débito,39.9
+2332,2023-01-11,Adubo (5kg),Jardinagem,27.0,Carteira Digital,49.9
+2333,2023-10-23,Disjuntor,Elétrica,31.0,Dinheiro,45.0
+2334,2023-07-10,Regador (10L),Jardinagem,5.0,Transferência Bancária,39.9
+2335,2023-12-15,Parafusadeira,Ferramentas,90.0,Dinheiro,429.0
+2336,2023-06-10,Caixa de água (500L),Hidráulica,91.0,Crédito,799.0
+2337,2023-09-09,Colete Reflexivo,Segurança e EPI,77.0,Débito,39.9
+2338,2023-02-03,Capacete,Segurança e EPI,74.0,Carteira Digital,49.9
+2339,2023-03-17,Botina,Segurança e EPI,95.0,Pix,149.0
+2340,2023-04-13,Parafusadeira,Ferramentas,85.0,Dinheiro,429.0
+2341,2023-08-27,Pincel,Tintas e Acabamento,27.0,Crédito,12.9
+2342,2023-02-17,Luva de Proteção,Segurança e EPI,12.0,Crédito,19.9
+2343,2023-07-27,Bloco de Concreto,Construção e Estrutura,63.0,Transferência Bancária,6.0
+2344,2023-09-02,Lixadeira,Ferramentas,15.0,Débito,389.0
+2345,2023-01-09,Pá,Jardinagem,18.0,Débito,74.9
+2346,2023-01-17,Bloco de Concreto,Construção e Estrutura,5.0,Pix,6.0
+2347,2023-05-01,Sementes de Grama (1kg),Jardinagem,45.0,Boleto,19.9
+2348,2023-08-19,Lixa (Folha),Tintas e Acabamento,39.0,Transferência Bancária,4.9
+2349,2023-11-25,Tijolo,Construção e Estrutura,37.0,Carteira Digital,2.0
+2350,2023-08-16,Martelo,Ferramentas,70.0,Pix,79.9
+2351,2023-12-15,Botina,Segurança e EPI,17.0,Boleto,149.0
+2352,2023-11-30,Telha Cerâmica,Construção e Estrutura,34.0,Pix,7.9
+2353,2023-11-18,Válvula de Descarga,Hidráulica,46.0,Débito,119.0
+2354,2023-11-14,Extensão (5m),Elétrica,30.0,Carteira Digital,39.9
+2355,2023-09-14,Selador (5L),Tintas e Acabamento,72.0,Carteira Digital,99.9
+2356,2023-09-06,Pilha AA,Elétrica,80.0,Crédito,6.9
+2357,2023-01-30,Lanterna,Elétrica,44.0,Pix,59.9
+2358,2023-01-17,Furadeira,Ferramentas,25.0,Transferência Bancária,499.9
+2359,2023-11-28,Bomba de água,Hidráulica,30.0,Crédito,899.0
+2360,2023-12-29,Bloco de Concreto,Construção e Estrutura,96.0,Crédito,6.0
+2361,2023-02-18,Registro de Água,Hidráulica,2.0,Crédito,54.9
+2362,2023-10-17,Tesoura de Poda,Jardinagem,100.0,Dinheiro,59.9
+2363,2023-02-22,Máscara Respiratória,Segurança e EPI,41.0,Débito,29.9
+2364,2023-08-22,Conexão T,Hidráulica,37.0,Débito,7.9
+2365,2023-03-26,Alicate,Ferramentas,51.0,Pix,41.9
+2366,2023-02-18,Máscara Respiratória,Segurança e EPI,98.0,Pix,29.9
+2367,2023-12-08,Mangueira (20m),Hidráulica,77.0,Débito,59.0
+2368,2023-12-05,Tesoura de Poda,Jardinagem,35.0,Transferência Bancária,59.9
+2369,2023-08-15,Mangueira (20m),Hidráulica,90.0,Transferência Bancária,59.0
+2370,2023-04-09,Óculos de Proteção,Segurança e EPI,10.0,Pix,24.9
+2371,2023-10-28,Selador (5L),Tintas e Acabamento,12.0,Crédito,99.9
+2372,2023-05-23,Pincel,Tintas e Acabamento,79.0,Dinheiro,12.9
+2373,2023-09-29,Máscara Respiratória,Segurança e EPI,4.0,Crédito,29.9
+2374,2023-04-30,Fio Elétrico (100m),Elétrica,78.0,Dinheiro,3.5
+2375,2023-05-16,Pilha AA,Elétrica,74.0,Crédito,6.9
+2376,2023-03-28,Adubo (5kg),Jardinagem,62.0,Carteira Digital,49.9
+2377,2023-06-08,Chave de Fenda,Ferramentas,12.0,Transferência Bancária,24.5
+2378,2023-03-23,Brita (20kg),Construção e Estrutura,67.0,Dinheiro,17.9
+2379,2023-04-29,Selador (5L),Tintas e Acabamento,92.0,Carteira Digital,99.9
+2380,2023-06-01,Luva de Proteção,Segurança e EPI,3.0,Crédito,19.9
+2381,2023-04-20,Cimento (50kg),Construção e Estrutura,18.0,Transferência Bancária,39.9
+2382,2023-03-30,Trena,Ferramentas,98.0,Pix,32.0
+2383,2023-03-11,Adubo (5kg),Jardinagem,59.0,Pix,49.9
+2384,2023-03-27,Verniz (900ml),Tintas e Acabamento,30.0,Carteira Digital,139.9
+2385,2023-05-20,Pilha AA,Elétrica,26.0,Transferência Bancária,6.9
+2386,2023-02-26,Trena,Ferramentas,28.0,Boleto,32.0
+2387,2023-10-22,Capacete,Segurança e EPI,44.0,Boleto,49.9
+2388,2023-03-11,Capacete,Segurança e EPI,93.0,Dinheiro,49.9
+2389,2023-11-28,Tinta Acrílica (18L),Tintas e Acabamento,71.0,Boleto,249.0
+2390,2023-10-02,Trena,Ferramentas,89.0,Crédito,32.0
+2391,2023-08-18,Mangueira (20m),Hidráulica,26.0,Crédito,59.0
+2392,2023-04-13,Botina,Segurança e EPI,9.0,Débito,149.0
+2393,2023-03-05,Disjuntor,Elétrica,39.0,Carteira Digital,45.0
+2394,2023-03-15,Botina,Segurança e EPI,79.0,Dinheiro,149.0
+2395,2023-03-17,Fio Elétrico (100m),Elétrica,31.0,Crédito,3.5
+2396,2023-09-25,Sementes de Grama (1kg),Jardinagem,25.0,Transferência Bancária,19.9
+2397,2023-07-11,Pilha AA,Elétrica,94.0,Carteira Digital,6.9
+2398,2023-03-12,Bomba de água,Hidráulica,40.0,Dinheiro,899.0
+2399,2023-04-03,Argamassa (20kg),Construção e Estrutura,71.0,,24.9
+2400,2023-09-12,Lâmpada LED,Elétrica,74.0,Carteira Digital,14.9
+2401,2023-04-20,Sementes de Grama (1kg),Jardinagem,72.0,Boleto,19.9
+2402,2023-12-29,Adubo (5kg),Jardinagem,95.0,Pix,49.9
+2403,2023-07-27,Lâmpada LED,Elétrica,72.0,Débito,14.9
+2404,2023-01-17,Conexão T,Hidráulica,87.0,Débito,7.9
+2405,2023-10-11,Registro de Água,Hidráulica,56.0,Crédito,54.9
+2406,2023-04-13,Extensão (5m),Elétrica,30.0,Carteira Digital,39.9
+2407,2023-01-27,Massa Corrida (25kg),Tintas e Acabamento,23.0,Transferência Bancária,89.9
+2408,2023-11-01,Óculos de Proteção,Segurança e EPI,74.0,Pix,24.9
+2409,2023-01-22,Regador (10L),Jardinagem,89.0,Crédito,39.9
+2410,2023-03-15,Areia (20kg),Construção e Estrutura,26.0,Dinheiro,14.9
+2411,2023-01-18,Caixa de água (500L),Hidráulica,56.0,,799.0
+2412,2023-11-28,,Tintas e Acabamento,30.0,Transferência Bancária,249.0
+2413,2023-05-13,Luva de Proteção,Segurança e EPI,81.0,Dinheiro,19.9
+2414,2023-09-23,Válvula de Descarga,Hidráulica,10.0,Transferência Bancária,119.0
+2415,2023-07-28,Mangueira (20m),Hidráulica,39.0,Débito,59.0
+2416,2023-04-21,Máscara Respiratória,Segurança e EPI,20.0,Pix,29.9
+2417,2023-10-14,Colete Reflexivo,Segurança e EPI,55.0,Crédito,39.9
+2418,2023-10-08,Tomada,Elétrica,91.0,Carteira Digital,9.9
+2419,2023-03-06,Bomba de água,Hidráulica,81.0,Carteira Digital,899.0
+2420,2023-09-16,Telha Cerâmica,Construção e Estrutura,6.0,Carteira Digital,7.9
+2421,2023-02-27,Óculos de Proteção,Segurança e EPI,21.0,Débito,
+2422,2023-06-20,Tesoura de Poda,Jardinagem,95.0,Crédito,59.9
+2423,2023-09-29,"Tinta Esmalte (3,6L)",Tintas e Acabamento,71.0,Carteira Digital,229.0
+2424,2023-07-22,Enxada,Jardinagem,30.0,Boleto,89.9
+2425,2023-04-11,Verniz (900ml),Tintas e Acabamento,5.0,Pix,139.9
+2426,2023-10-21,Furadeira,Ferramentas,35.0,Boleto,499.9
+2427,2023-01-20,Mangueira (20m),Hidráulica,22.0,Crédito,59.0
+2428,2023-10-24,"Tinta Esmalte (3,6L)",Tintas e Acabamento,87.0,Pix,229.0
+2429,2023-05-19,Carrinho de Mão,Jardinagem,93.0,Dinheiro,359.0
+2430,2023-12-29,Fio Elétrico (100m),Elétrica,87.0,Pix,3.5
+2431,,,Elétrica,59.0,Boleto,14.9
+2432,2023-08-29,Cano PVC (6m),Hidráulica,94.0,Pix,29.9
+2433,2023-01-30,Brita (20kg),Construção e Estrutura,57.0,Débito,17.9
+2434,2023-07-22,Botina,Segurança e EPI,25.0,Pix,149.0
+2435,2023-05-30,Lixa (Folha),Tintas e Acabamento,22.0,Boleto,4.9
+2436,2023-04-05,Cimento (50kg),Construção e Estrutura,47.0,Boleto,39.9
+2437,2023-10-04,Chave de Fenda,Ferramentas,46.0,Boleto,24.5
+2438,2023-12-22,Tesoura de Poda,Jardinagem,78.0,Carteira Digital,59.9
+2439,2023-11-23,Extensão (5m),Elétrica,9.0,Dinheiro,39.9
+2440,2023-07-28,Brita (20kg),Construção e Estrutura,9.0,Carteira Digital,17.9
+2441,2023-11-27,Martelo,Ferramentas,76.0,Dinheiro,79.9
+2442,2023-08-05,Torneira,Hidráulica,54.0,Dinheiro,79.0
+2443,2023-11-23,Caixa de água (500L),Hidráulica,82.0,Boleto,799.0
+2444,2023-05-19,Enxada,Jardinagem,6.0,Pix,89.9
+2445,2023-01-04,Protetor Auricular,Segurança e EPI,14.0,Dinheiro,9.9
+2446,2023-06-20,Selador (5L),Tintas e Acabamento,24.0,Dinheiro,99.9
+2447,2023-08-23,Verniz (900ml),Tintas e Acabamento,16.0,Transferência Bancária,139.9
+2448,2023-11-11,Verga Metálica (2m),Construção e Estrutura,90.0,Dinheiro,119.0
+2449,2023-02-22,Telha Cerâmica,Construção e Estrutura,61.0,Dinheiro,7.9
+2450,2023-04-26,Argamassa (20kg),Construção e Estrutura,15.0,Transferência Bancária,24.9
+2451,2023-03-01,Regador (10L),Jardinagem,82.0,Pix,39.9
+2452,2023-11-26,Chave de Fenda,Ferramentas,66.0,Crédito,24.5
+2453,2023-07-26,Tesoura de Poda,Jardinagem,57.0,Pix,59.9
+2454,2023-04-08,Serrote,Ferramentas,76.0,Boleto,64.9
+2455,2023-10-15,Selador (5L),Tintas e Acabamento,89.0,Pix,99.9
+2456,2023-08-04,Trena,Ferramentas,82.0,Débito,32.0
+2457,2023-04-19,Protetor Auricular,Segurança e EPI,49.0,Débito,9.9
+2458,2023-06-04,Disjuntor,,36.0,Transferência Bancária,45.0
+2459,2023-04-21,Cano PVC (6m),Hidráulica,94.0,Dinheiro,29.9
+2460,2023-04-19,Tomada,Elétrica,73.0,Dinheiro,9.9
+2461,2023-06-01,Óculos de Proteção,Segurança e EPI,44.0,Débito,24.9
+2462,2023-08-25,Bomba de água,Hidráulica,92.0,Boleto,899.0
+2463,2023-10-29,Cano PVC (6m),Hidráulica,97.0,Débito,29.9
+2464,2023-04-30,Lixadeira,Ferramentas,87.0,Crédito,389.0
+2465,2023-04-04,Tomada,Elétrica,100.0,Transferência Bancária,9.9
+2466,2023-01-19,Parafusadeira,Ferramentas,82.0,Carteira Digital,429.0
+2467,2023-02-04,Rolo de Pintura,Tintas e Acabamento,15.0,Carteira Digital,24.9
+2468,2023-09-10,Serrote,Ferramentas,42.0,Pix,64.9
+2469,2023-09-08,Extensão (5m),Elétrica,52.0,Débito,39.9
+2470,2023-05-25,Bomba de água,,9.0,Crédito,899.0
+2471,2023-07-07,Tinta Acrílica (18L),Tintas e Acabamento,20.0,Pix,249.0
+2472,2023-05-15,Extensão (5m),Elétrica,40.0,Boleto,39.9
+2473,2023-12-18,Trena,Ferramentas,24.0,Dinheiro,32.0
+2474,2023-03-01,Alicate,Ferramentas,30.0,Dinheiro,41.9
+2475,2023-06-02,Caixa de água (500L),Hidráulica,18.0,Débito,799.0
+2476,2023-01-09,Capacete,Segurança e EPI,4.0,Dinheiro,49.9
+2477,2023-09-19,Enxada,Jardinagem,87.0,Débito,89.9
+2478,2023-08-23,Colete Reflexivo,Segurança e EPI,77.0,Crédito,39.9
+2479,2023-02-26,Lixadeira,Ferramentas,61.0,Débito,389.0
+2480,2023-05-29,Martelo,Ferramentas,10.0,Dinheiro,79.9
+2481,2023-03-13,Lixa (Folha),Tintas e Acabamento,19.0,Carteira Digital,4.9
+2482,2023-04-06,Pá,Jardinagem,57.0,Carteira Digital,74.9
+2483,2023-03-08,Bomba de água,Hidráulica,68.0,Boleto,899.0
+2484,2023-12-16,Massa Corrida (25kg),Tintas e Acabamento,62.0,Débito,89.9
+2485,2023-02-22,Regador (10L),Jardinagem,38.0,Transferência Bancária,39.9
+2486,2023-02-08,Massa Corrida (25kg),Tintas e Acabamento,89.0,Transferência Bancária,89.9
+2487,2023-07-11,Óculos de Proteção,Segurança e EPI,64.0,Carteira Digital,24.9
+2488,2023-12-18,Bloco de Concreto,Construção e Estrutura,8.0,Crédito,6.0
+2489,2023-07-01,Lanterna,Elétrica,74.0,Pix,59.9
+2490,2023-03-11,Parafusadeira,Ferramentas,58.0,Transferência Bancária,429.0
+2491,2023-06-16,Capacete,Segurança e EPI,97.0,Crédito,49.9
+2492,2023-10-15,Tomada,Elétrica,33.0,Boleto,9.9
+2493,2023-12-12,Enxada,Jardinagem,92.0,Débito,89.9
+2494,2023-07-02,Máscara Respiratória,Segurança e EPI,80.0,Boleto,29.9
+2495,2023-07-05,Luva de Proteção,Segurança e EPI,84.0,Transferência Bancária,19.9
+2496,2023-05-01,Telha Cerâmica,Construção e Estrutura,84.0,Pix,7.9
+2497,2023-09-22,Enxada,Jardinagem,65.0,Carteira Digital,89.9
+2498,2023-05-02,Brita (20kg),Construção e Estrutura,69.0,Pix,17.9
+2499,2023-03-19,Adubo (5kg),Jardinagem,25.0,Dinheiro,49.9
+2500,2023-10-12,Rolo de Pintura,Tintas e Acabamento,4.0,Dinheiro,24.9
+2501,2023-05-21,Tesoura de Poda,Jardinagem,87.0,Pix,59.9
+2502,2023-12-07,Pá,Jardinagem,61.0,Transferência Bancária,74.9
+2503,2023-04-01,Alicate,Ferramentas,20.0,Crédito,41.9
+2504,2023-01-15,"Tinta Esmalte (3,6L)",Tintas e Acabamento,10.0,Boleto,229.0
+2505,2023-07-27,Capacete,Segurança e EPI,28.0,Débito,49.9
+2506,2023-08-05,Lanterna,Elétrica,2.0,Crédito,59.9
+2507,2023-11-02,Pincel,Tintas e Acabamento,1.0,Pix,12.9
+2508,2023-05-02,Mangueira Jardim (30m),Jardinagem,83.0,Crédito,69.9
+2509,2023-09-03,Registro de Água,Hidráulica,47.0,Transferência Bancária,
+2510,2023-09-11,Tinta Acrílica (18L),Tintas e Acabamento,7.0,Boleto,249.0
+2511,2023-03-07,Martelo,Ferramentas,60.0,Transferência Bancária,79.9
+2512,2023-11-13,Lixadeira,Ferramentas,14.0,Dinheiro,389.0
+2513,2023-05-31,Verga Metálica (2m),Construção e Estrutura,55.0,Carteira Digital,119.0
+2514,2023-11-16,Cimento (50kg),Construção e Estrutura,30.0,Carteira Digital,39.9
+2515,2023-03-02,Rolo de Pintura,Tintas e Acabamento,51.0,Pix,24.9
+2516,2023-02-11,Torneira,,14.0,Pix,79.0
+2517,2023-07-16,Mangueira Jardim (30m),Jardinagem,85.0,Boleto,69.9
+2518,2023-06-25,Alicate,Ferramentas,36.0,Pix,41.9
+2519,2023-10-20,Furadeira,Ferramentas,23.0,Dinheiro,499.9
+2520,2023-04-19,Tinta Acrílica (18L),Tintas e Acabamento,1.0,Débito,249.0
+2521,2023-02-25,Brita (20kg),Construção e Estrutura,33.0,Pix,17.9
+2522,2023-12-31,Chave de Fenda,Ferramentas,5.0,Carteira Digital,24.5
+2523,2023-11-27,Enxada,Jardinagem,44.0,Carteira Digital,89.9
+2524,2023-12-24,Furadeira,Ferramentas,21.0,Débito,499.9
+2525,2023-01-24,Pilha AA,Elétrica,69.0,Boleto,6.9
+2526,2023-08-29,Caixa de água (500L),Hidráulica,12.0,Crédito,799.0
+2527,2023-10-30,Telha Cerâmica,Construção e Estrutura,61.0,Boleto,7.9
+2528,2023-04-16,Conexão T,Hidráulica,14.0,Boleto,7.9
+2529,2023-12-03,,Jardinagem,,Débito,49.9
+2530,2023-10-07,Serrote,Ferramentas,72.0,Pix,64.9
+2531,2023-10-15,Fio Elétrico (100m),Elétrica,4.0,Boleto,3.5
+2532,2023-05-27,Mangueira Jardim (30m),Jardinagem,12.0,Transferência Bancária,69.9
+2533,2023-03-05,Adubo (5kg),Jardinagem,5.0,Transferência Bancária,49.9
+2534,2023-01-30,Óculos de Proteção,Segurança e EPI,77.0,Boleto,24.9
+2535,2023-01-06,Regador (10L),Jardinagem,35.0,Transferência Bancária,39.9
+2536,2023-01-01,Adubo (5kg),Jardinagem,92.0,Carteira Digital,49.9
+2537,2023-12-16,Cimento (50kg),Construção e Estrutura,8.0,Pix,39.9
+2538,2023-10-15,Rolo de Pintura,Tintas e Acabamento,32.0,Débito,24.9
+2539,2023-09-19,Verniz (900ml),Tintas e Acabamento,80.0,Boleto,139.9
+2540,2023-12-19,Caixa de água (500L),Hidráulica,78.0,Pix,799.0
+2541,2023-04-12,Máscara Respiratória,Segurança e EPI,19.0,Crédito,29.9
+2542,2023-11-26,Interruptor,Elétrica,26.0,Pix,12.9
+2543,2023-08-27,Adubo (5kg),Jardinagem,37.0,Carteira Digital,49.9
+2544,2023-04-24,Bloco de Concreto,Construção e Estrutura,2.0,Dinheiro,6.0
+2545,2023-04-21,Rolo de Pintura,Tintas e Acabamento,16.0,Dinheiro,24.9
+2546,2023-07-07,Pilha AA,Elétrica,98.0,Carteira Digital,6.9
+2547,2023-01-29,Bomba de água,Hidráulica,54.0,Transferência Bancária,899.0
+2548,2023-10-24,Argamassa (20kg),Construção e Estrutura,84.0,Transferência Bancária,24.9
+2549,2023-08-27,Protetor Auricular,Segurança e EPI,10.0,Crédito,9.9
+2550,2023-01-26,Caixa de água (500L),Hidráulica,25.0,Crédito,799.0
+2551,2023-04-17,Furadeira,Ferramentas,19.0,Dinheiro,499.9
+2552,2023-10-26,Adubo (5kg),Jardinagem,46.0,Débito,49.9
+2553,2023-10-06,Pilha AA,Elétrica,32.0,Dinheiro,6.9
+2554,2023-12-12,Cano PVC (6m),Hidráulica,76.0,Crédito,29.9
+2555,2023-12-09,Bomba de água,Hidráulica,98.0,Débito,899.0
+2556,2023-05-02,Caixa de água (500L),Hidráulica,84.0,Débito,799.0
+2557,2023-02-11,Luva de Proteção,Segurança e EPI,57.0,Dinheiro,19.9
+2558,2023-09-13,Mangueira (20m),Hidráulica,78.0,Transferência Bancária,59.0
+2559,2023-10-30,Colete Reflexivo,Segurança e EPI,81.0,Dinheiro,39.9
+2560,2023-09-21,Colete Reflexivo,Segurança e EPI,43.0,Débito,39.9
+2561,2023-11-04,Luva de Proteção,,18.0,Carteira Digital,19.9
+2562,2023-03-18,Parafusadeira,Ferramentas,96.0,Crédito,429.0
+2563,2023-01-22,Colete Reflexivo,Segurança e EPI,9.0,Pix,39.9
+2564,2023-11-22,Argamassa (20kg),Construção e Estrutura,93.0,Carteira Digital,24.9
+2565,2023-06-27,Caixa de água (500L),Hidráulica,98.0,Carteira Digital,799.0
+2566,2023-01-03,Pincel,Tintas e Acabamento,42.0,Carteira Digital,12.9
+2567,2023-03-18,Protetor Auricular,Segurança e EPI,14.0,Débito,9.9
+2568,2023-12-01,Pá,Jardinagem,1.0,Débito,74.9
+2569,2023-12-13,Mangueira Jardim (30m),Jardinagem,90.0,Crédito,69.9
+2570,2023-07-13,Tomada,Elétrica,15.0,Dinheiro,9.9
+2571,2023-02-12,Pincel,Tintas e Acabamento,24.0,Crédito,12.9
+2572,2023-07-07,Furadeira,Ferramentas,49.0,Crédito,499.9
+2573,2023-08-19,Cimento (50kg),Construção e Estrutura,27.0,Pix,39.9
+2574,2023-09-13,Verniz (900ml),Tintas e Acabamento,84.0,Transferência Bancária,139.9
+2575,2023-12-28,Lâmpada LED,Elétrica,93.0,Dinheiro,14.9
+2576,2023-10-29,Argamassa (20kg),Construção e Estrutura,12.0,Carteira Digital,24.9
+2577,2023-01-05,Carrinho de Mão,Jardinagem,75.0,Crédito,359.0
+2578,2023-12-08,Colete Reflexivo,Segurança e EPI,45.0,Pix,39.9
+2579,2023-09-16,Verga Metálica (2m),Construção e Estrutura,88.0,Crédito,119.0
+2580,2023-06-14,Martelo,Ferramentas,16.0,Boleto,79.9
+2581,2023-10-09,Selador (5L),Tintas e Acabamento,8.0,Boleto,99.9
+2582,2023-02-19,Capacete,Segurança e EPI,3.0,Carteira Digital,49.9
+2583,2023-11-11,Lanterna,Elétrica,46.0,Transferência Bancária,59.9
+2584,2023-02-06,Alicate,Ferramentas,99.0,Dinheiro,41.9
+2585,2023-11-26,Mangueira (20m),Hidráulica,1.0,Dinheiro,59.0
+2586,2023-03-14,Tomada,Elétrica,84.0,Carteira Digital,9.9
+2587,2023-04-19,Registro de Água,Hidráulica,83.0,Transferência Bancária,54.9
+2588,2023-08-25,Torneira,Hidráulica,63.0,Pix,79.0
+2589,2023-01-14,Lixadeira,Ferramentas,49.0,Transferência Bancária,389.0
+2590,2023-10-25,Massa Corrida (25kg),Tintas e Acabamento,76.0,Carteira Digital,89.9
+2591,2023-09-07,Pilha AA,Elétrica,75.0,Transferência Bancária,6.9
+2592,2023-04-20,Parafusadeira,Ferramentas,60.0,Boleto,429.0
+2593,2023-06-02,Torneira,Hidráulica,81.0,Débito,79.0
+2594,2023-02-24,"Tinta Esmalte (3,6L)",Tintas e Acabamento,39.0,Débito,229.0
+2595,2023-06-29,Argamassa (20kg),Construção e Estrutura,29.0,Débito,24.9
+2596,2023-02-02,Lixadeira,Ferramentas,36.0,Transferência Bancária,389.0
+2597,2023-04-08,Parafusadeira,Ferramentas,98.0,Débito,429.0
+2598,2023-05-02,Conexão T,Hidráulica,57.0,Boleto,7.9
+2599,2023-11-09,Martelo,Ferramentas,93.0,Pix,79.9
+2600,2023-10-16,Serrote,Ferramentas,4.0,Boleto,64.9
+2601,2023-02-10,Tesoura de Poda,Jardinagem,3.0,Carteira Digital,59.9
+2602,2023-10-31,,Construção e Estrutura,95.0,Carteira Digital,17.9
+2603,2023-08-01,Botina,Segurança e EPI,21.0,Pix,149.0
+2604,2023-10-04,Disjuntor,Elétrica,21.0,Pix,45.0
+2605,2023-10-17,Protetor Auricular,Segurança e EPI,46.0,,9.9
+2606,2023-01-08,Trena,Ferramentas,18.0,Pix,32.0
+2607,2023-11-19,Furadeira,Ferramentas,44.0,Boleto,499.9
+2608,2023-09-03,Trena,Ferramentas,83.0,Pix,32.0
+2609,2023-06-05,Alicate,Ferramentas,60.0,Carteira Digital,41.9
+2610,2023-06-28,Tijolo,Construção e Estrutura,61.0,Pix,2.0
+2611,2023-10-26,Cano PVC (6m),Hidráulica,31.0,Débito,29.9
+2612,2023-08-03,"Tinta Esmalte (3,6L)",Tintas e Acabamento,96.0,Boleto,229.0
+2613,2023-06-11,Selador (5L),Tintas e Acabamento,85.0,Crédito,99.9
+2614,2023-05-14,Tesoura de Poda,Jardinagem,82.0,Crédito,59.9
+2615,2023-08-30,Martelo,Ferramentas,67.0,Transferência Bancária,79.9
+2616,2023-09-13,Máscara Respiratória,Segurança e EPI,73.0,Transferência Bancária,29.9
+2617,2023-03-20,Capacete,Segurança e EPI,64.0,Pix,49.9
+2618,2023-01-07,Caixa de água (500L),Hidráulica,68.0,Boleto,799.0
+2619,2023-07-03,Bloco de Concreto,Construção e Estrutura,78.0,,6.0
+2620,2023-01-08,Mangueira Jardim (30m),,48.0,Pix,69.9
+2621,2023-05-02,Luva de Proteção,Segurança e EPI,92.0,Débito,19.9
+2622,2023-04-25,Bomba de água,Hidráulica,45.0,Carteira Digital,899.0
+2623,2023-09-16,Lixadeira,Ferramentas,64.0,Crédito,389.0
+2624,2023-03-05,Mangueira Jardim (30m),Jardinagem,51.0,Boleto,69.9
+2625,2023-06-18,Colete Reflexivo,Segurança e EPI,100.0,Débito,39.9
+2626,2023-04-02,"Tinta Esmalte (3,6L)",Tintas e Acabamento,6.0,Carteira Digital,229.0
+2627,2023-10-31,,Ferramentas,17.0,Débito,32.0
+2628,2023-12-09,Registro de Água,Hidráulica,60.0,Transferência Bancária,54.9
+2629,2023-04-06,Tomada,Elétrica,2.0,Pix,9.9
+2630,2023-08-31,Pincel,Tintas e Acabamento,31.0,Pix,12.9
+2631,2023-06-09,Areia (20kg),Construção e Estrutura,51.0,Transferência Bancária,14.9
+2632,2023-01-01,Mangueira Jardim (30m),Jardinagem,82.0,Transferência Bancária,69.9
+2633,2023-10-07,Parafusadeira,Ferramentas,81.0,Pix,429.0
+2634,2023-07-10,Mangueira Jardim (30m),Jardinagem,78.0,Transferência Bancária,69.9
+2635,2023-12-24,Interruptor,Elétrica,90.0,Pix,12.9
+2636,2023-07-21,Luva de Proteção,Segurança e EPI,33.0,Débito,19.9
+2637,2023-11-29,Tijolo,Construção e Estrutura,49.0,Crédito,2.0
+2638,2023-12-06,Massa Corrida (25kg),Tintas e Acabamento,76.0,Crédito,89.9
+2639,2023-05-16,Tinta Acrílica (18L),Tintas e Acabamento,39.0,Boleto,249.0
+2640,2023-01-28,Rolo de Pintura,Tintas e Acabamento,45.0,Transferência Bancária,24.9
+2641,2023-02-25,Botina,Segurança e EPI,13.0,Dinheiro,149.0
+2642,2023-03-16,Lanterna,Elétrica,95.0,Dinheiro,59.9
+2643,2023-08-18,Bloco de Concreto,Construção e Estrutura,36.0,Boleto,6.0
+2644,2023-10-28,Massa Corrida (25kg),Tintas e Acabamento,74.0,Dinheiro,89.9
+2645,2023-01-24,"Tinta Esmalte (3,6L)",Tintas e Acabamento,10.0,Pix,229.0
+2646,2023-10-15,Torneira,Hidráulica,86.0,Carteira Digital,79.0
+2647,2023-02-18,Válvula de Descarga,Hidráulica,78.0,Transferência Bancária,119.0
+2648,2023-03-29,Lixadeira,Ferramentas,97.0,Pix,
+2649,2023-03-02,Bomba de água,Hidráulica,54.0,Boleto,899.0
+2650,2023-12-04,Adubo (5kg),Jardinagem,80.0,Boleto,49.9
+2651,2023-03-06,Brita (20kg),Construção e Estrutura,,,17.9
+2652,2023-12-09,Lixa (Folha),Tintas e Acabamento,41.0,Boleto,4.9
+2653,2023-03-21,Lixadeira,Ferramentas,9.0,Dinheiro,389.0
+2654,2023-07-26,Registro de Água,Hidráulica,69.0,Transferência Bancária,54.9
+2655,2023-05-22,Interruptor,Elétrica,54.0,Carteira Digital,12.9
+2656,2023-02-04,Torneira,Hidráulica,94.0,Pix,79.0
+2657,2023-09-28,Telha Cerâmica,Construção e Estrutura,100.0,Boleto,7.9
+2658,2023-05-20,Caixa de água (500L),Hidráulica,35.0,Crédito,799.0
+2659,2023-10-31,Capacete,Segurança e EPI,23.0,Crédito,49.9
+2660,2023-09-21,Adubo (5kg),Jardinagem,63.0,Crédito,49.9
+2661,2023-01-15,Furadeira,Ferramentas,81.0,Pix,499.9
+2662,2023-03-29,Disjuntor,Elétrica,4.0,Pix,45.0
+2663,2023-10-29,Furadeira,Ferramentas,51.0,Carteira Digital,499.9
+2664,2023-12-27,Lixadeira,Ferramentas,75.0,Dinheiro,389.0
+2665,2023-07-02,Bomba de água,Hidráulica,76.0,Boleto,899.0
+2666,2023-04-20,Pilha AA,Elétrica,63.0,Pix,6.9
+2667,2023-11-29,Tinta Acrílica (18L),,83.0,Débito,249.0
+2668,2023-02-21,Adubo (5kg),Jardinagem,23.0,Pix,49.9
+2669,2023-02-05,Cano PVC (6m),Hidráulica,71.0,Carteira Digital,29.9
+2670,2023-09-13,Massa Corrida (25kg),Tintas e Acabamento,66.0,Transferência Bancária,89.9
+2671,2023-07-10,Interruptor,Elétrica,67.0,Crédito,12.9
+2672,2023-05-07,Cano PVC (6m),Hidráulica,81.0,Boleto,29.9
+2673,2023-07-05,Brita (20kg),Construção e Estrutura,71.0,Transferência Bancária,17.9
+2674,2023-08-24,Parafusadeira,,93.0,Crédito,429.0
+2675,2023-09-20,Telha Cerâmica,Construção e Estrutura,64.0,Carteira Digital,7.9
+2676,2023-03-07,Luva de Proteção,Segurança e EPI,58.0,Dinheiro,19.9
+2677,2023-12-07,Conexão T,Hidráulica,92.0,Carteira Digital,7.9
+2678,2023-09-15,Verga Metálica (2m),Construção e Estrutura,29.0,Crédito,119.0
+2679,2023-08-19,Disjuntor,Elétrica,82.0,Pix,45.0
+2680,2023-11-03,Chave de Fenda,Ferramentas,84.0,Crédito,24.5
+2681,2023-03-02,Regador (10L),Jardinagem,84.0,Dinheiro,39.9
+2682,2023-10-25,Telha Cerâmica,Construção e Estrutura,70.0,Boleto,7.9
+2683,2023-05-27,Martelo,Ferramentas,11.0,Crédito,79.9
+2684,2023-06-25,Chave de Fenda,Ferramentas,8.0,Boleto,24.5
+2685,2023-03-06,Mangueira Jardim (30m),Jardinagem,63.0,Transferência Bancária,69.9
+2686,2023-08-07,Cimento (50kg),Construção e Estrutura,43.0,Boleto,39.9
+2687,2023-07-11,Caixa de água (500L),Hidráulica,12.0,Carteira Digital,799.0
+2688,2023-07-26,Pilha AA,Elétrica,13.0,Boleto,6.9
+2689,2023-09-28,Bomba de água,Hidráulica,73.0,Carteira Digital,899.0
+2690,2023-10-08,Caixa de água (500L),Hidráulica,46.0,Pix,799.0
+2691,2023-10-13,Serrote,Ferramentas,47.0,Dinheiro,64.9
+2692,2023-10-19,Areia (20kg),Construção e Estrutura,26.0,Transferência Bancária,14.9
+2693,2023-03-29,Protetor Auricular,Segurança e EPI,10.0,Débito,9.9
+2694,2023-04-11,Protetor Auricular,Segurança e EPI,100.0,Débito,9.9
+2695,2023-10-16,Mangueira Jardim (30m),Jardinagem,85.0,Boleto,69.9
+2696,2023-10-05,Cimento (50kg),Construção e Estrutura,54.0,Dinheiro,39.9
+2697,2023-01-30,Enxada,Jardinagem,88.0,Boleto,89.9
+2698,2023-11-28,Conexão T,Hidráulica,6.0,Débito,7.9
+2699,2023-06-17,Registro de Água,Hidráulica,53.0,Débito,54.9
+2700,2023-12-17,Alicate,Ferramentas,68.0,Débito,41.9
+2701,2023-05-05,Tijolo,Construção e Estrutura,85.0,Dinheiro,2.0
+2702,2023-07-26,Brita (20kg),Construção e Estrutura,75.0,Débito,17.9
+2703,2023-11-25,Areia (20kg),Construção e Estrutura,29.0,Crédito,14.9
+2704,2023-05-18,Telha Cerâmica,Construção e Estrutura,94.0,Débito,7.9
+2705,2023-10-24,Torneira,Hidráulica,8.0,Boleto,79.0
+2706,2023-12-09,Parafusadeira,Ferramentas,30.0,Pix,429.0
+2707,2023-03-10,Bloco de Concreto,Construção e Estrutura,17.0,Carteira Digital,6.0
+2708,2023-01-20,Lanterna,Elétrica,88.0,Pix,59.9
+2709,2023-09-13,Trena,Ferramentas,52.0,Carteira Digital,
+2710,2023-12-17,Areia (20kg),Construção e Estrutura,79.0,Carteira Digital,14.9
+2711,2023-01-11,Mangueira (20m),Hidráulica,57.0,Carteira Digital,59.0
+2712,2023-04-18,Massa Corrida (25kg),Tintas e Acabamento,27.0,Dinheiro,89.9
+2713,2023-11-23,Pá,Jardinagem,27.0,Pix,74.9
+2714,2023-02-13,Capacete,Segurança e EPI,16.0,Crédito,49.9
+2715,2023-04-21,Brita (20kg),Construção e Estrutura,52.0,Boleto,17.9
+2716,2023-08-21,Telha Cerâmica,Construção e Estrutura,,Transferência Bancária,7.9
+2717,2023-07-05,Massa Corrida (25kg),Tintas e Acabamento,85.0,Boleto,89.9
+2718,2023-12-07,Alicate,Ferramentas,29.0,Débito,41.9
+2719,2023-01-10,Óculos de Proteção,Segurança e EPI,4.0,Boleto,24.9
+2720,2023-01-08,Tijolo,Construção e Estrutura,45.0,Transferência Bancária,2.0
+2721,2023-05-24,Lâmpada LED,Elétrica,36.0,Pix,14.9
+2722,2023-12-13,Caixa de água (500L),Hidráulica,54.0,Dinheiro,799.0
+2723,2023-03-25,Serrote,Ferramentas,26.0,Crédito,64.9
+2724,2023-06-16,,Elétrica,87.0,Pix,12.9
+2725,2023-10-21,Argamassa (20kg),Construção e Estrutura,14.0,Crédito,24.9
+2726,2023-04-28,Interruptor,Elétrica,81.0,Débito,12.9
+2727,2023-04-18,Alicate,Ferramentas,99.0,Débito,41.9
+2728,2023-06-14,Mangueira (20m),Hidráulica,37.0,Carteira Digital,59.0
+2729,,Lixa (Folha),Tintas e Acabamento,11.0,Carteira Digital,4.9
+2730,2023-08-15,Disjuntor,Elétrica,84.0,Crédito,45.0
+2731,2023-11-07,Tomada,Elétrica,86.0,Débito,9.9
+2732,2023-10-25,Registro de Água,Hidráulica,8.0,Dinheiro,54.9
+2733,2023-07-05,Conexão T,Hidráulica,15.0,Boleto,7.9
+2734,2023-12-31,Lanterna,Elétrica,56.0,Pix,59.9
+2735,2023-01-29,Lixa (Folha),Tintas e Acabamento,13.0,Dinheiro,4.9
+2736,2023-05-11,Trena,Ferramentas,73.0,Carteira Digital,32.0
+2737,2023-08-19,Trena,Ferramentas,84.0,Pix,32.0
+2738,2023-01-01,Furadeira,Ferramentas,78.0,,499.9
+2739,2023-01-12,Argamassa (20kg),Construção e Estrutura,63.0,Crédito,24.9
+2740,2023-10-27,Capacete,Segurança e EPI,93.0,Boleto,49.9
+2741,2023-07-11,Extensão (5m),Elétrica,58.0,Crédito,39.9
+2742,2023-07-07,Furadeira,Ferramentas,67.0,Pix,499.9
+2743,2023-03-23,Sementes de Grama (1kg),Jardinagem,74.0,Débito,19.9
+2744,2023-01-28,Selador (5L),Tintas e Acabamento,9.0,Dinheiro,
+2745,2023-06-15,Pá,Jardinagem,88.0,Pix,74.9
+2746,2023-05-03,Mangueira (20m),Hidráulica,47.0,Transferência Bancária,59.0
+2747,2023-10-18,Interruptor,Elétrica,91.0,Transferência Bancária,12.9
+2748,2023-03-31,Chave de Fenda,Ferramentas,67.0,Pix,24.5
+2749,2023-11-08,Pincel,Tintas e Acabamento,87.0,Dinheiro,12.9
+2750,2023-11-15,Sementes de Grama (1kg),Jardinagem,31.0,Carteira Digital,19.9
+2751,2023-08-10,Areia (20kg),Construção e Estrutura,30.0,Carteira Digital,14.9
+2752,2023-09-06,Fio Elétrico (100m),Elétrica,22.0,Transferência Bancária,3.5
+2753,2023-12-10,Enxada,Jardinagem,95.0,Carteira Digital,89.9
+2754,2023-08-21,Sementes de Grama (1kg),Jardinagem,81.0,Transferência Bancária,19.9
+2755,2023-04-03,Lixadeira,Ferramentas,23.0,Boleto,389.0
+2756,2023-06-21,Máscara Respiratória,Segurança e EPI,4.0,Boleto,29.9
+2757,2023-09-18,Parafusadeira,Ferramentas,70.0,Crédito,429.0
+2758,2023-11-15,Extensão (5m),Elétrica,14.0,Débito,39.9
+2759,2023-06-12,Enxada,Jardinagem,1.0,Dinheiro,89.9
+2760,2023-12-15,Tijolo,Construção e Estrutura,5.0,Crédito,2.0
+2761,2023-04-14,"Tinta Esmalte (3,6L)",Tintas e Acabamento,6.0,Crédito,229.0
+2762,2023-06-01,Verniz (900ml),Tintas e Acabamento,58.0,Carteira Digital,139.9
+2763,2023-07-28,Pá,Jardinagem,70.0,Débito,74.9
+2764,2023-12-11,Botina,Segurança e EPI,8.0,Carteira Digital,149.0
+2765,2023-02-15,Tijolo,Construção e Estrutura,53.0,Dinheiro,2.0
+2766,2023-11-22,Máscara Respiratória,Segurança e EPI,7.0,Boleto,29.9
+2767,2023-09-18,Capacete,Segurança e EPI,67.0,Pix,49.9
+2768,2023-09-21,Mangueira (20m),Hidráulica,94.0,Boleto,59.0
+2769,2023-08-15,Tomada,,71.0,Boleto,9.9
+2770,2023-01-24,Lixadeira,Ferramentas,64.0,Dinheiro,389.0
+2771,2023-11-16,Extensão (5m),Elétrica,59.0,Pix,39.9
+2772,2023-12-07,Massa Corrida (25kg),Tintas e Acabamento,78.0,Pix,89.9
+2773,2023-08-27,Máscara Respiratória,Segurança e EPI,28.0,Pix,29.9
+2774,2023-01-01,Lâmpada LED,Elétrica,86.0,Carteira Digital,14.9
+2775,2023-09-02,Botina,Segurança e EPI,78.0,Transferência Bancária,149.0
+2776,2023-06-30,Rolo de Pintura,Tintas e Acabamento,44.0,Débito,24.9
+2777,2023-08-15,Caixa de água (500L),Hidráulica,56.0,Boleto,799.0
+2778,2023-01-01,Tomada,Elétrica,73.0,Débito,9.9
+2779,2023-04-30,Furadeira,Ferramentas,2.0,Crédito,499.9
+2780,2023-04-14,Protetor Auricular,Segurança e EPI,17.0,Carteira Digital,9.9
+2781,2023-12-07,Tinta Acrílica (18L),Tintas e Acabamento,98.0,Carteira Digital,249.0
+2782,2023-09-25,Selador (5L),Tintas e Acabamento,58.0,Carteira Digital,99.9
+2783,2023-10-15,Martelo,Ferramentas,4.0,Dinheiro,79.9
+2784,2023-09-06,Lixa (Folha),Tintas e Acabamento,34.0,Transferência Bancária,4.9
+2785,2023-04-15,Verniz (900ml),Tintas e Acabamento,20.0,Crédito,139.9
+2786,2023-07-31,Pá,Jardinagem,62.0,Carteira Digital,74.9
+2787,2023-11-28,Protetor Auricular,Segurança e EPI,1.0,Carteira Digital,9.9
+2788,2023-12-22,Selador (5L),Tintas e Acabamento,96.0,Débito,99.9
+2789,2023-07-22,Bloco de Concreto,Construção e Estrutura,54.0,Pix,6.0
+2790,2023-12-05,Chave de Fenda,Ferramentas,89.0,Crédito,24.5
+2791,2023-11-04,Válvula de Descarga,Hidráulica,24.0,Débito,119.0
+2792,2023-03-11,Argamassa (20kg),Construção e Estrutura,15.0,Dinheiro,24.9
+2793,2023-09-23,Tomada,Elétrica,41.0,Pix,9.9
+2794,,Bomba de água,Hidráulica,35.0,Carteira Digital,899.0
+2795,2023-05-07,Chave de Fenda,Ferramentas,6.0,Transferência Bancária,24.5
+2796,2023-02-08,Botina,Segurança e EPI,26.0,Dinheiro,149.0
+2797,2023-02-08,Selador (5L),Tintas e Acabamento,34.0,Pix,99.9
+2798,2023-05-02,Disjuntor,Elétrica,41.0,Crédito,45.0
+2799,2023-05-11,Mangueira (20m),Hidráulica,65.0,Boleto,59.0
+2800,2023-09-08,Selador (5L),Tintas e Acabamento,100.0,,99.9
+2801,2023-01-31,Sementes de Grama (1kg),Jardinagem,74.0,Transferência Bancária,19.9
+2802,2023-07-21,Cano PVC (6m),Hidráulica,12.0,Boleto,
+2803,2023-04-10,Conexão T,Hidráulica,57.0,Carteira Digital,7.9
+2804,2023-06-25,Luva de Proteção,Segurança e EPI,65.0,Pix,19.9
+2805,2023-10-05,Lâmpada LED,Elétrica,40.0,Dinheiro,14.9
+2806,2023-02-24,Pilha AA,Elétrica,26.0,Dinheiro,6.9
+2807,2023-10-11,Conexão T,Hidráulica,79.0,Pix,7.9
+2808,2023-04-10,Fio Elétrico (100m),Elétrica,8.0,Carteira Digital,3.5
+2809,2023-08-10,Adubo (5kg),Jardinagem,29.0,Débito,49.9
+2810,2023-05-11,Verniz (900ml),Tintas e Acabamento,50.0,Boleto,139.9
+2811,2023-05-21,Lixa (Folha),Tintas e Acabamento,62.0,Pix,4.9
+2812,2023-05-18,Pincel,Tintas e Acabamento,6.0,Transferência Bancária,12.9
+2813,2023-08-25,Disjuntor,Elétrica,37.0,Pix,45.0
+2814,2023-05-21,Telha Cerâmica,Construção e Estrutura,98.0,Transferência Bancária,7.9
+2815,2023-02-19,Caixa de água (500L),Hidráulica,67.0,Transferência Bancária,799.0
+2816,2023-07-25,Lanterna,Elétrica,41.0,Transferência Bancária,59.9
+2817,2023-01-09,Carrinho de Mão,Jardinagem,89.0,Pix,359.0
+2818,2023-07-07,Parafusadeira,Ferramentas,11.0,Dinheiro,429.0
+2819,2023-03-28,Parafusadeira,Ferramentas,14.0,Carteira Digital,429.0
+2820,2023-01-20,Areia (20kg),Construção e Estrutura,27.0,Pix,14.9
+2821,2023-01-05,Telha Cerâmica,Construção e Estrutura,52.0,Pix,7.9
+2822,2023-02-21,Massa Corrida (25kg),Tintas e Acabamento,67.0,Boleto,89.9
+2823,2023-02-06,Máscara Respiratória,Segurança e EPI,67.0,Crédito,29.9
+2824,2023-09-04,Extensão (5m),Elétrica,62.0,Pix,39.9
+2825,2023-08-19,Lanterna,Elétrica,,Boleto,59.9
+2826,2023-09-10,Tijolo,Construção e Estrutura,18.0,Pix,2.0
+2827,2023-08-20,Máscara Respiratória,Segurança e EPI,89.0,Débito,29.9
+2828,2023-10-20,Argamassa (20kg),Construção e Estrutura,80.0,Dinheiro,24.9
+2829,2023-11-20,Mangueira (20m),Hidráulica,30.0,Pix,59.0
+2830,2023-10-15,Máscara Respiratória,Segurança e EPI,7.0,Crédito,29.9
+2831,2023-05-06,Máscara Respiratória,Segurança e EPI,90.0,Dinheiro,29.9
+2832,2023-09-13,Cano PVC (6m),Hidráulica,50.0,Crédito,29.9
+2833,2023-02-03,Registro de Água,Hidráulica,61.0,Pix,54.9
+2834,2023-04-25,Areia (20kg),Construção e Estrutura,29.0,Transferência Bancária,14.9
+2835,2023-03-30,Sementes de Grama (1kg),Jardinagem,37.0,Carteira Digital,19.9
+2836,2023-07-07,Mangueira (20m),Hidráulica,8.0,Boleto,59.0
+2837,2023-09-19,Registro de Água,Hidráulica,65.0,Pix,54.9
+2838,2023-02-18,Válvula de Descarga,Hidráulica,56.0,Boleto,119.0
+2839,2023-01-12,Máscara Respiratória,Segurança e EPI,27.0,Boleto,29.9
+2840,2023-04-29,Cano PVC (6m),Hidráulica,63.0,Transferência Bancária,29.9
+2841,2023-12-06,Argamassa (20kg),Construção e Estrutura,69.0,Crédito,24.9
+2842,2023-05-15,,Construção e Estrutura,75.0,Débito,39.9
+2843,2023-09-16,Verniz (900ml),Tintas e Acabamento,54.0,Dinheiro,139.9
+2844,2023-02-03,Interruptor,Elétrica,7.0,Dinheiro,12.9
+2845,2023-10-08,Cimento (50kg),Construção e Estrutura,52.0,Carteira Digital,39.9
+2846,2023-09-28,Registro de Água,Hidráulica,18.0,,54.9
+2847,2023-06-22,"Tinta Esmalte (3,6L)",Tintas e Acabamento,66.0,Boleto,229.0
+2848,2023-11-17,Telha Cerâmica,Construção e Estrutura,22.0,Dinheiro,7.9
+2849,2023-05-12,Fio Elétrico (100m),Elétrica,80.0,Transferência Bancária,3.5
+2850,2023-09-30,Telha Cerâmica,Construção e Estrutura,84.0,Crédito,
+2851,2023-03-19,Brita (20kg),Construção e Estrutura,45.0,Dinheiro,17.9
+2852,2023-05-28,Martelo,Ferramentas,10.0,Débito,79.9
+2853,2023-05-29,Torneira,Hidráulica,64.0,Crédito,79.0
+2854,2023-11-10,Argamassa (20kg),Construção e Estrutura,18.0,Pix,24.9
+2855,2023-06-05,Cimento (50kg),Construção e Estrutura,87.0,Boleto,39.9
+2856,2023-09-25,Pilha AA,Elétrica,82.0,Boleto,6.9
+2857,2023-11-10,Alicate,Ferramentas,30.0,Débito,41.9
+2858,2023-10-03,Mangueira (20m),Hidráulica,4.0,Dinheiro,59.0
+2859,2023-11-26,Colete Reflexivo,Segurança e EPI,94.0,Dinheiro,39.9
+2860,2023-03-16,Alicate,Ferramentas,70.0,Boleto,41.9
+2861,2023-08-07,Rolo de Pintura,Tintas e Acabamento,10.0,Débito,24.9
+2862,2023-09-14,Bomba de água,Hidráulica,29.0,Pix,899.0
+2863,2023-10-24,Protetor Auricular,Segurança e EPI,94.0,Transferência Bancária,9.9
+2864,2023-02-20,Pincel,Tintas e Acabamento,26.0,Débito,12.9
+2865,2023-12-18,Bloco de Concreto,Construção e Estrutura,21.0,Boleto,6.0
+2866,2023-09-23,Torneira,Hidráulica,62.0,Dinheiro,79.0
+2867,2023-07-02,Trena,Ferramentas,100.0,Crédito,32.0
+2868,2023-11-04,Protetor Auricular,Segurança e EPI,19.0,Transferência Bancária,9.9
+2869,2023-09-16,Tinta Acrílica (18L),Tintas e Acabamento,78.0,Carteira Digital,249.0
+2870,2023-09-21,Mangueira Jardim (30m),Jardinagem,16.0,Crédito,69.9
+2871,2023-01-23,Cimento (50kg),Construção e Estrutura,46.0,Crédito,39.9
+2872,2023-08-31,Fio Elétrico (100m),Elétrica,47.0,Crédito,3.5
+2873,2023-10-14,Chave de Fenda,Ferramentas,55.0,Débito,24.5
+2874,2023-01-25,Lanterna,Elétrica,85.0,Crédito,59.9
+2875,2023-03-12,Mangueira (20m),Hidráulica,69.0,Transferência Bancária,59.0
+2876,2023-10-04,Caixa de água (500L),Hidráulica,3.0,Boleto,799.0
+2877,2023-10-09,Válvula de Descarga,Hidráulica,80.0,Carteira Digital,119.0
+2878,2023-09-14,Interruptor,Elétrica,83.0,Carteira Digital,12.9
+2879,2023-03-19,Bomba de água,Hidráulica,27.0,Transferência Bancária,899.0
+2880,2023-12-17,Óculos de Proteção,Segurança e EPI,88.0,Boleto,24.9
+2881,2023-09-24,Bloco de Concreto,Construção e Estrutura,10.0,Transferência Bancária,6.0
+2882,2023-05-05,Registro de Água,Hidráulica,31.0,Dinheiro,54.9
+2883,2023-04-29,Regador (10L),Jardinagem,81.0,Crédito,39.9
+2884,2023-04-01,Lixa (Folha),Tintas e Acabamento,60.0,Débito,4.9
+2885,2023-05-12,Fio Elétrico (100m),Elétrica,26.0,Dinheiro,3.5
+2886,2023-06-12,Interruptor,Elétrica,87.0,Boleto,12.9
+2887,2023-10-21,Furadeira,Ferramentas,97.0,Boleto,499.9
+2888,2023-07-07,Parafusadeira,Ferramentas,89.0,Débito,429.0
+2889,2023-04-22,Tomada,Elétrica,62.0,Transferência Bancária,9.9
+2890,2023-05-01,Cimento (50kg),Construção e Estrutura,71.0,Débito,39.9
+2891,2023-04-11,Capacete,Segurança e EPI,87.0,Carteira Digital,49.9
+2892,2023-05-07,Pilha AA,Elétrica,39.0,Pix,6.9
+2893,2023-06-03,Pá,Jardinagem,73.0,Pix,74.9
+2894,2023-02-09,Válvula de Descarga,Hidráulica,94.0,Dinheiro,119.0
+2895,2023-08-12,Tesoura de Poda,Jardinagem,56.0,Dinheiro,59.9
+2896,2023-05-19,Cimento (50kg),Construção e Estrutura,82.0,Boleto,39.9
+2897,2023-10-27,Serrote,Ferramentas,99.0,Boleto,64.9
+2898,2023-12-22,Cimento (50kg),Construção e Estrutura,100.0,Boleto,39.9
+2899,2023-08-30,Verniz (900ml),Tintas e Acabamento,45.0,Carteira Digital,139.9
+2900,2023-05-12,Massa Corrida (25kg),Tintas e Acabamento,86.0,Pix,89.9
+2901,2023-04-29,Cimento (50kg),Construção e Estrutura,35.0,Carteira Digital,39.9
+2902,2023-08-25,Lixa (Folha),Tintas e Acabamento,59.0,Crédito,4.9
+2903,2023-03-28,Lixadeira,Ferramentas,80.0,Pix,389.0
+2904,2023-04-05,"Tinta Esmalte (3,6L)",Tintas e Acabamento,34.0,Pix,229.0
+2905,2023-08-06,Rolo de Pintura,Tintas e Acabamento,64.0,Transferência Bancária,24.9
+2906,,Extensão (5m),Elétrica,41.0,Pix,39.9
+2907,2023-12-26,Conexão T,Hidráulica,33.0,Boleto,7.9
+2908,2023-08-27,Mangueira (20m),Hidráulica,12.0,Pix,59.0
+2909,2023-04-15,"Tinta Esmalte (3,6L)",Tintas e Acabamento,14.0,Transferência Bancária,229.0
+2910,2023-11-13,Tinta Acrílica (18L),Tintas e Acabamento,56.0,Pix,249.0
+2911,2023-11-26,Furadeira,Ferramentas,7.0,Débito,499.9
+2912,2023-10-25,Lixa (Folha),Tintas e Acabamento,44.0,Crédito,4.9
+2913,2023-12-03,Tijolo,Construção e Estrutura,21.0,Carteira Digital,2.0
+2914,2023-12-25,Verga Metálica (2m),Construção e Estrutura,66.0,Débito,119.0
+2915,2023-01-08,Brita (20kg),Construção e Estrutura,77.0,Crédito,17.9
+2916,2023-06-17,Carrinho de Mão,Jardinagem,43.0,Débito,359.0
+2917,2023-04-19,Sementes de Grama (1kg),Jardinagem,62.0,Boleto,19.9
+2918,2023-01-01,Protetor Auricular,Segurança e EPI,43.0,Crédito,9.9
+2919,2023-03-27,Bloco de Concreto,Construção e Estrutura,23.0,Carteira Digital,6.0
+2920,2023-08-07,Chave de Fenda,Ferramentas,89.0,Dinheiro,24.5
+2921,2023-09-02,Adubo (5kg),Jardinagem,16.0,Boleto,49.9
+2922,2023-05-28,Luva de Proteção,Segurança e EPI,13.0,Pix,19.9
+2923,2023-03-14,Trena,Ferramentas,59.0,Dinheiro,32.0
+2924,2023-10-27,Cano PVC (6m),Hidráulica,47.0,Dinheiro,29.9
+2925,2023-02-25,Adubo (5kg),Jardinagem,56.0,Crédito,49.9
+2926,2023-06-30,Trena,Ferramentas,37.0,Débito,32.0
+2927,2023-10-06,Cano PVC (6m),Hidráulica,68.0,Débito,29.9
+2928,2023-11-17,Interruptor,Elétrica,12.0,Dinheiro,12.9
+2929,2023-10-14,Lanterna,Elétrica,56.0,Boleto,59.9
+2930,2023-02-10,Pincel,Tintas e Acabamento,64.0,Dinheiro,12.9
+2931,2023-05-03,Parafusadeira,Ferramentas,7.0,Transferência Bancária,429.0
+2932,2023-03-31,Sementes de Grama (1kg),Jardinagem,99.0,Boleto,19.9
+2933,2023-10-25,Verniz (900ml),Tintas e Acabamento,2.0,Carteira Digital,139.9
+2934,2023-06-11,Adubo (5kg),Jardinagem,52.0,Pix,49.9
+2935,2023-12-17,Válvula de Descarga,Hidráulica,14.0,Boleto,119.0
+2936,2023-09-08,Massa Corrida (25kg),Tintas e Acabamento,16.0,Pix,89.9
+2937,2023-12-12,Telha Cerâmica,Construção e Estrutura,57.0,Boleto,7.9
+2938,2023-03-31,Argamassa (20kg),Construção e Estrutura,97.0,Dinheiro,24.9
+2939,2023-03-23,Rolo de Pintura,Tintas e Acabamento,21.0,Transferência Bancária,24.9
+2940,2023-12-18,Sementes de Grama (1kg),Jardinagem,78.0,Boleto,19.9
+2941,2023-02-25,Enxada,Jardinagem,23.0,Carteira Digital,89.9
+2942,2023-12-09,Lixa (Folha),Tintas e Acabamento,51.0,Dinheiro,4.9
+2943,2023-05-08,,Tintas e Acabamento,33.0,Débito,139.9
+2944,2023-11-07,Tinta Acrílica (18L),Tintas e Acabamento,79.0,Carteira Digital,249.0
+2945,2023-11-09,Extensão (5m),Elétrica,71.0,Dinheiro,39.9
+2946,2023-06-18,Regador (10L),Jardinagem,75.0,Boleto,39.9
+2947,2023-02-23,Cimento (50kg),Construção e Estrutura,2.0,Crédito,
+2948,2023-05-31,Furadeira,Ferramentas,92.0,Carteira Digital,499.9
+2949,2023-05-08,Interruptor,Elétrica,83.0,Dinheiro,12.9
+2950,2023-07-15,Tesoura de Poda,Jardinagem,62.0,Boleto,59.9
+2951,2023-12-16,"Tinta Esmalte (3,6L)",Tintas e Acabamento,56.0,Transferência Bancária,229.0
+2952,2023-06-11,Caixa de água (500L),Hidráulica,94.0,Dinheiro,799.0
+2953,2023-09-04,Carrinho de Mão,Jardinagem,4.0,Boleto,359.0
+2954,2023-01-07,Óculos de Proteção,Segurança e EPI,88.0,Boleto,24.9
+2955,2023-06-07,Caixa de água (500L),Hidráulica,96.0,Carteira Digital,799.0
+2956,2023-10-01,Brita (20kg),Construção e Estrutura,8.0,Boleto,17.9
+2957,2023-06-17,Trena,Ferramentas,21.0,Boleto,32.0
+2958,2023-02-07,Sementes de Grama (1kg),Jardinagem,42.0,Crédito,
+2959,2023-06-20,Alicate,Ferramentas,39.0,Crédito,41.9
+2960,2023-06-01,Pincel,Tintas e Acabamento,70.0,Pix,12.9
+2961,2023-04-20,Furadeira,Ferramentas,85.0,Boleto,499.9
+2962,2023-01-08,Óculos de Proteção,Segurança e EPI,24.0,Débito,24.9
+2963,2023-10-22,Pá,Jardinagem,46.0,Pix,74.9
+2964,2023-08-11,Extensão (5m),Elétrica,81.0,Crédito,39.9
+2965,2023-04-07,Luva de Proteção,,100.0,Boleto,19.9
+2966,2023-05-31,Pá,Jardinagem,33.0,Carteira Digital,74.9
+2967,2023-01-09,Trena,Ferramentas,18.0,Dinheiro,32.0
+2968,2023-12-28,Fio Elétrico (100m),Elétrica,99.0,Dinheiro,3.5
+2969,2023-07-25,Tijolo,Construção e Estrutura,23.0,Débito,2.0
+2970,2023-05-24,Luva de Proteção,Segurança e EPI,84.0,Boleto,19.9
+2971,2023-09-09,Parafusadeira,Ferramentas,31.0,Crédito,429.0
+2972,2023-03-27,Alicate,,67.0,Dinheiro,41.9
+2973,2023-10-13,Conexão T,Hidráulica,75.0,Débito,7.9
+2974,,Furadeira,Ferramentas,82.0,Débito,499.9
+2975,2023-12-25,Tesoura de Poda,Jardinagem,57.0,Crédito,59.9
+2976,2023-04-29,Colete Reflexivo,Segurança e EPI,48.0,Dinheiro,39.9
+2977,2023-11-28,Colete Reflexivo,Segurança e EPI,27.0,Pix,39.9
+2978,2023-09-17,Serrote,Ferramentas,75.0,Dinheiro,64.9
+2979,2023-05-31,Registro de Água,Hidráulica,78.0,Pix,54.9
+2980,2023-06-30,Conexão T,Hidráulica,15.0,Pix,7.9
+2981,2023-09-25,Colete Reflexivo,Segurança e EPI,14.0,Transferência Bancária,39.9
+2982,2023-01-13,Máscara Respiratória,Segurança e EPI,7.0,Débito,29.9
+2983,2023-01-07,Cimento (50kg),Construção e Estrutura,53.0,Transferência Bancária,39.9
+2984,2023-03-21,Cimento (50kg),Construção e Estrutura,92.0,Boleto,39.9
+2985,2023-02-07,Capacete,Segurança e EPI,35.0,Boleto,49.9
+2986,2023-01-03,Enxada,Jardinagem,69.0,Pix,89.9
+2987,2023-11-17,Alicate,Ferramentas,8.0,Pix,41.9
+2988,2023-12-07,Verga Metálica (2m),Construção e Estrutura,6.0,Transferência Bancária,119.0
+2989,2023-07-02,Telha Cerâmica,Construção e Estrutura,12.0,Dinheiro,7.9
+2990,2023-08-13,Areia (20kg),Construção e Estrutura,79.0,Débito,14.9
+2991,2023-01-16,Registro de Água,Hidráulica,94.0,Carteira Digital,54.9
+2992,2023-04-23,Cimento (50kg),Construção e Estrutura,42.0,Carteira Digital,39.9
+2993,2023-07-31,Areia (20kg),Construção e Estrutura,60.0,Crédito,14.9
+2994,2023-06-04,Pincel,Tintas e Acabamento,91.0,Dinheiro,12.9
+2995,2023-06-19,Lâmpada LED,Elétrica,79.0,Dinheiro,14.9
+2996,2023-01-25,Bloco de Concreto,Construção e Estrutura,73.0,Pix,6.0
+2997,2023-11-14,Lâmpada LED,Elétrica,78.0,Dinheiro,14.9
+2998,2023-10-28,Alicate,Ferramentas,7.0,Dinheiro,41.9
+2999,2023-11-22,Fio Elétrico (100m),Elétrica,79.0,Pix,3.5
+3000,2023-09-05,Carrinho de Mão,Jardinagem,35.0,Boleto,359.0
+1802,2023-12-06,Alicate,Ferramentas,90.0,Carteira Digital,41.9
+1191,2023-04-15,Botina,Segurança e EPI,32.0,Dinheiro,149.0
+1818,2023-12-03,Protetor Auricular,Segurança e EPI,62.0,Crédito,9.9
+252,2023-01-23,Capacete,Segurança e EPI,10.0,Carteira Digital,49.9
+2506,2023-08-05,Lanterna,Elétrica,2.0,Crédito,59.9
+1118,2023-05-21,Pá,Jardinagem,28.0,Dinheiro,74.9
+1412,2023-12-09,Massa Corrida (25kg),Tintas e Acabamento,18.0,Transferência Bancária,89.9
+2114,2023-06-08,Selador (5L),Tintas e Acabamento,95.0,Boleto,99.9
+409,2023-12-25,Furadeira,Ferramentas,78.0,Pix,499.9
+2580,2023-06-14,Martelo,Ferramentas,16.0,Boleto,79.9
+2255,2023-09-17,Máscara Respiratória,Segurança e EPI,30.0,Boleto,29.9
+53,2023-09-21,Tinta Acrílica (18L),,5.0,Crédito,249.0
+645,2023-09-26,Massa Corrida (25kg),Tintas e Acabamento,83.0,Transferência Bancária,89.9
+1764,2023-12-29,Areia (20kg),Construção e Estrutura,59.0,Dinheiro,14.9
+2777,2023-08-15,Caixa de água (500L),Hidráulica,56.0,Boleto,799.0
+901,2023-02-12,Óculos de Proteção,Segurança e EPI,22.0,Transferência Bancária,24.9
+1074,2023-12-25,Luva de Proteção,Segurança e EPI,50.0,Boleto,19.9
+473,2023-03-21,Tinta Acrílica (18L),Tintas e Acabamento,82.0,Crédito,249.0
+2739,2023-01-12,Argamassa (20kg),Construção e Estrutura,63.0,Crédito,24.9
+2547,2023-01-29,Bomba de água,Hidráulica,54.0,Transferência Bancária,899.0
+45,2023-11-09,Rolo de Pintura,Tintas e Acabamento,36.0,Transferência Bancária,24.9
+290,2023-01-27,Verga Metálica (2m),Construção e Estrutura,84.0,Débito,119.0
+913,2023-01-11,Lixadeira,Ferramentas,78.0,Boleto,389.0
+2084,2023-12-04,Caixa de água (500L),Hidráulica,13.0,Transferência Bancária,799.0
+1361,2023-04-13,Trena,Ferramentas,63.0,Crédito,32.0
+2896,2023-05-19,Cimento (50kg),Construção e Estrutura,82.0,Boleto,39.9
+2604,2023-10-04,Disjuntor,Elétrica,21.0,Pix,45.0
+1227,2023-08-07,Fio Elétrico (100m),Elétrica,26.0,Carteira Digital,3.5
+297,2023-11-18,Trena,Ferramentas,77.0,Transferência Bancária,32.0
+1242,,Tomada,Elétrica,37.0,Boleto,9.9
+1006,2023-04-08,Colete Reflexivo,Segurança e EPI,67.0,Transferência Bancária,39.9
+1666,2023-06-09,Chave de Fenda,Ferramentas,86.0,Dinheiro,24.5
+747,2023-11-07,Chave de Fenda,Ferramentas,42.0,Boleto,24.5
+2852,2023-05-28,Martelo,Ferramentas,10.0,Débito,79.9
+292,2023-11-26,Pá,Jardinagem,1.0,Transferência Bancária,74.9
+782,2023-12-12,Tesoura de Poda,Jardinagem,96.0,Transferência Bancária,59.9
+2145,2023-12-29,Lâmpada LED,Elétrica,96.0,Pix,14.9
+323,2023-07-20,Adubo (5kg),Jardinagem,93.0,Crédito,49.9
+299,2023-09-16,Registro de Água,Hidráulica,37.0,Carteira Digital,54.9
+1299,2023-03-01,Sementes de Grama (1kg),Jardinagem,84.0,Carteira Digital,19.9
+195,2023-10-18,Tomada,Elétrica,72.0,Transferência Bancária,9.9
+64,2023-06-09,Argamassa (20kg),Construção e Estrutura,73.0,Crédito,24.9
+394,2023-11-21,Furadeira,Ferramentas,67.0,Pix,499.9
+728,2023-07-07,Fio Elétrico (100m),Elétrica,90.0,Carteira Digital,3.5
+1584,2023-08-24,Colete Reflexivo,Segurança e EPI,94.0,Pix,39.9
+1548,2023-09-07,Parafusadeira,Ferramentas,69.0,Crédito,429.0
+2426,2023-10-21,Furadeira,Ferramentas,35.0,Boleto,499.9
+15,2023-04-09,Capacete,Segurança e EPI,20.0,Transferência Bancária,49.9
+2568,2023-12-01,Pá,Jardinagem,1.0,Débito,74.9
+1601,2023-11-17,Tomada,Elétrica,40.0,,9.9
+1091,2023-03-12,Protetor Auricular,Segurança e EPI,44.0,Dinheiro,9.9
+2112,2023-12-25,Mangueira Jardim (30m),Jardinagem,5.0,Boleto,69.9
+204,2023-02-19,Óculos de Proteção,Segurança e EPI,56.0,Dinheiro,24.9
+2419,2023-03-06,Bomba de água,Hidráulica,81.0,Carteira Digital,899.0
+153,2023-10-26,Regador (10L),Jardinagem,50.0,Carteira Digital,39.9
+2902,2023-08-25,Lixa (Folha),Tintas e Acabamento,59.0,Crédito,4.9
+1360,2023-11-16,Bloco de Concreto,Construção e Estrutura,50.0,Crédito,6.0
+773,2023-09-18,Selador (5L),Tintas e Acabamento,28.0,Carteira Digital,99.9
+2679,2023-08-19,Disjuntor,Elétrica,82.0,Pix,45.0
+1002,2023-05-06,Mangueira Jardim (30m),Jardinagem,54.0,Transferência Bancária,69.9
