@@ -1,20 +1,33 @@
-# 🧾 Relatório de Tendência Mensal de Vendas
+# 🧾 Relatório de Tendência Mensal de Vendas (Dados Reais)
 
-A análise das vendas mensais de 2023 revelou padrões relevantes no desempenho financeiro e operacional da empresa. A **receita média mensal** foi de cerca de **R$ 6,59 milhões**, enquanto a **quantidade média vendida** atingiu aproximadamente **61.965 unidades**.
+A análise das vendas mensais de 2023, com base nos dados fornecidos, revelou padrões importantes para a estratégia comercial.  
 
-O mês de **março (2023-03)** apresentou o **maior faturamento**, totalizando **R$ 8,6 milhões**, valor 30% superior à média anual. Em contrapartida, **fevereiro (2023-02)** registrou a **menor receita**, com **R$ 4,66 milhões**, indicando um possível efeito sazonal ou retração na demanda do início do ano.
+- **Receita média mensal:** R$ 249,6 mil  
+- **Quantidade média vendida:** 2.526 unidades  
 
-Em termos de volume, o **pico de vendas** ocorreu em **agosto (69.707 unidades)**, evidenciando que o aumento de receita nem sempre está diretamente relacionado à quantidade de produtos vendidos. Março, por exemplo, teve maior faturamento com menor volume, o que sugere a **venda de itens com ticket médio mais elevado**.
+O mês de **março (2023-03)** se destacou com o **maior faturamento**, alcançando R$ 283,6 mil, um valor **13,6% superior à média anual**.  
+Em contrapartida, **outubro (2023-10)** registrou a **menor receita do ano**, com R$ 221,5 mil, sinalizando uma possível necessidade de ações comerciais nesse período.
 
----
+Em termos de volume, o **pico de vendas** ocorreu em **julho (2.746 unidades)**. Isso evidencia que o aumento de receita **não está unicamente atrelado à quantidade de produtos**.  
+Março, por exemplo, teve o maior faturamento com um volume de vendas menor que o de julho, sugerindo a venda de **produtos com maior valor agregado** (ticket médio mais alto) nesse período.
 
 ## 🎯 Oportunidades Estratégicas
 
-- **Reforçar campanhas promocionais em fevereiro**, buscando mitigar o impacto da sazonalidade.  
-- **Fortalecer estoques e ações de marketing em março e agosto**, meses de melhor desempenho histórico.  
-- **Incentivar a comercialização de produtos de maior valor agregado**, garantindo receita elevada mesmo com menor volume.  
-- **Ajustar o planejamento logístico e produtivo**, considerando os padrões mensais identificados.
+1. **Analisar o desempenho de outubro:**  
+   - Identificar as causas da queda (sazonalidade, mix de produtos, campanhas)  
+   - Planejar ações promocionais para reverter o cenário
 
----
+2. **Capitalizar o bom desempenho de março e julho:**  
+   - Fortalecer o estoque dos produtos que mais venderam nesses meses  
+   - Replicar as estratégias de marketing bem-sucedidas
 
-De forma geral, a empresa demonstra **crescimento consistente ao longo do ano**, com espaço para otimização por meio de **estratégias sazonais, gestão de mix de produtos e ações de marketing direcionadas**. A consolidação dessas práticas pode ampliar a rentabilidade e a eficiência operacional nos próximos períodos.
+3. **Aumentar o ticket médio nos meses de menor faturamento:**  
+   - Incentivar a venda de produtos de maior valor agregado, seguindo o modelo de sucesso observado em março
+
+4. **Ajustar planejamento de estoque e logística:**  
+   - Basear-se nas flutuações mensais de demanda identificadas  
+   - Evitar excessos ou rupturas
+
+De forma geral, a análise revela **flutuações mensais claras**, mas com uma **base de receita estável**.  
+As oportunidades residem na **otimização de estratégias sazonais**, na **gestão do mix de produtos para elevar o ticket médio** e em **ações de marketing direcionadas aos períodos de baixa**.  
+A aplicação desses insights pode **impulsionar a rentabilidade e a eficiência operacional**.
