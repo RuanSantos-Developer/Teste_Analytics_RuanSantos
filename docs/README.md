@@ -178,9 +178,11 @@ Confira o relatório completo em docs/relatorio_insights.md
 # 📊 Visualizações
 ### As principais visualizações geradas incluem:
 
- - Tendência de Vendas Mensais: Gráfico de linha mostrando evolução das vendas por quantidade
+ - Tendência de Vendas Mensais: Gráfico de linha mostrando evolução das vendas mensais por quantidade
 
- - Tendência de Vendas Mensais: Gráfico de linha mostrando evolução das vendas por receita
+ - Tendência de Vendas Mensais: Gráfico de linha mostrando evolução das vendas mensais por receita
+
+ - Vendas mensais por categoria: Mapa de calor mostrando as vendas mensais por receita 
 
 **Todas as visualizações estão disponíveis em visualizacoes.ipynb**
 
